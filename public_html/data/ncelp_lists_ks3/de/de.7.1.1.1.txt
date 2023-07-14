@@ -1,0 +1,12 @@
+7.1.1.1_sein	7.1.1.1_ist
+7.1.1.1_Flasche
+7.1.1.1_Fenster
+7.1.1.1_Heft
+7.1.1.1_Tafel
+7.1.1.1_Tisch
+7.1.1.1_da
+7.1.1.1_hier
+7.1.1.1_wo
+7.1.1.1_der	7.1.1.1_die	7.1.1.1_das
+7.1.1.1_Hallo
+7.1.1.1_Tschüs	7.1.1.1_Tschüss

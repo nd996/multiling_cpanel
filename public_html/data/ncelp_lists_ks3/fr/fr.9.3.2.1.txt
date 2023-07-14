@@ -1,0 +1,857 @@
+7.1.1.1_être	7.1.1.1_etre	7.1.1.1_es	7.1.1.2_est	7.1.1.1_suis	7.2.1.2_êtes	7.2.1.2_etes	7.2.1.2_sommes	7.2.1.2_sont
+7.1.1.1_je	7.1.1.1_-je	7.1.1.3_j
+7.1.1.1_tu	7.1.1.1_-tu
+7.1.1.1_anglais	7.1.1.1_anglaise	7.2.1.2_anglaises
+7.1.1.1_français	7.1.1.1_française	7.2.1.2_françaises
+7.1.1.1_grand	7.1.1.1_grande	7.2.1.2_grands	7.2.1.2_grandes
+7.1.1.1_petit	7.1.1.1_petite	7.2.1.2_petits	7.2.1.2_petites
+7.1.1.1_et
+7.1.1.1_bonjour
+7.1.1.1_lire	8.3.1.5_lis	8.3.1.5_lit	8.3.1.5_lisons	8.3.1.5_lisez	8.3.1.5_lisent	9.2.2.2_lisais	9.2.2.2_lisait
+7.1.1.1_écrire	7.1.1.1_ecrire	8.3.1.5_écris	8.3.1.5_écrit	8.3.1.5_ecris	8.3.1.5_ecrit	8.3.1.5_écrivons	8.3.1.5_écrivez	8.3.1.5_écrivent	8.3.1.5_ecrivons	8.3.1.5_ecrivez	8.3.1.5_ecrivent	9.2.2.2_écrivais	9.2.2.2_écrivait	9.2.2.2_ecrivais	9.2.2.2_ecrivait
+7.1.1.1_écouter	7.1.1.1_ecouter	7.1.2.3_écoute	7.1.2.3_écoutes	7.1.2.3_ecoute	7.1.2.3_ecoutes	7.1.2.5_écoutons	7.1.2.5_ecoutons	7.1.2.6_écoutent	7.1.2.6_ecoutent	7.1.2.7_écoutez	7.1.2.7_ecoutez	8.1.2.1_écouté	8.1.2.1_ecouté	9.2.2.1_écoutais	9.2.2.1_écoutait	9.2.2.1_ecoutais	9.2.2.1_ecoutait
+7.1.1.1_parler	7.1.2.3_parle	7.1.2.3_parles	7.1.2.5_parlons	7.1.2.6_parlent	7.1.2.7_parlez	8.1.2.1_parlé	9.2.2.1_parlais	9.2.2.1_parlait
+7.1.1.2_triste	7.1.1.2_tristes
+7.1.1.2_amusant	7.1.1.2_amusante	7.2.1.2_amusants	7.2.1.2_amusantes
+7.1.1.2_calme	7.1.1.2_calmes
+7.1.1.2_content	7.1.1.2_contente	7.2.1.2_contents	7.2.1.2_contentes
+7.1.1.2_intelligent	7.1.1.2_intelligente	7.2.1.2_intelligents	7.2.1.2_intelligentes
+7.1.1.2_mais
+7.1.1.2_malade	7.1.1.2_malades
+7.1.1.2_méchant	7.1.1.2_méchante	7.2.1.2_méchants	7.2.1.2_méchantes
+7.1.1.2_merci
+7.1.1.2_ou
+7.1.1.2_il
+7.1.1.2_elle
+7.1.1.3_avoir	7.1.1.3_ai	7.1.1.3_a	7.1.1.4_as	7.2.1.3_avons	7.2.1.3_avez	7.2.1.3_ont	8.3.2.6_eu
+7.1.1.3_ce	7.1.1.3_-ce	7.1.1.3_c	7.1.1.3_c	8.1.2.2_cet	8.1.2.2_cette	8.1.2.2_ces
+7.1.1.3_animal	8.2.2.3_animaux
+7.1.1.3_chambre	7.1.1.6_chambres
+7.1.1.3_chien	7.1.1.6_chiens
+7.1.1.3_chose	7.1.1.6_choses
+7.1.1.3_idée	7.1.1.6_idées
+7.1.1.3_portable	7.1.1.6_portables
+7.1.1.3_règle	7.1.1.6_règles
+7.1.1.3_un	7.1.1.3_une
+7.1.1.3_qui
+7.1.1.3_bon	7.2.1.2_bons	7.3.1.6_bonne	7.3.1.6_bonnes
+7.1.1.4_ordinateur	7.1.1.6_ordinateurs
+7.1.1.4_vélo	7.1.1.6_vélos
+7.1.1.4_voiture	7.1.1.6_voitures
+7.1.1.4_cher	7.1.1.4_chère	7.2.1.2_chers	7.2.1.2_chères
+7.1.1.4_moderne	7.2.1.2_modernes
+7.1.1.4_rapide	7.2.1.2_rapides
+7.1.1.4_livre	7.1.1.6_livres
+7.1.1.4_oui
+7.1.1.4_non
+7.1.1.4_voici
+7.1.1.5_ami	7.1.1.5_amie	7.1.1.6_amis	7.1.1.6_amies
+7.1.1.5_chanteur	7.1.1.5_chanteuse	7.1.1.6_chanteurs	7.1.1.6_chanteuses
+7.1.1.5_femme	7.1.1.6_femmes
+7.1.1.5_homme		7.1.1.6_hommes
+7.1.1.5_professeur	7.1.1.5_professeure	7.1.1.5_prof	7.1.1.6_professeurs	7.1.1.6_professeures	7.1.1.6_profs
+7.1.1.5_drôle	7.2.1.2_drôles
+7.1.1.5_intéressant	7.1.1.5_intéressante	7.2.1.2_intéressants	7.2.1.2_intéressantes
+7.1.1.5_faux
+7.1.1.5_sympa	7.1.1.5_sympathique	7.2.1.2_sympas	7.2.1.2_sympathiques
+7.1.1.5_vrai
+7.1.1.6_acteur	7.1.1.6_acteurs	7.1.1.6_actrice	7.1.1.6_actrices
+7.1.1.6_fille	7.1.1.6_filles
+7.1.1.6_garçon	7.1.1.6_garçons
+7.1.1.6_médecin	7.1.1.6_médecins
+7.1.1.6_mot	7.1.1.6_mots
+7.1.1.6_personne	7.1.1.6_personnes
+7.1.1.6_phrase	7.1.1.6_phrases
+7.1.1.6_le	7.1.1.6_-le	7.1.1.6_la	7.1.1.6_-la	7.1.1.6_les	7.1.1.6_l	9.3.1.3_-le	9.3.1.3-la
+7.1.1.6_en
+7.1.1.7_faire	7.1.1.7_fais	7.1.1.7_fait	7.2.1.4_faisons	7.2.1.4_faites	7.2.1.4_font
+7.1.1.7_ça
+7.1.1.7_activité	7.1.1.7_activités
+7.1.1.7_courses
+7.1.1.7_cuisine
+7.1.1.7_devoirs
+7.1.1.7_lit	7.1.1.7_lits
+7.1.1.7_ménage	7.1.1.7_ménages
+7.1.1.7_modèle	7.1.1.7_modèles
+7.1.1.7_quoi
+7.1.2.1_ciel	7.1.2.1_ciels
+7.1.2.1_couleur	7.1.2.1_couleurs
+7.1.2.1_rêve	7.1.2.1_rêves
+7.1.2.1_vague	7.1.2.1_vagues
+7.1.2.1_bleu	7.1.2.1_bleue	7.2.1.2_bleus	7.2.1.2_bleues
+7.1.2.1_jaune	7.2.1.2_jaunes
+7.1.2.1_rouge	7.2.1.2_rouges
+7.1.2.1_vert	7.1.2.1_verte	7.2.1.2_verts	7.2.1.2_vertes
+7.1.2.1_comme
+7.1.2.1_poème	7.1.2.1_poèmes
+7.1.2.1_poète	7.1.2.1_poètes
+7.1.2.2_bateau	8.2.2.3_bateaux
+7.1.2.2_magasin	7.1.2.2_magasins
+7.1.2.2_numéro	7.1.2.2_numéros
+7.1.2.2_promenade	7.1.2.2_promenades
+7.1.2.2_question	7.1.2.2_questions
+7.1.2.2_réponse	7.1.2.2_réponses
+7.1.2.2_voyage	7.1.2.2_voyages
+7.1.2.2_beau	7.3.1.5_belle	7.3.1.5_belles	8.2.2.3_beaux
+7.1.2.2_mauvais	7.1.2.2_mauvaise	7.2.1.2_mauvaises
+7.1.2.2_visite	7.1.2.2_visites
+7.1.2.2_de	7.2.1.1_des	7.3.1.1_d	8.1.2.6_du
+7.1.2.2_Paris
+7.1.2.2_Londres
+7.1.2.3_aimer	7.1.2.3_aime	7.1.2.3_aimes	7.1.2.5_aimons	7.1.2.6_aiment	7.1.2.7_aimez	8.1.2.1_aimé	9.2.2.1_aimais	9.2.2.1_aimait
+7.1.2.3_cocher	7.1.2.3_coche	7.1.2.3_coches	7.1.2.5_cochons	7.1.2.6_cochent	7.1.2.7_cochez	8.1.2.1_coché	9.2.2.1_cochais	9.2.2.1_cochait
+7.1.2.3_passer	7.1.2.3_passe	7.1.2.3_passes	7.1.2.5_passons	7.1.2.6_passent	7.1.2.7_passez	8.1.2.1_passé	9.2.2.1_passais	9.2.2.1_passait
+7.1.2.3_porter	7.1.2.3_porte	7.1.2.3_portes	7.1.2.5_portons	7.1.2.6_portent	7.1.2.7_portez	8.1.2.1_porté	9.2.2.1_portais	9.2.2.1_portait
+7.1.2.3_rester	7.1.2.3_reste	7.1.2.3_restes	7.1.2.5_restons	7.1.2.6_restent	7.1.2.7_restez	8.1.2.1_resté	9.2.1.2_restée	9.2.1.3_restés	9.2.1.3_restées	9.2.2.1_restais	9.2.2.1_restait
+7.1.2.3_trouver	7.1.2.3_trouve	7.1.2.3_trouves	7.1.2.5_trouvons	7.1.2.6_trouvent	7.1.2.7_trouvez	8.1.2.1_trouvé	9.2.2.1_trouvais	9.2.2.1_trouvait
+7.1.2.3_école	7.1.2.3_écoles	7.1.2.3_ecole	7.1.2.3_ecoles
+7.1.2.3_moment	7.1.2.3_moments
+7.1.2.3_semaine	7.1.2.3_semaines
+7.1.2.3_solution	7.1.2.3_solutions
+7.1.2.3_uniforme	7.1.2.3_uniformes
+7.1.2.3_chaque
+7.1.2.3_à	7.1.2.3_a	7.2.2.1_au	7.2.2.2_aux
+7.1.2.3_avec
+7.1.2.4_demander	7.1.2.4_demande	7.1.2.4_demandes	7.1.2.5_demandons	7.1.2.6_demandent	7.1.2.7_demandez	8.1.2.1_demandé	9.2.2.1_demandais	9.2.2.1_demandait
+7.1.2.4_donner	7.1.2.4_donne	7.1.2.4_donnes	7.1.2.5_donnons	7.1.2.6_donnent	7.1.2.7_donnez	8.1.2.1_donné	9.2.2.1_donnais	9.2.2.1_donnait
+7.1.2.4_montrer	7.1.2.4_montre	7.1.2.4_montres	7.1.2.5_montrons	7.1.2.6_montrent	7.1.2.7_montrez	8.1.2.1_montré	9.2.2.1_montais	9.2.2.1_montait
+7.1.2.4_penser	7.1.2.4_pense	7.1.2.4_penses	7.1.2.5_pensons	7.1.2.6_pensent	7.1.2.7_pensez	8.1.2.1_pensé	9.2.2.1_pensais	9.2.2.1_pensait
+7.1.2.4_cadeau	8.2.2.3_cadeaux
+7.1.2.4_exemple	7.1.2.4_exemples
+7.1.2.4_raison	7.1.2.4_raisons
+7.1.2.4_normalement
+7.1.2.4_que	7.1.2.4_qu
+7.1.2.5_manger	7.1.2.5_mange	7.1.2.5_manges	7.1.2.5_mangeons	7.1.2.6_mangent	7.1.2.7_mangez	8.1.2.1_mangé	9.2.2.1_mangeais	9.2.2.1_mangeait
+7.1.2.5_marcher	7.1.2.5_marche	7.1.2.5_marches	7.1.2.5_marchons	7.1.2.6_marchent	7.1.2.7_marchez	8.1.2.1_marché	9.2.2.1_marchais	9.2.2.1_marchait
+7.1.2.5_préparer	7.1.2.5_prépare	7.1.2.5_prépares	7.1.2.5_préparons	7.1.2.6_préparent	7.1.2.7_préparez	8.1.2.1_préparé	9.2.2.1_préparais	9.2.2.1_préparait
+7.1.2.5_regarder	7.1.2.5_regarde	7.1.2.5_regardes	7.1.2.5_regardons	7.1.2.6_regardent	7.1.2.7_regardez	8.1.2.1_regardé	9.2.2.1_regardais	9.2.2.1_regardait
+7.1.2.5_travailler	7.1.2.5_travaille	7.1.2.5_travailles	7.1.2.5_travaillons	7.1.2.6_travaillent	7.1.2.7_travaillez	8.1.2.1_travaillé	9.2.2.1_travaillais	9.2.2.1_travaillait
+7.1.2.5_nous	7.1.2.5_-nous
+7.1.2.5_déjeuner	7.1.2.5_déjeuners
+7.1.2.5_film	7.1.2.5_films
+7.1.2.5_maison	7.1.2.5_maisons
+7.1.2.5_partenaire	7.1.2.5_partenaires
+7.1.2.5_télé	7.1.2.5_télés	7.1.2.5_télévision	7.1.2.5_télévisions
+7.1.2.5_dehors
+7.1.2.5_préféré	7.1.2.5_préférée	7.2.1.2_préférés	7.2.1.2_préférées
+7.1.2.6_chanter	7.1.2.6_chante	7.1.2.6_chantes	7.1.2.6_chantons	7.1.2.6_chantent	7.1.2.7_chantez	8.1.2.1_chanté	9.2.2.1_chantais	9.2.2.1_chantait
+7.1.2.6_étudier	7.1.2.6_étudies	7.1.2.6_étudie	7.1.2.6_étudions	7.1.2.6_étudient	7.1.2.7_étudiez	7.1.2.6_etudier	7.1.2.6_etudies	7.1.2.6_etudie	7.1.2.6_etudions	7.1.2.6_etudient	7.1.2.7_etudiez	8.1.2.1_étudié	8.1.2.1_etudié	9.2.2.1_étudiais	9.2.2.1_étudiait	9.2.2.1_etudiais	9.2.2.1_etudiait
+7.1.2.6_jouer	7.1.2.6_joue	7.1.2.6_joues	7.1.2.6_jouons	7.1.2.6_jouent	8.1.2.1_joué	9.2.2.1_jouais	9.2.2.1_jouait
+7.1.2.6_ils	7.1.2.6_-ils
+7.1.2.6_elles	7.1.2.6_-elles
+7.1.2.6_fruit	7.1.2.6_fruits
+7.1.2.6_histoire	7.1.2.6_histoires
+7.1.2.6_radio	7.1.2.6_radios
+7.1.2.6_élève	7.1.2.6_élèves	7.1.2.6_elève	7.1.2.6_elèves
+7.1.2.6_ensemble
+7.1.2.7_fermer	7.1.2.7_ferme	7.1.2.7_fermes	7.1.2.7_fermons	7.1.2.7_fermez	7.1.2.7_ferment	8.1.2.1_fermé	9.2.2.1_fermais	9.2.2.1_fermait
+7.1.2.7_vous	7.1.2.7_-vous
+7.1.2.7_chemise	7.1.2.7_chemises
+7.1.2.7_classe	7.1.2.7_classes
+7.1.2.7_fenêtre	7.1.2.7_fenêtres
+7.1.2.7_porte	7.1.2.7_portes
+7.1.2.7_salle	7.1.2.7_salles
+7.1.2.7_silence	7.1.2.7_silences
+7.1.2.7_tableau	8.2.2.3_tableaux
+7.1.2.7_bien
+7.2.1.1_cinq
+7.2.1.1_deux
+7.2.1.1_dix
+7.2.1.1_douze
+7.2.1.1_huit
+7.2.1.1_neuf
+7.2.1.1_onze
+7.2.1.1_quatre
+7.2.1.1_sept
+7.2.1.1_six
+7.2.1.1_trois
+7.2.1.2_frère	7.2.1.2_frères
+7.2.1.2_parent	7.2.1.2_parents	7.2.1.2_parente	7.2.1.2_parentes
+7.2.1.2_sœur	7.2.1.2_sœurs	7.2.1.2_soeur	7.2.1.2_soeurs
+7.2.1.2_jeune	7.2.1.2_jeunes
+7.2.1.2_ouvert	7.2.1.2_ouverte	7.2.1.2_ouverts	7.2.1.2_ouvertes
+7.2.1.2_sage	7.2.1.2_sages
+7.2.1.2_strict	7.2.1.2_stricte	7.2.1.2_stricts	7.2.1.2_strictes
+7.2.1.3_enfant	7.2.1.3_enfants
+7.2.1.3_famille	7.2.1.3_familles
+7.2.1.3_problème	7.2.1.3_problèmes
+7.2.1.3_difficile	7.2.1.3_difficiles
+7.2.1.3_ici
+7.2.1.3_très
+7.2.1.3_aussi
+7.2.1.3_pour
+7.2.1.3_dans
+7.2.1.4_quoi
+7.2.1.4_d'accord	d’accord
+7.2.1.4_aujourd'hui	aujourd’hui
+7.2.1.4_attention	7.2.1.4_attentions
+7.2.1.4_effort	7.2.1.4_efforts
+7.2.1.4_exercice	7.2.1.4_exercices
+7.2.1.4_fête	7.2.1.4_fêtes
+7.2.1.4_liste	7.2.1.4_listes
+7.2.1.5_mon	7.2.1.5_ma	7.2.1.5_mes
+7.2.1.5_ton	7.2.1.5_ta	7.2.1.5_tes
+7.2.2.1_aller	7.2.2.1_va	7.2.2.1_vais	7.2.2.1_vas	7.2.2.4_allons	7.2.2.4_allez	7.2.2.4_vont	9.2.1.2_allé	9.2.1.2_allée	9.2.1.3_allés	9.2.1.3_allées
+7.2.2.1_caisse	7.2.2.1_caisses
+7.2.2.1_collège	7.2.2.1_collèges
+7.2.2.1_jour	7.2.2.1_jours
+7.2.2.1_parc	7.2.2.1_parcs
+7.2.2.1_poste	7.2.2.1_postes
+7.2.2.1_samedi	7.2.2.1_samedis
+7.2.2.1_train	7.2.2.1_trains
+7.2.2.1_où
+7.2.2.1_comment
+7.2.2.1_quand
+7.2.2.2_aéroport	7.2.2.2_aéroports
+7.2.2.2_étranger	7.2.2.2_etranger
+7.2.2.2_hôtel	7.2.2.2_hôtels
+7.2.2.2_île	7.2.2.2_îles	7.2.2.2_ile	7.2.2.2_iles
+7.2.2.2_université	7.2.1.2_universités
+7.2.2.2_rarement
+7.2.2.2_souvent
+7.2.2.2_États-Unis	7.2.2.2_Etats-Unis
+7.2.2.3_tuer	7.2.2.3_tue	7.2.2.3_tues	7.2.2.3_tuons	7.2.2.3_tuent	7.2.2.3_tuez	8.1.2.1_tué	9.2.2.1_tuais	9.2.2.1_tuait
+7.2.2.3_affaire	7.2.2.3_affaires
+7.2.2.3_fils
+7.2.2.3_guerre	7.2.2.3_guerres
+7.2.2.3_mère	7.2.2.3_mères
+7.2.2.3_père	7.2.2.3_pères
+7.2.2.3_vie	7.2.2.3_vies
+7.2.2.3_naturel	7.2.2.3_naturelle	7.2.2.3_naturels	7.2.2.3_naturelles
+7.2.2.3_heureux	7.2.2.3_heureuse	7.2.2.3_heureuses
+7.2.2.3_absolument
+7.2.2.3_contre
+7.2.2.4_année	7.2.2.4_années
+7.2.2.4_mois
+7.2.2.4_vacances
+7.2.2.4_ville	7.2.2.4_villes
+7.2.2.4_Écosse	7.2.2.4_Ecosse
+7.2.2.4_Angleterre
+7.2.2.4_France
+7.2.2.4_chez
+7.2.2.5_arriver	7.2.2.5_arrive	7.2.2.5_arrives	7.2.2.5_arrivons	7.2.2.5_arrivez	7.2.2.5_arrivent	8.1.2.1_arrivé	9.2.1.2_arrivée	9.2.1.3_arrivés	9.2.1.3_arrivées	9.2.2.1_arrivais	9.2.2.1_arrivait
+7.2.2.5_changer	7.2.2.5_change	7.2.2.5_changes	7.2.2.5_change	7.2.2.5_changeons	7.2.2.5_changez	7.2.2.5_changent	8.1.2.1_changé	9.2.2.1_changeais	9.2.2.1_changeait
+7.2.2.5_créer	7.2.2.5_crée	7.2.2.5_crées	7.2.2.5_créons	7.2.2.5_créez	7.2.2.5_créent	8.1.2.1_créé	9.2.2.1_créais	9.2.2.1_créait
+7.2.2.5_gagner	7.2.2.5_gagne	7.2.2.5_gagnes	7.2.2.5_gagnons	7.2.2.5_gagnez	7.2.2.5_gagnent	8.1.2.1_gagné	9.2.2.1_gagnais	9.2.2.1_gagnait
+7.2.2.5_habiter	7.2.2.5_habite	7.2.2.5_habites	7.2.2.5_habitons	7.2.2.5_habitez	7.2.2.5_habitent	8.1.2.1_habité	9.2.2.1_habitais	9.2.2.1_habitait
+7.2.2.5_monde	7.2.2.5_mondes
+7.2.2.5_pays
+7.2.2.5_politique	7.2.2.5_politiques
+7.2.2.5_vêtements
+7.3.1.1_apprendre	7.3.1.1_apprends	7.3.1.1_apprend	8.3.1.2_apprenons	8.3.1.2_apprenez	8.3.1.2_apprennent	8.3.2.6_appris	9.2.2.1_apprenais	9.2.2.1_apprenait
+7.3.1.1_comprendre	7.3.1.1_comprends	7.3.1.1_comprend	8.3.1.2_comprenons	8.3.1.2_comprenez	8.3.1.2_comprennent	8.3.2.6_compris	9.2.2.1_comprenais	9.2.2.1_comprenait
+7.3.1.1_dire	7.3.1.1_dis	7.3.1.1_dit	8.3.2.1_disons	8.3.2.1_dites	8.3.2.1_disez	9.2.2.1_disais	9.2.2.1_disait
+7.3.1.1_prendre	7.3.1.1_prend	7.3.1.1_prends	8.3.1.2_prenons	8.3.1.2_prenez	8.3.1.2_prennent	8.3.2.6_pris	9.2.2.1_prenais	9.2.2.1_prenait
+7.3.1.1_erreur	7.3.1.1_erreurs
+7.3.1.1_vérité	7.3.1.1_vérités
+7.3.1.1_facile	7.3.1.1_faciles
+7.3.1.2_sortir	7.3.1.2_sors	7.3.1.2_sort	8.2.1.5_sortons	8.2.1.5_sortez	8.2.1.5_sortent	9.2.2.1_sortais	9.2.2.1_sortait	9.3.2.1_sortie	9.3.2.1_sortis	9.3.2.1_sorties
+7.3.1.2_venir	7.3.1.2_viens	7.3.1.2_vient	8.2.1.5_venons	8.2.1.5_venez	8.2.1.5_viennent	9.2.2.1_venais	9.2.2.1_venait
+7.3.1.2_revenir	7.3.1.2_reviens	7.3.1.2_revient	8.2.1.5_revenons	8.2.1.5_revenez	8.2.1.5_reviennent	9.2.2.1_revenais	9.2.2.1_revenait
+7.3.1.2_devenir	7.3.1.2_deviens	7.3.1.2_devient	8.2.1.5_devenons	8.2.1.5_devenez	8.2.1.5_deviennent	9.2.2.1_devenais	9.2.2.1_devenait
+7.3.1.2_important	7.3.1.2_importante	7.3.1.2_importants	7.3.1.2_importantes
+7.3.1.2_algérien	7.3.1.2_algériens	7.3.1.2_algérienne	7.3.1.2_algériennes
+7.3.1.2_Algérie
+7.3.1.2_Alger
+7.3.1.3_langue	7.3.1.3_langues
+7.3.1.3_matière	7.3.1.3_matières
+7.3.1.3_quel	7.3.1.3_quelle	8.1.2.7_quels	8.1.2.7_quelles
+7.3.1.3_combien
+7.3.1.3_maths
+7.3.1.3_science	7.3.1.3_sciences
+7.3.1.3_musique	7.3.1.3_musiques
+7.3.1.3_nom	7.3.1.3_noms
+7.3.1.3_pourquoi
+7.3.1.3_parce
+7.3.1.4_dormir	7.3.1.4_dors	7.3.1.4_dort	8.2.1.5_dormons	8.2.1.5_dormez	8.2.1.5_dorment	9.2.2.1_dormais	9.2.2.1_dormait	9.3.2.1_dormi
+7.3.1.4_ne	7.3.1.4_n
+7.3.1.4_pas
+7.3.1.4_bureau	8.2.2.3_bureaux
+7.3.1.4_équipe	7.3.1.4_équipes	7.3.1.4_equipe	7.3.1.4_equipes
+7.3.1.4_parfois
+7.3.1.4_sous
+7.3.1.4_sur
+7.3.1.5_café	7.3.1.5_cafés
+7.3.1.5_cinéma	7.3.1.5_cinémas
+7.3.1.5_plage	7.3.1.5_plages
+7.3.1.5_rue	7.3.1.5_rues
+7.3.1.5_devant
+7.3.1.5_derrière
+7.3.1.5_entre
+7.3.1.6_énorme	7.3.1.6_énormes	7.3.1.6_enorme	7.3.1.6_enormes
+7.3.1.6_haut	7.3.1.6_haute	7.3.1.5_hauts	7.3.1.5_hautes
+7.3.1.6_nouveau	7.3.1.6_nouvelle	7.3.1.6_nouvelles	8.2.2.3_nouveaux
+7.3.1.6_vieux	7.3.1.6_vieille	7.3.1.6_vieilles
+7.3.1.6_bâtiment	7.3.1.6_bâtiments
+7.3.1.6_église	7.3.1.6_églises	7.3.1.6_eglise	7.3.1.6_eglises
+7.3.1.6_pont	7.3.1.6_ponts
+7.3.1.6_jardin	7.3.1.6_jardins
+7.3.2.3_partir	7.3.2.3_pars	7.3.2.3_part	8.2.1.5_partons	8.2.1.5_partez	8.2.1.5_partent	9.2.2.1_partais	9.2.2.1_partait	9.3.2.1_parti	9.3.2.1_partie	9.3.2.1_partis	9.3.2.1_parties
+7.3.2.3_avenir	7.3.2.3_avenirs
+7.3.2.3_match	7.3.2.3_matchs
+7.3.2.3_madame	7.3.2.3_madames
+7.3.2.3_monsieur
+7.3.2.3_encore
+7.3.2.3_tôt
+7.3.2.4_avion	7.3.2.4_avions
+7.3.2.4_lettre	7.3.2.4_lettres
+7.3.2.4_Italie
+7.3.2.4_allemand	7.3.2.4_allemande	7.3.2.4_allemands	7.3.2.4_allemandes
+7.3.2.4_différent	7.3.2.4_différente	7.3.2.4_différents	7.3.2.4_différentes
+7.3.2.4_prochain	7.3.2.4_prochains	7.3.2.4_prochaine	7.3.2.4_prochaines
+7.3.2.4_bientôt
+7.3.2.4_demain
+7.3.2.4_Allemagne
+7.3.2.5_vouloir	7.3.2.5_veux	7.3.2.5_veut	9.1.1.4_voulons	9.1.1.4_voulez	9.1.1.4_veulent
+7.3.2.5_devoir	7.3.2.5_dois	7.3.2.5_doit	9.1.1.4_devons	9.1.1.4_devez	9.1.1.4_doivent
+7.3.2.5_visiter	7.3.2.5_visite	7.3.2.5_visites	7.3.2.5_visitons	7.3.2.5_visitez	7.3.2.5_visitent	8.1.2.1_visité	9.2.2.1_visitais	9.2.2.1_visitait
+7.3.2.5_billet	7.3.2.5_billets
+7.3.2.6_aider	7.3.2.6_aide	7.3.2.6_aides	7.3.2.6_aidons	7.3.2.6_aidez	7.3.2.6_aident	8.1.2.1_aidé	9.2.2.1_aidais	9.2.2.1_aidait
+7.3.2.6_chercher	7.3.2.6_cherche	7.3.2.6_cherches	7.3.2.6_cherchons	7.3.2.6_cherchez	7.3.2.6_cherchent	8.1.2.1_cherché	9.2.2.1_cherchais	9.2.2.1_cherchait
+7.3.2.6_partager	7.3.2.6_partage	7.3.2.6_partages	7.3.2.6_partageons	7.3.2.6_partagez	7.3.2.6_partagent	8.1.2.1_partagé	9.2.2.1_partageais	9.2.2.1_partageait
+7.3.2.6_pouvoir	7.3.2.6_peut	7.3.2.6_peux	9.1.1.4_pouvons	9.1.1.4_pouvez	9.1.1.4_peuvent
+7.3.2.6_savoir	7.3.2.6_sais	7.3.2.6_sait	9.1.1.4_savons	9.1.1.4_savez	9.1.1.4_savent
+7.3.2.6_projet	7.3.2.6_projets
+7.3.2.6_désolé	7.3.2.6_désolés	7.3.2.6_désolée	7.3.2.6_désolées
+7.3.2.6_peut-être
+7.3.2.7_frapper	7.3.2.7_frappe	7.3.2.7_frappes	7.3.2.7_frappons	7.3.2.7_frappent	7.3.2.7_frappez	8.1.2.1_frappé	9.2.2.1_frappais	9.2.2.1_frappait
+7.3.2.7_ressembler	7.3.2.7_ressembles	7.3.2.7_ressemble	7.3.2.7_ressemblons	7.3.2.7_ressemblent	7.3.2.7_ressemblez	8.1.2.1_ressemblé	9.2.2.1_ressemblais	9.2.2.1_ressemblait
+7.3.2.7_cœur	7.3.2.7_cœurs	7.3.2.7_coeur	7.3.2.7_coeurs
+7.3.2.7_temps
+7.3.2.7_noir	7.3.2.7_noire	7.3.2.7_noirs	7.3.2.7_noires
+7.3.2.7_blanc	7.3.2.7_blancs	7.3.2.7_blanche	7.3.2.7_blanches
+7.3.2.7_si	7.3.2.7_s
+8.1.1.2_avocat	8.1.1.2_avocate	8.1.1.2_avocats	8.1.1.2_avocates
+8.1.1.2_directeur	8.1.1.2_directrice	8.1.1.2_directeurs	8.1.1.2_directrices
+8.1.1.2_emploi	8.1.1.2_emplois
+8.1.1.2_facteur	8.1.1.2_factrice	8.1.1.2_facteurs	8.1.1.2_factrices
+8.1.1.2_secrétaire	8.1.1.2_secrétaires
+8.1.1.2_ambitieux	8.1.1.2_ambitieuse	8.1.1.2_ambitieuses
+8.1.1.2_prudent	8.1.1.2_prudente	8.1.1.2_prudents	8.1.1.2_prudentes
+8.1.1.2_travailleur	8.1.1.2_travailleuse	8.1.1.2_travailleurs	8.1.1.2_travailleuses
+8.1.1.2_assez
+8.1.1.4_célébrer	8.1.1.4_célèbre	8.1.1.4_célèbres	8.1.1.4_célébrons	8.1.1.4_célébrez	8.1.1.4_célèbrent	8.1.2.1_célébré	9.2.2.1_célébrais	9.2.2.1_célébrait
+8.1.1.4_préférer	8.1.1.4_préfère	8.1.1.4_préfères	8.1.1.4_préférons	8.1.1.4_préférez	8.1.1.4_préfèrent	8.1.2.1_préféré	9.2.2.1_préférais	9.2.2.1_préférait
+8.1.1.4_on	8.1.1.4_-on
+8.1.1.4_date	8.1.1.4_dates
+8.1.1.4_juin	8.1.1.4_juins
+8.1.1.4_mars
+8.1.1.4_mai	8.1.1.4_mais
+8.1.1.4_tradition	8.1.1.4_traditions
+8.1.1.4_avril	8.1.1.4_avrils
+8.1.1.4_événement	8.1.1.4_événements	8.1.1.4_evénement	8.1.1.4_evénements
+8.1.1.4_février	8.1.1.4_févriers
+8.1.1.4_janvier	8.1.1.4_janviers
+8.1.1.4_premier	8.1.1.4_première	8.1.1.4_premiers	8.1.1.4_premières
+8.1.1.4_treize
+8.1.1.4_quatorze
+8.1.1.4_quinze
+8.1.1.4_seize
+8.1.1.4_vingt
+8.1.1.4_trente
+8.1.1.4_dix-sept
+8.1.1.4_dix-huit
+8.1.1.4_dix-neuf
+8.1.1.4_vingt-et-un
+8.1.1.4_vingt-deux
+8.1.1.4_vingt-trois
+8.1.1.4_vingt-quatre
+8.1.1.4_vingt-cinq
+8.1.1.4_vingt-six
+8.1.1.4_vingt-sept
+8.1.1.4_vingt-huit
+8.1.1.4_vingt-neuf
+8.1.1.4_trente-et-un
+8.1.1.6_son	8.1.1.6_sa	8.1.1.6_ses
+8.1.1.6_notre	8.1.1.6_nos
+8.1.1.6_organiser	8.1.1.6_organise	8.1.1.6_organises	8.1.1.6_organisons	8.1.1.6_organisez	8.1.1.6_organisent	8.1.2.1_organisé	9.2.2.1_organisais	9.2.2.1_organisait
+8.1.1.6_chacun
+8.1.1.6_anniversaire	8.1.1.6_anniversaires
+8.1.1.6_août	8.1.1.6_aoûts
+8.1.1.6_décembre	8.1.1.6_décembres
+8.1.1.6_septembre	8.1.1.6_septembres
+8.1.1.6_octobre	8.1.1.6_octobres
+8.1.1.6_novembre	8.1.1.6_novembres
+8.1.1.6_juillet	8.1.1.6_juillets
+8.1.1.6_général	8.1.1.6_générale	8.1.1.6_générales	8.2.2.3_généraux
+8.1.1.6_national	8.1.1.6_nationale	8.1.1.6_nationales	8.2.2.3_nationaux
+8.1.1.6_partout
+8.1.2.1_apporter	8.1.2.1_apporte	8.1.2.1_apportes	8.1.2.1_apportons	8.1.2.1_apportez	8.1.2.1_apportent	8.1.2.1_apporté	9.2.2.1_apportais	9.2.2.1_apportait
+8.1.2.1_envoyer	8.1.2.1_envoie	8.1.2.1_envoies	8.1.2.1_envoyons	8.1.2.1_envoyez	8.1.2.1_envoient	8.1.2.1_envoyé	9.2.2.1_envoyais	9.2.2.1_envoyait
+8.1.2.1_utiliser	8.1.2.1_utilise	8.1.2.1_utilises	8.1.2.1_utilisons	8.1.2.1_utilisez	8.1.2.1_utilisent	8.1.2.1_utilisé	9.2.2.1_utilisais	9.2.2.1_utilisait
+8.1.2.1_maintenant
+8.1.2.1_hier
+8.1.2.1_appartement	8.1.2.1_appartements
+8.1.2.1_banque	8.1.2.1_banques
+8.1.2.1_marché	8.1.2.1_marchés
+8.1.2.1_passé	8.1.2.1_passés
+8.1.2.2_automne	8.1.2.2_automnes
+8.1.2.2_été	8.1.2.2_étés	8.1.2.2_eté	8.1.2.2_etés
+8.1.2.2_hiver	8.1.2.2_hivers
+8.1.2.2_musée	8.1.2.2_musées
+8.1.2.2_printemps
+8.1.2.2_d'abord	8.1.2.2_d’abord
+8.1.2.2_place	8.1.2.2_places
+8.1.2.2_saison	8.1.2.2_saisons
+8.1.2.2_belge	8.1.2.2_belges
+8.1.2.2_dernier	8.1.2.2_dernière	8.1.2.2_derniers	8.1.2.2_dernières
+8.1.2.2_pendant
+8.1.2.2_Belgique
+8.1.2.2_Bruxelles
+8.1.2.3_emporter	8.1.2.3_emporte	8.1.2.3_emportes	8.1.2.3_emportons	8.1.2.3_emportez	8.1.2.3_emportent	8.1.2.3_emporté	9.2.2.1_emportais	9.2.2.1_emportait
+8.1.2.3_proposer	8.1.2.3_propose	8.1.2.3_proposes	8.1.2.3_proposons	8.1.2.3_proposez	8.1.2.3_proposent	8.1.2.3_proposé	9.2.2.1_proposais	9.2.2.1_proposait
+8.1.2.3_voyager	8.1.2.3_voyage	8.1.2.3_voyages	8.1.2.3_voyageons	8.1.2.3_voyagez	8.1.2.3_voyagent	8.1.2.3_voyagé	9.2.2.1_voyageais	9.2.2.1_voyageait
+8.1.2.3_traverser	8.1.2.3_traverse	8.1.2.3_traverses	8.1.2.3_traversons	8.1.2.3_traversez	8.1.2.3_traversent	8.1.2.3_traversé	9.2.2.1_traversais	9.2.2.1_traversait
+8.1.2.3_frontière	8.1.2.3_frontières
+8.1.2.3_forêt	8.1.2.3_forêts
+8.1.2.3_montagne	8.1.2.3_montagnes
+8.1.2.3_vue	8.1.2.3_vues
+8.1.2.3_suisse	8.1.2.3_suisses
+8.1.2.3_Genève
+8.1.2.5_gérer	8.1.2.5_gère	8.1.2.5_gères	8.1.2.5_gérons	8.1.2.5_gérez	8.1.2.5_gèrent	8.1.2.5_géré	9.2.2.1_gérais	9.2.2.1_gérait
+8.1.2.5_espace	8.1.2.5_espaces
+8.1.2.5_goût	8.1.2.5_goûts
+8.1.2.5_plat	8.1.2.5_plats
+8.1.2.5_recette	8.1.2.5_recettes
+8.1.2.5_repas
+8.1.2.5_puis
+8.1.2.5_par
+8.1.2.5_puisque	8.1.2.5_puisqu
+8.1.2.5_Noël
+8.1.2.5_réveillon	8.1.2.5_réveillons
+8.1.2.6_carte	8.1.2.6_cartes
+8.1.2.6_côté	8.1.2.6_côtés
+8.1.2.6_foot	8.1.2.6_foots	8.1.2.6_football	8.1.2.6_footballs
+8.1.2.6_guitare	8.1.2.6_guitares
+8.1.2.6_instrument	8.1.2.6_instruments
+8.1.2.6_pétanque	8.1.2.6_pétanques
+8.1.2.6_piano	8.1.2.6_pianos
+8.1.2.6_droit	8.1.2.6_droite	8.1.2.6_droits	8.1.2.6_droites
+8.1.2.6_gauche	8.1.2.6_gauches
+8.1.2.6_loin
+8.1.2.6_près
+8.1.2.7_acheter	8.1.2.7_achète	8.1.2.7_achètes	8.1.2.7_achetons	8.1.2.7_achetez	8.1.2.7_achètent	8.1.2.7_acheté	9.2.2.1_achetais	9.2.2.1_achetait
+8.1.2.7_coûter	8.1.2.7_coûte	8.1.2.7_coûtes	8.1.2.7_coûtons	8.1.2.7_coûtez	8.1.2.7_coûtent	8.1.2.7_coûté	9.2.2.1_coûtais	9.2.2.1_coûtait
+8.1.2.7_peser	8.1.2.7_pèse	8.1.2.7_pèses	8.1.2.7_pesons	8.1.2.7_pesez	8.1.2.7_pèsent	8.1.2.7_pesé	9.2.2.1_pesais	9.2.2.1_pesait
+8.1.2.7_eau	8.2.2.3_eaux
+8.1.2.7_euro	8.1.2.7_euros
+8.1.2.7_fromage	8.1.2.7_fromages
+8.1.2.7_glace	8.1.2.7_glaces
+8.1.2.7_pain	8.1.2.7_pains
+8.1.2.7_natation	8.1.2.7_natations
+8.1.2.7_poisson	8.1.2.7_poissons
+8.1.2.7_sport	8.1.2.7_sports
+8.1.2.7_travail	8.1.2.7_travails
+8.2.1.1_boire	8.2.1.1_bois	8.2.1.1_boit	8.3.2.6_bu
+8.2.1.1_argent	8.2.1.1_argents
+8.2.1.1_chance	8.2.1.1_chances
+8.2.1.1_lait	8.2.1.1_laits
+8.2.1.1_thé	8.2.1.1_thés
+8.2.1.1_viande	8.2.1.1_viandes
+8.2.1.1_peu
+8.2.1.1_verre	8.2.1.1_verres
+8.2.1.1_beaucoup
+8.2.1.5_maman	8.2.1.5_mamans
+8.2.1.5_papa	8.2.1.5_papas
+8.2.1.5_possible	8.2.1.5_possibles
+8.2.1.5_seul	8.2.1.5_seule	8.2.1.5_seuls	8.2.1.5_seules
+8.2.1.5_sans
+8.2.1.5_salut
+8.2.2.1_choisir	8.2.2.1_choisis	8.2.2.1_choisit	8.2.2.2_choisissons	8.2.2.2_choisissez	8.2.2.2_choisissent	9.2.2.2_choisissais	9.2.2.2_choisissait	9.3.2.1_choisi
+8.2.2.1_définir	8.2.2.1_définis	8.2.2.1_définit	8.2.2.2_définissons	8.2.2.2_définissez	8.2.2.2_définissent	9.2.2.2_définissais	9.2.2.2_définissait	9.3.2.1_défini
+8.2.2.1_remplir	8.2.2.1_remplis	8.2.2.1_remplit	8.2.2.2_remplissons	8.2.2.2_remplissez	8.2.2.2_remplissent	9.2.2.2_remplissais	9.2.2.2_remplissait	9.3.2.1_rempli
+8.2.2.1_réussir	8.2.2.1_réussis	8.2.2.1_réussit	8.2.2.2_réussissons	8.2.2.2_réussissez	8.2.2.2_réussissent	9.2.2.2_réussissais	9.2.2.2_réussissait	9.3.2.1_réussi
+8.2.2.1_blancs
+8.2.2.1_cahier	8.2.2.1_cahiers
+8.2.2.1_examen	8.2.2.1_examens
+8.2.2.1_lycée	8.2.2.1_lycées
+8.2.2.1_note	8.2.2.1_notes
+8.2.2.1_alors
+8.2.2.2_finir	8.2.2.2_finis	8.2.2.2_finit	8.2.2.2_finissons	8.2.2.2_finissez	8.2.2.2_finissent	9.2.2.2_finissais	9.2.2.2_finissait	9.3.2.1_fini
+8.2.2.2_nourrir	8.2.2.2_nourris	8.2.2.2_nourrit	8.2.2.2_nourrissons	8.2.2.2_nourrissez	8.2.2.2_nourrissent	9.2.2.2_nourrissais	9.2.2.2_nourrissait	9.3.2.1_nourri
+8.2.2.2_chat	8.2.2.2_chats
+8.2.2.2_dimanche	8.2.2.2_dimanches
+8.2.2.2_heure	8.2.2.2_heures	8.2.2.2_h
+8.2.2.2_jeudi	8.2.2.2_jeudis
+8.2.2.2_lundi	8.2.2.2_lundis
+8.2.2.2_mardi	8.2.2.2_mardis
+8.2.2.2_mercredi	8.2.2.2_mercredis
+8.2.2.2_minute	8.2.2.2_minutes
+8.2.2.2_vendredi	8.2.2.2_vendredis
+8.2.2.3_feu	8.2.2.3_feux
+8.2.2.3_hôpital	8.2.2.3_hôpitaux
+8.2.2.3_jeu	8.2.2.3_jeux
+8.2.2.3_journal	8.2.2.3_journaux
+8.2.2.3_oiseau	8.2.2.3_oiseaux
+8.2.2.3_réseau	8.2.2.3_réseaux
+8.2.2.3_autre	8.2.2.3_autres
+8.2.2.3_même	8.2.2.3_mêmes
+8.2.2.3_idéal	8.2.2.3_idéale	8.2.2.3_idéaux	8.2.2.3_idéales
+8.2.2.3_international	8.2.2.3_internationale	8.2.2.3_internationaux	8.2.2.3_internationales
+8.2.2.3_local	8.2.2.3_locale	8.2.2.3_locaux	8.2.2.3_locales
+8.2.2.3_plusieurs
+8.2.2.3_social	8.2.2.3_sociale	8.2.2.3_sociaux	8.2.2.3_sociales
+8.3.1.1_italien	8.3.1.1_italiens	8.3.1.1_italienne	8.3.1.1_italiennes
+8.3.1.1_plus
+8.3.1.1_moins
+8.3.1.1_dangereux	8.3.1.1_dangereuse	8.3.1.1_dangereuses
+8.3.1.1_gentil	8.3.1.1_gentille	8.3.1.1_gentils	8.3.1.1_gentilles
+8.3.1.1_gros	8.3.1.1_grosse	8.3.1.1_grosses
+8.3.1.1_meilleur	8.3.1.1_meilleure	8.3.1.1_meilleurs	8.3.1.1_meilleures
+8.3.1.1_mince	8.3.1.1_minces
+8.3.1.1_pire	8.3.1.1_pires
+8.3.1.1_sûr	8.3.1.1_sûre	8.3.1.1_sûrs	8.3.1.1_sûres
+8.3.1.1_Italie
+8.3.1.2_décision	8.3.1.2_décisions
+8.3.1.2_soin	8.3.1.2_soins
+8.3.1.2_dur	8.3.1.2_dure	8.3.1.2_durs	8.3.1.2_dures
+8.3.1.2_facilement
+8.3.1.2_lentement
+8.3.1.2_mal
+8.3.1.2_mieux
+8.3.1.2_vite
+8.3.1.4_dépendre	8.3.1.4_dépends	8.3.1.4_dépend	8.3.1.6_dépendons	8.3.1.6_dépendez	8.3.1.6_dépendent	9.2.2.2_dépendais	9.2.2.2_dépendait
+8.3.1.4_entendre	8.3.1.4_entends	8.3.1.4_entend	8.3.1.6_entendons	8.3.1.6_entendez	8.3.1.6_entendent	9.2.2.2_entendais	9.2.2.2_entendait
+8.3.1.4_répondre	8.3.1.4_réponds	8.3.1.4_répond	8.3.1.6_répondons	8.3.1.6_répondez	8.3.1.6_répondent	9.2.2.2_répondais	9.2.2.2_répondait
+8.3.1.4_annonce	8.3.1.4_annonces
+8.3.1.4_conversation	8.3.1.4_conversations
+8.3.1.4_espagnol	8.3.1.4_espagnols	8.3.1.4_espagnole	8.3.1.4_espagnoles
+8.3.1.4_message	8.3.1.4_messages
+8.3.1.4_soleil	8.3.1.4_soleils
+8.3.1.4_Espagne
+8.3.1.4_petit-déjeuner	8.3.1.4_petits-déjeuners
+8.3.1.5_décrire	8.3.1.5_décris	8.3.1.5_décrit	8.3.2.1_décrivons	8.3.2.1_décrivez	8.3.2.1_décrivent	9.2.2.2_décrivais	9.2.2.2_décrivait
+8.3.1.5_traduire	8.3.1.5_traduis	8.3.1.5_traduit	8.3.1.5_traduisons	8.3.1.5_traduisez	8.3.1.5_traduisez	9.2.2.2_traduisais	9.2.2.2_traduisait
+8.3.1.5_communauté	8.3.1.5_communautés
+8.3.1.5_culture		8.3.1.5_cultures
+8.3.1.5_expérience	8.3.1.5_expériences
+8.3.1.5_information	8.3.1.5_informations
+8.3.1.5_produit	8.3.1.5_produits
+8.3.1.5_programme	8.3.1.5_programmes
+8.3.1.5_tout	8.3.1.5_toute	8.3.1.5_tous	8.3.1.5_toutes
+8.3.1.6_attendre	8.3.1.6_attends	8.3.1.6_attend	8.3.1.6_attendons	8.3.1.6_attendez	8.3.1.6_attendent	9.2.2.2_attendais	9.2.2.2_attendait
+8.3.1.6_descendre	8.3.1.6_descends	8.3.1.6_descend	8.3.1.6_descendons	8.3.1.6_descendez	8.3.1.6_descendent	9.2.2.2_descendais	9.2.2.2_descendait
+8.3.1.6_bas
+8.3.1.6_piste	8.3.1.6_pistes
+8.3.1.6_roman	8.3.1.6_romans
+8.3.1.6_texte	8.3.1.6_textes
+8.3.2.1_conduire	8.3.2.1_conduis	8.3.2.1_conduit	8.3.2.1_conduisons	8.3.2.1_conduisez	8.3.2.1_conduisent	9.2.2.2_conduisais	9.2.2.2_conduisait
+8.3.2.1_interdire	8.3.2.1_interdis	8.3.2.1_interdit	8.3.2.1_interdisons	8.3.2.1_interdisez	8.3.2.1_interdisent	9.2.2.2_interduisais	9.2.2.2_interduisait
+8.3.2.1_inscrire	8.3.2.1_inscris	8.3.2.1_inscrit	8.3.2.1_inscrivons	8.3.2.1_inscrivez	8.3.2.1_inscrivent	9.2.2.2_inscrivais	9.2.2.2_inscrivait
+8.3.2.1_lieu	8.3.2.1_lieux
+8.3.2.1_arbre	8.3.2.1_arbres
+8.3.2.1_autobus	8.3.2.1_bus
+8.3.2.1_neige	8.3.2.1_neiges
+8.3.2.1_chaud	8.3.2.1_chauds	8.3.2.1_chaude	8.3.2.1_chaudes
+8.3.2.1_froid	8.3.2.1_froids	8.3.2.1_froide	8.3.2.1_froides
+8.3.2.1_scolaire	8.3.2.1_scolaires
+8.3.2.4_commencer	8.3.2.4_commence	8.3.2.4_commences	8.3.2.4_commencer	8.3.2.4_commence	8.3.2.4_commences	8.3.2.4_commençons	8.3.2.4_commencez	8.3.2.4_commencent	8.3.2.4_commencé	9.2.2.1_commençais	9.2.2.1_commençait
+8.3.2.4_expliquer	8.3.2.4_expliques	8.3.2.4_explique	8.3.2.4_expliquons	8.3.2.4_expliquez	8.3.2.4_expliquent	8.3.2.4_expliqué	9.2.2.1_expliquais	9.2.2.1_expliquait
+8.3.2.4_emprunter	8.3.2.4_emprunte	8.3.2.4_empruntes	8.3.2.4_empruntons	8.3.2.4_empruntez	8.3.2.4_empruntent	8.3.2.4_emprunté	9.2.2.1_empruntais	9.2.2.1_empruntait
+8.3.2.4_quitter	8.3.2.4_quitte	8.3.2.4_quittes	8.3.2.4_quittons	8.3.2.4_quittez	8.3.2.4_quittent	8.3.2.4_quitté	9.2.2.1_quittais	9.2.2.1_quittait
+8.3.2.4_bibliothèque	8.3.2.4_bibliothèques
+8.3.2.4_cours
+8.3.2.4_fois
+8.3.2.4_tâche	8.3.2.4_tâches
+8.3.2.4_déjà
+8.3.2.4_enfin
+8.3.2.4_toujours
+8.3.2.6_accident	8.3.2.6_accidents
+8.3.2.6_bras
+8.3.2.6_jambe	8.3.2.6_jambes
+8.3.2.6_maladie	8.3.2.6_maladies
+8.3.2.6_photo	8.3.2.6_photos
+8.3.2.6_ensuite
+8.3.2.7_lever	8.3.2.7_lèves	8.3.2.7_lève	8.3.2.7_levons	8.3.2.7_levez	8.3.2.7_lèvent	8.3.2.7_levé	9.2.2.1_levais	9.2.2.1_levait
+8.3.2.7_reposer	8.3.2.7_repose	8.3.2.7_reposes	8.3.2.7_reposons	8.3.2.7_reposez	8.3.2.7_reposent	8.3.2.7_reposé	9.2.2.1_reposais	9.2.2.1_reposait
+8.3.2.7_chapeau	8.3.2.7_chapeaux
+8.3.2.7_main	8.3.2.7_mains
+8.3.2.7_manteau	8.3.2.7_manteaux
+8.3.2.7_matin	8.3.2.7_matins
+8.3.2.7_pluie	8.3.2.7_pluies
+8.3.2.7_tête	8.3.2.7_têtes
+9.1.1.4_faut
+9.1.1.4_entreprise	9.1.1.4_entreprises
+9.1.1.4_attitude	9.1.1.4_attitudes
+9.1.1.4_collègue	9.1.1.4_collègues
+9.1.1.4_piscine	9.1.1.4_piscines
+9.1.1.4_stage	9.1.1.4_stages
+9.1.1.4_actif	9.1.1.4_active	9.1.1.4_actifs	9.1.1.4_actives
+9.1.1.4_négatif	9.1.1.4_négative	9.1.1.4_négatifs	9.1.1.4_négatives
+9.1.1.4_positif	9.1.1.4_positive	9.1.1.4_positifs	9.1.1.4_positives
+9.1.1.4_sportif	9.1.1.4_sportive	9.1.1.4_sportifs	9.1.1.4_sportives
+9.1.1.6_connaître	9.1.1.6_connais	9.1.1.6_connaît
+9.1.1.6_chanson	9.1.1.6_chansons
+9.1.1.6_chemin	9.1.1.6_chemins
+9.1.1.6_endroit	9.1.1.6_endroits
+9.1.1.6_gens
+9.1.1.6_groupe	9.1.1.6_groupes
+9.1.1.6_québécois	9.1.1.6_québécoise	9.1.1.6_québécoises
+9.1.1.6_canadien	9.1.1.6_canadienne	9.1.1.6_canadiens	9.1.1.6_canadiennes
+9.1.1.6_canada
+9.1.1.6_québec
+9.1.1.7_remettre	9.1.1.7_remets	9.1.1.7_remet	9.1.1.7_remettons	9.1.1.7_remettez	9.1.1.7_remettent	9.2.2.2_remettais	9.2.2.2_remettait
+9.1.1.7_mettre	9.1.1.7_met	9.1.1.7_mets	9.1.1.7_mettons	9.1.1.7_mettez	9.1.1.7_mettent	9.2.2.2_mettais	9.2.2.2_mettait
+9.1.1.7_perdre	9.1.1.7_perds	9.1.1.7_perd	9.1.1.7_perdons	9.1.1.7_perdez	9.1.1.7_perdent	9.2.2.2_perdais	9.2.2.2_perdait
+9.1.1.7_campagne	9.1.1.7_campagnes
+9.1.1.7_dollar	9.1.1.7_dollars
+9.1.1.7_population	9.1.1.7_populations
+9.1.1.7_province	9.1.1.7_provinces
+9.1.1.7_lac	9.1.1.7_lacs
+9.1.1.7_habitant	9.1.1.7_habitante	9.1.1.7_habitants	9.1.1.7_habitantes
+9.1.1.7_fleuve	9.1.1.7_fleuves
+9.1.1.7_jamais
+9.1.2.1_empêcher	9.1.2.1_empêche	9.1.2.1_empêches	9.1.2.1_empêche	9.1.2.1_empêchons	9.1.2.1_empêchez	9.1.2.1_empêchent	9.1.2.1_empêché	9.2.2.1_empêchais	9.2.2.1_empêchait
+9.1.2.1_pratiquer	9.1.2.1_pratique	9.1.2.1_pratiques	9.1.2.1_pratiqons	9.1.2.1_pratiquez	9.1.2.1_pratiquent	9.1.2.1_pratiqué	9.2.2.1_pratiquais	9.2.2.1_pratiquait
+9.1.2.1_risquer	9.1.2.1_risque	9.1.2.1_risques	9.1.2.1_risquons	9.1.2.1_risquez	9.1.2.1_risquent	9.1.2.1_risqué	9.2.2.1_risquais	9.2.2.1_risquait
+9.1.2.1_respecter	9.1.2.1_respecte	9.1.2.1_respectes	9.1.2.1_respectons	9.1.2.1_respectez	9.1.2.1_respectent	9.1.2.1_respecté	9.2.2.1_respectais	9.2.2.1_respectait
+9.1.2.1_région	9.1.2.1_régions
+9.1.2.1_historique	9.1.2.1_historiques
+9.1.2.1_utile	9.1.2.1_utiles
+9.1.2.1_fantastique	9.1.2.1_fantastiques
+9.1.2.1_fantastique
+9.1.2.1_château	9.1.2.1_châteaux
+9.1.2.1_essentiel	9.1.2.1_essentielle	9.1.2.1_essentiels	9.1.2.1_essentielles
+9.1.2.2_appartenir	9.1.2.2_appartiens	9.1.2.2_appartient	9.1.2.2_appartenons	9.1.2.2_appartenez	9.1.2.2_appartiennent	9.2.2.2_appartenais	9.2.2.2_appartenait
+9.1.2.2_croire	9.1.2.2_crois	9.1.2.2_croit
+9.1.2.2_soutenir	9.1.2.2_soutiens	9.1.2.2_soutient	9.1.2.2_soutenons	9.1.2.2_soutenez	9.1.2.2_soutiennent	9.2.2.2_soutenais	9.2.2.2_soutenait
+9.1.2.2_dieu	9.1.2.2_dieux
+9.1.2.2_foi
+9.1.2.2_laïcité	9.1.2.2_laïcités
+9.1.2.2_liberté	9.1.2.2_libertés
+9.1.2.2_chrétien	9.1.2.2_chrétienn	9.1.2.2_chrétiens	9.1.2.2_chrétiennes
+9.1.2.2_européen	9.1.2.2_européens	9.1.2.2_européenne	9.1.2.2_européennes
+9.1.2.2_juif	9.1.2.2_juifs	9.1.2.2_juive	9.1.2.2_juives
+9.1.2.2_musulman	9.1.2.2_musulmane	9.1.2.2_musulmans	9.1.2.2_musulmanes
+9.1.2.2_religieux	9.1.2.2_religieuse	9.1.2.2_religieuses
+9.1.2.3_commander	9.1.2.3_commande	9.1.2.3_commandes	9.1.2.3_commandons	9.1.2.3_commandez	9.1.2.3_commandent	9.1.2.3_commandé	9.2.2.1_commandais	9.2.2.1_commandait
+9.1.2.3_réserver	9.1.2.3_réserve	9.1.2.3_réserves	9.1.2.3_réservons	9.1.2.3_réservez	9.1.2.3_réservent	9.1.2.3_réservé	9.2.2.1_réservais	9.2.2.1_réservait
+9.1.2.3_addition	9.1.2.3_additions
+9.1.2.3_choix
+9.1.2.3_restaurant	9.1.2.3_restaurants
+9.1.2.3_service	9.1.2.3_services
+9.1.2.3_nuit	9.1.2.3_nuits
+9.1.2.3_réception	9.1.2.3_réceptions
+9.1.2.3_table	9.1.2.3_tables
+9.1.2.3_leur	9.1.2.3_leurs
+9.1.2.3_votre	9.1.2.3_vos
+9.1.2.6_faim	9.1.2.6_faims
+9.1.2.6_soif	9.1.2.6_soifs
+9.1.2.6_peur	9.1.2.6_peurs
+9.1.2.6_tort	9.1.2.6_torts
+9.1.2.6_midi
+9.1.2.6_minuit	9.1.2.6_minuits
+9.1.2.6_trente-deux
+9.1.2.6_trente-trois
+9.1.2.6_trente-quatre
+9.1.2.6_trente-cinq
+9.1.2.6_trente-six
+9.1.2.6_trente-sept
+9.1.2.6_trente-huit
+9.1.2.6_trente-neuf
+9.1.2.6_quarante
+9.1.2.6_quarante-et-un
+9.1.2.6_quarante-deux
+9.1.2.6_quarante-trois
+9.1.2.6_quarante-quatre
+9.1.2.6_quarante-cinq
+9.1.2.6_quarante-six
+9.1.2.6_quarante-sept
+9.1.2.6_quarante-huit
+9.1.2.6_quarante-neuf
+9.1.2.6_cinquante
+9.1.2.6_cinquante-et-un
+9.1.2.6_cinquante-deux
+9.1.2.6_cinquante-trois
+9.1.2.6_cinquante-quatre
+9.1.2.6_cinquante-cinq
+9.1.2.6_cinquante-six
+9.1.2.6_cinquante-sept
+9.1.2.6_cinquante-huit
+9.1.2.6_cinquante-neuf
+9.1.2.6_soixante
+9.1.2.6_soixante-et-un
+9.1.2.6_soixante-deux
+9.1.2.6_soixante-trois
+9.1.2.6_soixante-quatre
+9.1.2.6_soixante-cinq
+9.1.2.6_soixante-six
+9.1.2.6_soixante-sept
+9.1.2.6_soixante-huit
+9.1.2.6_soixante-neuf
+9.1.2.6_donc
+9.1.2.7_contenir	9.1.2.7_contiens	9.1.2.7_contient	9.1.2.7_contenons	9.1.2.7_contenez	9.1.2.7_contiennent	9.2.2.2_contenais	9.2.2.2_contenait
+9.1.2.7_air	9.1.2.7_airs
+9.1.2.7_bonheur	9.1.2.7_bonheurs
+9.1.2.7_symbole	9.1.2.7_symboles
+9.1.2.7_souvenir	9.1.2.7_souvenirs
+9.1.2.7_vent	9.1.2.7_vents
+9.1.2.7_fort	9.1.2.7_forte	9.1.2.7_forts	9.1.2.7_fortes
+9.1.2.7_long	9.1.2.7_longs	9.1.2.7_longue	9.1.2.7_longues
+9.1.2.7_vers
+9.1.2.7_Afrique
+9.1.2.7_Asie
+9.1.2.7_Europe
+9.2.1.3_entrer	9.2.1.3_entre	9.2.1.3_entres	9.2.1.3_entrons	9.2.1.3_entrez	9.2.1.3_entrent	9.2.1.3_entré	9.2.1.9.2.1.3_entrée	9.2.1.3_entrés	9.2.1.3_entrées	9.2.1.3_entrés	9.2.1.3_entrée	9.2.1.3_entrés	9.2.1.3_entréess	9.2.1.3_entrés	9.2.1.3_entrés	9.2.2.1_entrais	9.2.2.1_entrait
+9.2.1.3_montrer	9.2.1.3_montre	9.2.1.3_montres	9.2.1.3_montrons	9.2.1.3_montrez	9.2.1.3_montrent	9.2.1.3_montré	9.2.1.3_montrée	9.2.1.3_montrés	9.2.1.3_montrées	9.2.2.1_montrais	9.2.2.1_montrait
+9.2.1.3_retourner	9.2.1.3_retourne	9.2.1.3_retournes	9.2.1.3_retournons	9.2.1.3_retournez	9.2.1.3_retournent	9.2.1.3_retourné	9.2.1.3_retournée	9.2.1.3_retournés	9.2.1.3_retournées9.2.2.1_retournais	9.2.2.1_retournait
+9.2.1.3_tomber	9.2.1.3_tombe	9.2.1.3_tombes	9.2.1.3_tombons	9.2.1.3_tombez	9.2.1.3_tombent	9.2.1.3_tombé	9.2.1.3_tombée	9.2.1.3_tombés	9.2.1.3_tombées	9.2.2.1_tombais	9.2.2.1_tombait
+9.2.1.3_attente	9.2.1.3_attentes
+9.2.1.3_corps
+9.2.1.3_doigt	9.2.1.3_doigts
+9.2.1.3_dos
+9.2.1.3_médicament	9.2.1.3_médicaments
+9.2.1.3_pied	9.2.1.3_pieds
+9.2.1.3_santé	9.2.1.3_santés
+9.2.1.3_situation	9.2.1.3_situations
+9.2.1.3_soir	9.2.1.3_soirs
+9.2.1.3_urgence	9.2.1.3_urgences
+9.2.1.3_faible	9.2.1.3_faibles
+9.2.1.3_seulement
+9.2.1.3_trop
+9.2.1.3_après-midi	9.2.1.3_après-midis
+9.2.1.4_blesser	9.2.1.4_blesse	9.2.1.4_blesses	9.2.1.4_blessons	9.2.1.4_blessez	9.2.1.4_blessent	9.2.1.4_blessé	9.2.2.1_blessais	9.2.2.1_blessait
+9.2.1.4_jeter	9.2.1.4_jette	9.2.1.4_jettes	9.2.1.4_jetons	9.2.1.4_jetez	9.2.1.4_jettent	9.2.1.4_jeté	9.2.2.1_jetais	9.2.2.1_jetait
+9.2.1.4_laisser	9.2.1.4_laisse	9.2.1.4_laisses	9.2.1.4_laissons	9.2.1.4_laissez	9.2.1.4_laissent	9.2.1.4_laissé	9.2.2.1_laissais	9.2.2.1_laissait
+9.2.1.4_amour	9.2.1.4_amours
+9.2.1.4_envie	9.2.1.4_envies
+9.2.1.4_mer	9.2.1.4_mers
+9.2.1.4_prix
+9.2.1.4_sens
+9.2.1.4_tellement
+9.2.1.6_approcher	9.2.1.6_approche	9.2.1.6_approches	9.2.1.6_approchons	9.2.1.6_approchez	9.2.1.6_approchent	9.2.1.6_approché	9.2.2.1_approchais	9.2.2.1_approchait
+9.2.1.6_téléphoner	9.2.1.6_téléphone	9.2.1.6_téléphones	9.2.1.6_téléphonons	9.2.1.6_téléphonez	9.2.1.6_téléphonent	9.2.1.6_téléphoné	9.2.2.1_téléphonais	9.2.2.1_téléphonait
+9.2.1.6_voler	9.2.1.6_vole	9.2.1.6_voles	9.2.1.6_volons	9.2.1.6_volez	9.2.1.6_volent	9.2.1.6_volé	9.2.2.1_volais	9.2.2.1_volait
+9.2.1.6_moi	9.2.1.6_-moi
+9.2.1.6_toi	9.2.1.6_-toi
+9.2.1.6_selon
+9.2.1.6_proche	9.2.1.6_proches
+9.2.1.6_après
+9.2.1.6_avant
+9.2.1.6_fréquence	9.2.1.6_fréquences
+9.2.1.6_sécurité	9.2.1.6_sécurités
+9.2.1.6_responsabilité	9.2.1.6_responsabilités
+9.2.1.6_criminel	9.2.1.6_criminelle	9.2.1.6_criminels	9.2.1.6_criminelles
+9.2.1.6_crime	9.2.1.6_crimes
+9.2.1.6_vol	9.2.1.6_vols
+9.2.2.1_corriger	9.2.2.1_corrige	9.2.2.1_corriges	9.2.2.1_corrigeons	9.2.2.1_corrigez	9.2.2.1_corrigent	9.2.2.1_corrigé	9.2.2.1_corrigeais	9.2.2.1_corrigeait
+9.2.2.1_durer	9.2.2.1_dure	9.2.2.1_dures	9.2.2.1_durons	9.2.2.1_durez	9.2.2.1_durent	9.2.2.1_duré	9.2.2.1_durais	9.2.2.1_durait
+9.2.2.1_poser	9.2.2.1_pose	9.2.2.1_poses	9.2.2.1_posons	9.2.2.1_posez	9.2.2.1_posent	9.2.2.1_posé	9.2.2.1_posais	9.2.2.1_posait
+9.2.2.1_compétence	9.2.2.1_compétences
+9.2.2.1_connaissance	9.2.2.1_connaissances
+9.2.2.1_contrôle	9.2.2.1_contrôles
+9.2.2.1_système	9.2.2.1_systèmes
+9.2.2.1_cinquième	9.2.2.1_cinquièmes
+9.2.2.1_deuxième	9.2.2.1_deuxièmes
+9.2.2.1_quatrième	9.2.2.1_quatrièmes
+9.2.2.1_primaire	9.2.2.1_primaires
+9.2.2.1_sixième	9.2.2.1_sixièmes
+9.2.2.1_troisième	9.2.2.1_troisièmes
+9.2.2.1_longtemps
+9.2.2.1_construire	9.2.2.1_construis	9.2.2.1_construit	9.2.2.1_construisons	9.2.2.1_construisez	9.2.2.1_construisez	9.2.2.1_construisais	9.2.2.1_construisait
+9.2.2.1_réagir	9.2.2.1_réagis	9.2.2.1_réagit	9.2.2.1_réagissons	9.2.2.1_réagissez	9.2.2.1_réagissent	9.2.2.1_réagissais	9.2.2.1_réagissait	9.3.2.1_réagi
+9.2.2.1_réfléchir	9.2.2.1_réfléchis	9.2.2.1_réfléchit	9.2.2.1_réfléchissons	9.2.2.1_réfléchissez	9.2.2.1_réfléchissent	9.2.2.1_réfléchissais	9.2.2.1_réfléchissait	9.3.2.1_réfléchi
+9.2.2.1_an	9.2.2.1_ans
+9.2.2.1_clé	9.2.2.1_clés
+9.2.2.1_club	9.2.2.1_clubs
+9.2.2.1_comportement	9.2.2.1_comportements
+9.2.2.1_enfance	9.2.2.1_enfances
+9.2.2.1_habitude	9.2.2.1_habitudes
+9.2.2.1_ancien	9.2.2.1_ancienne	9.2.2.1_anciens	9.2.2.1_anciennes
+9.2.2.1_familial	9.2.2.1_familials	9.2.2.1_familiale	9.2.2.1_familiales
+9.2.2.1_libre	9.2.2.1_libres
+9.2.2.1_quotidien	9.2.2.1_quotidienne	9.2.2.1_quotidiens	9.2.2.1_quotidiennes
+9.2.2.1_responsable	9.2.2.1_responsables
+9.2.2.3_participer	9.2.2.3_participe	9.2.2.3_participes	9.2.2.3_participons	9.2.2.3_participez	9.2.2.3_participent	9.2.2.3_participé	9.2.2.3_participais	9.2.2.3_participait
+9.2.2.3_artiste	9.2.2.3_artistes
+9.2.2.3_concours
+9.2.2.3_diversité	9.2.2.3_diversités
+9.2.2.3_défi	9.2.2.3_défis
+9.2.2.3_émission	9.2.2.3_émissions
+9.2.2.3_sexe	9.2.2.3_sexes
+9.2.2.3_personnage	9.2.2.3_personnages
+9.2.2.3_scène	9.2.2.3_scènes
+9.2.2.3_spectacle	9.2.2.3_spectacles
+9.2.2.3_annuel	9.2.2.3_annuelle	9.2.2.3_annuels	9.2.2.3_annuelles
+9.2.2.3_culturel	9.2.2.3_culturelle	9.2.2.3_culturels	9.2.2.3_culturelles
+9.2.2.3_genre	9.2.2.3_genres
+9.2.2.3_non-binaire	9.2.2.3_non-binaires
+9.2.2.3_transgenre	9.2.2.3_transgenres
+9.3.1.2_encourager	9.3.1.2_encourage	9.3.1.2_encourages	9.3.1.2_encourageons	9.3.1.2_encouragez	9.3.1.2_encouragent	9.3.1.2_encouragé	9.3.1.2_encourageais	9.3.1.2_encourageait
+9.3.1.2_obliger	9.3.1.2_oblige	9.3.1.2_obliges	9.3.1.2_obligeons	9.3.1.2_obligez	9.3.1.2_obligent	9.3.1.2_obligé	9.3.1.2_obligeais	9.3.1.2_obligeait
+9.3.1.2_me	9.3.1.2_m	9.3.1.2_-me
+9.3.1.2_te	9.3.1.2_t	9.3.1.2_-te
+9.3.1.2_difficulté	9.3.1.2_difficultés
+9.3.1.2_objectif	9.3.1.2_objectifs
+9.3.1.2_recherche	9.3.1.2_recherches
+9.3.1.2_résultat	9.3.1.2_résultats
+9.3.1.2_clair	9.3.1.2_claire	9.3.1.2_clairs	9.3.1.2_claires
+9.3.1.2_presque
+9.3.1.2_supplémentaire	9.3.1.2_supplémentaires
+9.3.1.3_livrer	9.3.1.3_livre	9.3.1.3_livres	9.3.1.3_livrons	9.3.1.3_livrez	9.3.1.3_livrent
+9.3.1.3_oublier	9.3.1.3_oublie	9.3.1.3_oublies	9.3.1.3_oublions	9.3.1.3_oubliez	9.3.1.3_oublient
+9.3.1.3_payer	9.3.1.3_paye	9.3.1.3_paie	9.3.1.3_payes	9.3.1.3_paies	9.3.1.3_payons	9.3.1.3_payez	9.3.1.3_payent	9.3.1.3_paient	9.3.1.3_payé	9.3.1.3_payais	9.3.1.3_payait
+9.3.1.3_coût	9.3.1.3_coûts
+9.3.1.3_client	9.3.1.3_cliente	9.3.1.3_clients	9.3.1.3_clientes
+9.3.1.3_marque	9.3.1.3_marques
+9.3.1.3_mode	9.3.1.3_modes
+9.3.1.3_cent
+9.3.1.3_mille
+9.3.1.3_soixante-dix
+9.3.1.3_soixante-et-onze
+9.3.1.3_soixante-douze
+9.3.1.3_soixante-treize
+9.3.1.3_soixante-quatorze
+9.3.1.3_soixante-quinze
+9.3.1.3_soixante-seize
+9.3.1.3_soixante-dix-sept
+9.3.1.3_soixante-dix-huit
+9.3.1.3_soixante-dix-neuf
+9.3.1.3_quatre-vingts
+9.3.1.3_quatre-vingt-un
+9.3.1.3_quatre-vingt-deux
+9.3.1.3_quatre-vingt-trois
+9.3.1.3_quatre-vingt-quatre
+9.3.1.3_quatre-vingt-cinq
+9.3.1.3_quatre-vingt-six
+9.3.1.3_quatre-vingt-sept
+9.3.1.3_quatre-vingt-huit
+9.3.1.3_quatre-vingt-neuf
+9.3.1.3_quatre-vingt-dix
+9.3.1.3_quatre-vingt-onze
+9.3.1.3_quatre-vingt-douze
+9.3.1.3_quatre-vingt-treize
+9.3.1.3_quatre-vingt-quatorze
+9.3.1.3_quatre-vingt-quinze
+9.3.1.3_quatre-vingt-seize
+9.3.1.3_quatre-vingt-dix-sept
+9.3.1.3_quatre-vingt-dix-huit
+9.3.1.3_quatre-vingt-dix-neuf
+9.3.1.5_annuler	9.3.1.5_annule	9.3.1.5_annules	9.3.1.5_annulons	9.3.1.5_annulez	9.3.1.5_annulent	9.3.1.5_annulé	9.3.1.5_annulais	9.3.1.5_annulait
+9.3.1.5_continuer	9.3.1.5_continue	9.3.1.5_continues	9.3.1.5_continons	9.3.1.5_continuez	9.3.1.5_continuent	9.3.1.5_continué	9.3.1.5_continuais	9.3.1.5_continuait
+9.3.1.5_décider	9.3.1.5_décide	9.3.1.5_décides	9.3.1.5_décidons	9.3.1.5_décidez	9.3.1.5_décident	9.3.1.5_décidé	9.3.1.5_décidais	9.3.1.5_décidait
+9.3.1.5_essayer	9.3.1.5_essaye	9.3.1.5_essaie	9.3.1.5_essayes	9.3.1.5_essaies	9.3.1.5_essayons	9.3.1.5_essayez	9.3.1.5_essayent	9.3.1.5_essaient	9.3.1.5_essayé	9.3.1.5_essayais	9.3.1.5_essayait
+9.3.1.5_bise	9.3.1.5_bises
+9.3.1.5_isolement	9.3.1.5_isolements
+9.3.1.5_masque	9.3.1.5_masques
+9.3.1.5_pandémie	9.3.1.5_pandémies
+9.3.1.5_vaccin	9.3.1.5_vaccins
+9.3.1.5_impossible	9.3.1.5_impossibles
+9.3.1.5_interdit	9.3.1.5_interdite	9.3.1.5_interdits	9.3.1.5_interdites
+9.3.1.5_mondial	9.3.1.5_mondiale	9.3.1.5_mondials	9.3.1.5_mondiales
+9.3.1.5_nécessaire	9.3.1.5_nécessaires
+9.3.2.1_établir	9.3.2.1_établis	9.3.2.1_établit	9.3.2.1_établissons	9.3.2.1_établissez	9.3.2.1_établissent	9.3.2.1_établissais	9.3.2.1_établissait	9.3.2.1_établi
+9.3.2.1_fournir	9.3.2.1_fournis	9.3.2.1_fournit	9.3.2.1_fournissons	9.3.2.1_fournissez	9.3.2.1_fournissent	9.3.2.1_fournissais	9.3.2.1_fournissait	9.3.2.1_fourni
+9.3.2.1_grandir	9.3.2.1_grandis	9.3.2.1_grandit	9.3.2.1_grandissons	9.3.2.1_grandissez	9.3.2.1_grandissent	9.3.2.1_grandissais	9.3.2.1_grandissait	9.3.2.1_grandi
+9.3.2.1_ressentir	9.3.2.1_ressens	9.3.2.1_ressent	9.3.2.1_ressentons	9.3.2.1_ressentez	9.3.2.1_ressentent	9.3.2.1_ressentais	9.3.2.1_ressentait	9.3.2.1_ressenti
+9.3.2.1_servir	9.3.2.1_sers	9.3.2.1_sert	9.3.2.1_servons	9.3.2.1_servez	9.3.2.1_servent	9.3.2.1_servais	9.3.2.1_servait	9.3.2.1_servi
+9.3.2.1_armée	9.3.2.1_armées
+9.3.2.1_début	9.3.2.1_débuts
+9.3.2.1_fin	9.3.2.1_fins
+9.3.2.1_gouvernement	9.3.2.1_gouvernements
+9.3.2.1_nord
+9.3.2.1_sud
+9.3.2.1_est
+9.3.2.1_ouest
+9.3.2.1_soldat	9.3.2.1_soldats
+9.3.2.1_état	9.3.2.1_états9.3.2.1_militaire	9.3.2.1_militaires

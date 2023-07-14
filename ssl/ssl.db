@@ -1,0 +1,172 @@
+--- 
+files: 
+  certificate: 
+    multiling_hosted_york_ac_uk_ad07a_111b5_1690103243_44fede2591cb8cdf2d8ee2f5d54631a4: 
+      created: '1682330844'
+      domains: 
+        - "*.multiling.hosted.york.ac.uk"
+        - multiling.hosted.york.ac.uk
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “multiling.hosted.york.ac.uk” 1682330844.0
+      id: multiling_hosted_york_ac_uk_ad07a_111b5_1690103243_44fede2591cb8cdf2d8ee2f5d54631a4
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: ad07ab6e81c543355206552044a6472731bf2195f2efabe8a740d471e152a803dfd7c27c2868b38e9a8b1e3576c91dddda099170eed46578e2c34e95ab3738f91fda6ed3c75aa7a6c2b9d80bfa5499f64ea10c9bbb21927da3906114ac6f8aba10f692ac75a7bcd681d31700e33f02f21c9a5b59e1b6622761758cf3a67c74c42165e1ddcd4aadb1fc7057058864ffd0ab76d7dd422c8cf46a53222220d7d04279ca6878092f0d508322f28db569fad8984a2c9382ccde8b243486cf70f18661f471be79e057ce0cf9bbb321000ef4d077a4671e6e26c27729f32164ecc0aa4a5ebe90f08b7d2951b2d317bb7bc526d1b21443482361c394dfc033eaf38111b5
+      modulus_length: 2048
+      not_after: '1690103243'
+      not_before: '1682327244'
+      serial: 030c82d1a6f9d74b8133f3c773b0663581cc
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: multiling.hosted.york.ac.uk
+      validation_type: dv
+    multiling_hosted_york_ac_uk_c76a5_c4f17_1713866763_1dd4c1c9a122dc485264ae9258133ccc: 
+      created: '1682330764'
+      domains: 
+        - multiling.hosted.york.ac.uk
+        - mail.multiling.hosted.york.ac.uk
+        - www.multiling.hosted.york.ac.uk
+        - cpanel.multiling.hosted.york.ac.uk
+        - webmail.multiling.hosted.york.ac.uk
+        - webdisk.multiling.hosted.york.ac.uk
+        - cpcontacts.multiling.hosted.york.ac.uk
+        - cpcalendars.multiling.hosted.york.ac.uk
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “multiling.hosted.york.ac.uk”
+      id: multiling_hosted_york_ac_uk_c76a5_c4f17_1713866763_1dd4c1c9a122dc485264ae9258133ccc
+      is_self_signed: 1
+      issuer.commonName: multiling.hosted.york.ac.uk
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: c76a5aab5ad1ba36d361aad403a3fa5db69cb623703fd6f1fa3cb8974b250f52b70f397771b0db639541a5fa3d6be4361f09b9c22071f9e67ad1c1f47de3041a43e5de461bec87dec34be2d3f220125c4581b55b750ffbfab21081625cbe84defcf6b8ac30b56464aa62c2b6f241381f0e4cfe0e0ab567de298e1186729154664bb1f2a4012e1f17e192f9603fe6eb955db6f3ea2eb95b0d9f30778e66cfeaa01f25cbf4f55cd4fa086d613b2f0901f492f417aac163a8d78054d7b5c277142081289e050e66b62ef7cf05bdf6351173c14e87e77a67a408cd2514e2f953bcf2f8d356ded12e74a4bcdae360884ca02b4ff4238b2e655a67a2b56a2771cc4f17
+      modulus_length: 2048
+      not_after: '1713866763'
+      not_before: '1682330763'
+      serial: b36f5186
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: multiling.hosted.york.ac.uk
+      validation_type: ~
+    multilingprofiler_net_c868e_6bd4d_1693838107_e9c9db6c620c9cd7a6fdcc80972bab1e: 
+      created: '1686065709'
+      domains: 
+        - "*.multilingprofiler.net"
+        - multilingprofiler.net
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “multilingprofiler.net” 1686065709.0
+      id: multilingprofiler_net_c868e_6bd4d_1693838107_e9c9db6c620c9cd7a6fdcc80972bab1e
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c868e8859d449bfd848eecaf05581201d3dc5e2447805bfed64156c0d35409feb01532d4e6e7941d818c083d7cb8f25b503859b8b56e70be52dfcdc54b5a543ff4597c4c23858792c02429837761fac86366f87bb794fb4282344719ffc5adb4233515020db751ee16f8087fae4c7f79c8d830f88545ae21258515d612024289c839104379ed2df93c60f244cca0cff1422f147267d266eec75e23ac58707241989dd74ebdf746835df14bfde77cb3218bb69c32da5adc9e691cbe53f4495f7c3eeec639533412009ea460f4ca9c0b5819058aecccaff91ad853d3e8bef0b93bef0fa8bb345be003374dbb3bf4d64d1b87f7e2ceec8627fcfadfb522c9a6bd4d
+      modulus_length: 2048
+      not_after: '1693838107'
+      not_before: '1686062108'
+      serial: 03fbbfc3d0812976607667348a80c6125f8c
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: multilingprofiler.net
+      validation_type: dv
+    multilingprofiler_net_d087f_a49ef_1717507938_acae22208501793dfbd0c2133e39603f: 
+      created: '1685971938'
+      domains: 
+        - multilingprofiler.net
+        - mail.multilingprofiler.net
+        - www.multilingprofiler.net
+        - cpanel.multilingprofiler.net
+        - webmail.multilingprofiler.net
+        - webdisk.multilingprofiler.net
+        - cpcontacts.multilingprofiler.net
+        - cpcalendars.multilingprofiler.net
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “multilingprofiler.net”
+      id: multilingprofiler_net_d087f_a49ef_1717507938_acae22208501793dfbd0c2133e39603f
+      is_self_signed: 1
+      issuer.commonName: multilingprofiler.net
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: d087ffebe42122d7348e1fc3b5148b0bd91df90e04a38597123e50667d202c22cf222c5070e3ca67bbfc27f6e1ae8ed39c3705ecb3aa2b3ae5496f5c74e74176b9415d1269e1788477d303052eea9b362d0768756ae9081d06a59161e4fa238b5447e2cd94470a543a4ea7f26604642b78743eddab9c66cb7166aacaff70a9bbd25cd608e0f3274387376f37d3cc303339789c1a83ec4bea84e179b0a8aa780b6c27ffee226d198e0922da3a9499d4201e33137c02b269d4028d5d5ba05f56e0fd418fa4ee8db540c28ebafa4e0860c594257d29c176e100be6c38dd72e2706a89b1e10691479e869fe58ff8bafc723f39be11700444393d9f5a4b3aa75a49ef
+      modulus_length: 2048
+      not_after: '1717507938'
+      not_before: '1685971938'
+      serial: 2c75bcd9
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: multilingprofiler.net
+      validation_type: ~
+  key: 
+    ad07a_111b5_2b397e4a5b027b031b1399abb307e1e6: 
+      created: '1682330844'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “multiling.hosted.york.ac.uk” 1682330844.0
+      id: ad07a_111b5_2b397e4a5b027b031b1399abb307e1e6
+      key_algorithm: rsaEncryption
+      modulus: ad07ab6e81c543355206552044a6472731bf2195f2efabe8a740d471e152a803dfd7c27c2868b38e9a8b1e3576c91dddda099170eed46578e2c34e95ab3738f91fda6ed3c75aa7a6c2b9d80bfa5499f64ea10c9bbb21927da3906114ac6f8aba10f692ac75a7bcd681d31700e33f02f21c9a5b59e1b6622761758cf3a67c74c42165e1ddcd4aadb1fc7057058864ffd0ab76d7dd422c8cf46a53222220d7d04279ca6878092f0d508322f28db569fad8984a2c9382ccde8b243486cf70f18661f471be79e057ce0cf9bbb321000ef4d077a4671e6e26c27729f32164ecc0aa4a5ebe90f08b7d2951b2d317bb7bc526d1b21443482361c394dfc033eaf38111b5
+      modulus_length: 2048
+    c76a5_c4f17_1de83d5045c7a979e4fc3093974374e2: 
+      created: '1682330764'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “multiling.hosted.york.ac.uk”
+      id: c76a5_c4f17_1de83d5045c7a979e4fc3093974374e2
+      key_algorithm: rsaEncryption
+      modulus: c76a5aab5ad1ba36d361aad403a3fa5db69cb623703fd6f1fa3cb8974b250f52b70f397771b0db639541a5fa3d6be4361f09b9c22071f9e67ad1c1f47de3041a43e5de461bec87dec34be2d3f220125c4581b55b750ffbfab21081625cbe84defcf6b8ac30b56464aa62c2b6f241381f0e4cfe0e0ab567de298e1186729154664bb1f2a4012e1f17e192f9603fe6eb955db6f3ea2eb95b0d9f30778e66cfeaa01f25cbf4f55cd4fa086d613b2f0901f492f417aac163a8d78054d7b5c277142081289e050e66b62ef7cf05bdf6351173c14e87e77a67a408cd2514e2f953bcf2f8d356ded12e74a4bcdae360884ca02b4ff4238b2e655a67a2b56a2771cc4f17
+      modulus_length: 2048
+    c868e_6bd4d_31d89859f63b6f4b511a038636a96fe3: 
+      created: '1686065709'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “multilingprofiler.net” 1686065709.0
+      id: c868e_6bd4d_31d89859f63b6f4b511a038636a96fe3
+      key_algorithm: rsaEncryption
+      modulus: c868e8859d449bfd848eecaf05581201d3dc5e2447805bfed64156c0d35409feb01532d4e6e7941d818c083d7cb8f25b503859b8b56e70be52dfcdc54b5a543ff4597c4c23858792c02429837761fac86366f87bb794fb4282344719ffc5adb4233515020db751ee16f8087fae4c7f79c8d830f88545ae21258515d612024289c839104379ed2df93c60f244cca0cff1422f147267d266eec75e23ac58707241989dd74ebdf746835df14bfde77cb3218bb69c32da5adc9e691cbe53f4495f7c3eeec639533412009ea460f4ca9c0b5819058aecccaff91ad853d3e8bef0b93bef0fa8bb345be003374dbb3bf4d64d1b87f7e2ceec8627fcfadfb522c9a6bd4d
+      modulus_length: 2048
+    d087f_a49ef_2f8f374c18323ee47d41e9ec39e4a14a: 
+      created: '1685971938'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “multilingprofiler.net”
+      id: d087f_a49ef_2f8f374c18323ee47d41e9ec39e4a14a
+      key_algorithm: rsaEncryption
+      modulus: d087ffebe42122d7348e1fc3b5148b0bd91df90e04a38597123e50667d202c22cf222c5070e3ca67bbfc27f6e1ae8ed39c3705ecb3aa2b3ae5496f5c74e74176b9415d1269e1788477d303052eea9b362d0768756ae9081d06a59161e4fa238b5447e2cd94470a543a4ea7f26604642b78743eddab9c66cb7166aacaff70a9bbd25cd608e0f3274387376f37d3cc303339789c1a83ec4bea84e179b0a8aa780b6c27ffee226d198e0922da3a9499d4201e33137c02b269d4028d5d5ba05f56e0fd418fa4ee8db540c28ebafa4e0860c594257d29c176e100be6c38dd72e2706a89b1e10691479e869fe58ff8bafc723f39be11700444393d9f5a4b3aa75a49ef
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      ad07ab6e81c543355206552044a6472731bf2195f2efabe8a740d471e152a803dfd7c27c2868b38e9a8b1e3576c91dddda099170eed46578e2c34e95ab3738f91fda6ed3c75aa7a6c2b9d80bfa5499f64ea10c9bbb21927da3906114ac6f8aba10f692ac75a7bcd681d31700e33f02f21c9a5b59e1b6622761758cf3a67c74c42165e1ddcd4aadb1fc7057058864ffd0ab76d7dd422c8cf46a53222220d7d04279ca6878092f0d508322f28db569fad8984a2c9382ccde8b243486cf70f18661f471be79e057ce0cf9bbb321000ef4d077a4671e6e26c27729f32164ecc0aa4a5ebe90f08b7d2951b2d317bb7bc526d1b21443482361c394dfc033eaf38111b5: 
+        multiling_hosted_york_ac_uk_ad07a_111b5_1690103243_44fede2591cb8cdf2d8ee2f5d54631a4: ~
+      c76a5aab5ad1ba36d361aad403a3fa5db69cb623703fd6f1fa3cb8974b250f52b70f397771b0db639541a5fa3d6be4361f09b9c22071f9e67ad1c1f47de3041a43e5de461bec87dec34be2d3f220125c4581b55b750ffbfab21081625cbe84defcf6b8ac30b56464aa62c2b6f241381f0e4cfe0e0ab567de298e1186729154664bb1f2a4012e1f17e192f9603fe6eb955db6f3ea2eb95b0d9f30778e66cfeaa01f25cbf4f55cd4fa086d613b2f0901f492f417aac163a8d78054d7b5c277142081289e050e66b62ef7cf05bdf6351173c14e87e77a67a408cd2514e2f953bcf2f8d356ded12e74a4bcdae360884ca02b4ff4238b2e655a67a2b56a2771cc4f17: 
+        multiling_hosted_york_ac_uk_c76a5_c4f17_1713866763_1dd4c1c9a122dc485264ae9258133ccc: ~
+      c868e8859d449bfd848eecaf05581201d3dc5e2447805bfed64156c0d35409feb01532d4e6e7941d818c083d7cb8f25b503859b8b56e70be52dfcdc54b5a543ff4597c4c23858792c02429837761fac86366f87bb794fb4282344719ffc5adb4233515020db751ee16f8087fae4c7f79c8d830f88545ae21258515d612024289c839104379ed2df93c60f244cca0cff1422f147267d266eec75e23ac58707241989dd74ebdf746835df14bfde77cb3218bb69c32da5adc9e691cbe53f4495f7c3eeec639533412009ea460f4ca9c0b5819058aecccaff91ad853d3e8bef0b93bef0fa8bb345be003374dbb3bf4d64d1b87f7e2ceec8627fcfadfb522c9a6bd4d: 
+        multilingprofiler_net_c868e_6bd4d_1693838107_e9c9db6c620c9cd7a6fdcc80972bab1e: ~
+      d087ffebe42122d7348e1fc3b5148b0bd91df90e04a38597123e50667d202c22cf222c5070e3ca67bbfc27f6e1ae8ed39c3705ecb3aa2b3ae5496f5c74e74176b9415d1269e1788477d303052eea9b362d0768756ae9081d06a59161e4fa238b5447e2cd94470a543a4ea7f26604642b78743eddab9c66cb7166aacaff70a9bbd25cd608e0f3274387376f37d3cc303339789c1a83ec4bea84e179b0a8aa780b6c27ffee226d198e0922da3a9499d4201e33137c02b269d4028d5d5ba05f56e0fd418fa4ee8db540c28ebafa4e0860c594257d29c176e100be6c38dd72e2706a89b1e10691479e869fe58ff8bafc723f39be11700444393d9f5a4b3aa75a49ef: 
+        multilingprofiler_net_d087f_a49ef_1717507938_acae22208501793dfbd0c2133e39603f: ~
+    subject.commonName: 
+      multiling.hosted.york.ac.uk: 
+        multiling_hosted_york_ac_uk_ad07a_111b5_1690103243_44fede2591cb8cdf2d8ee2f5d54631a4: ~
+        multiling_hosted_york_ac_uk_c76a5_c4f17_1713866763_1dd4c1c9a122dc485264ae9258133ccc: ~
+      multilingprofiler.net: 
+        multilingprofiler_net_c868e_6bd4d_1693838107_e9c9db6c620c9cd7a6fdcc80972bab1e: ~
+        multilingprofiler_net_d087f_a49ef_1717507938_acae22208501793dfbd0c2133e39603f: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “multiling.hosted.york.ac.uk”: multiling_hosted_york_ac_uk_c76a5_c4f17_1713866763_1dd4c1c9a122dc485264ae9258133ccc
+      Cert for “multiling.hosted.york.ac.uk” 1682330844.0: multiling_hosted_york_ac_uk_ad07a_111b5_1690103243_44fede2591cb8cdf2d8ee2f5d54631a4
+      Cert for “multilingprofiler.net”: multilingprofiler_net_d087f_a49ef_1717507938_acae22208501793dfbd0c2133e39603f
+      Cert for “multilingprofiler.net” 1686065709.0: multilingprofiler_net_c868e_6bd4d_1693838107_e9c9db6c620c9cd7a6fdcc80972bab1e
+  key: 
+    friendly_name: 
+      Key for “multiling.hosted.york.ac.uk”: c76a5_c4f17_1de83d5045c7a979e4fc3093974374e2
+      Key for “multiling.hosted.york.ac.uk” 1682330844.0: ad07a_111b5_2b397e4a5b027b031b1399abb307e1e6
+      Key for “multilingprofiler.net”: d087f_a49ef_2f8f374c18323ee47d41e9ec39e4a14a
+      Key for “multilingprofiler.net” 1686065709.0: c868e_6bd4d_31d89859f63b6f4b511a038636a96fe3
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      ad07ab6e81c543355206552044a6472731bf2195f2efabe8a740d471e152a803dfd7c27c2868b38e9a8b1e3576c91dddda099170eed46578e2c34e95ab3738f91fda6ed3c75aa7a6c2b9d80bfa5499f64ea10c9bbb21927da3906114ac6f8aba10f692ac75a7bcd681d31700e33f02f21c9a5b59e1b6622761758cf3a67c74c42165e1ddcd4aadb1fc7057058864ffd0ab76d7dd422c8cf46a53222220d7d04279ca6878092f0d508322f28db569fad8984a2c9382ccde8b243486cf70f18661f471be79e057ce0cf9bbb321000ef4d077a4671e6e26c27729f32164ecc0aa4a5ebe90f08b7d2951b2d317bb7bc526d1b21443482361c394dfc033eaf38111b5: ad07a_111b5_2b397e4a5b027b031b1399abb307e1e6
+      c76a5aab5ad1ba36d361aad403a3fa5db69cb623703fd6f1fa3cb8974b250f52b70f397771b0db639541a5fa3d6be4361f09b9c22071f9e67ad1c1f47de3041a43e5de461bec87dec34be2d3f220125c4581b55b750ffbfab21081625cbe84defcf6b8ac30b56464aa62c2b6f241381f0e4cfe0e0ab567de298e1186729154664bb1f2a4012e1f17e192f9603fe6eb955db6f3ea2eb95b0d9f30778e66cfeaa01f25cbf4f55cd4fa086d613b2f0901f492f417aac163a8d78054d7b5c277142081289e050e66b62ef7cf05bdf6351173c14e87e77a67a408cd2514e2f953bcf2f8d356ded12e74a4bcdae360884ca02b4ff4238b2e655a67a2b56a2771cc4f17: c76a5_c4f17_1de83d5045c7a979e4fc3093974374e2
+      c868e8859d449bfd848eecaf05581201d3dc5e2447805bfed64156c0d35409feb01532d4e6e7941d818c083d7cb8f25b503859b8b56e70be52dfcdc54b5a543ff4597c4c23858792c02429837761fac86366f87bb794fb4282344719ffc5adb4233515020db751ee16f8087fae4c7f79c8d830f88545ae21258515d612024289c839104379ed2df93c60f244cca0cff1422f147267d266eec75e23ac58707241989dd74ebdf746835df14bfde77cb3218bb69c32da5adc9e691cbe53f4495f7c3eeec639533412009ea460f4ca9c0b5819058aecccaff91ad853d3e8bef0b93bef0fa8bb345be003374dbb3bf4d64d1b87f7e2ceec8627fcfadfb522c9a6bd4d: c868e_6bd4d_31d89859f63b6f4b511a038636a96fe3
+      d087ffebe42122d7348e1fc3b5148b0bd91df90e04a38597123e50667d202c22cf222c5070e3ca67bbfc27f6e1ae8ed39c3705ecb3aa2b3ae5496f5c74e74176b9415d1269e1788477d303052eea9b362d0768756ae9081d06a59161e4fa238b5447e2cd94470a543a4ea7f26604642b78743eddab9c66cb7166aacaff70a9bbd25cd608e0f3274387376f37d3cc303339789c1a83ec4bea84e179b0a8aa780b6c27ffee226d198e0922da3a9499d4201e33137c02b269d4028d5d5ba05f56e0fd418fa4ee8db540c28ebafa4e0860c594257d29c176e100be6c38dd72e2706a89b1e10691479e869fe58ff8bafc723f39be11700444393d9f5a4b3aa75a49ef: d087f_a49ef_2f8f374c18323ee47d41e9ec39e4a14a

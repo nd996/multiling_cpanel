@@ -1,0 +1,136 @@
+<h1>Word Families</h1>
+<h4 class="w3-padding-top w3-padding-bottom">
+    <p class="w3-padding-bottom">
+        Click on a language and search for a word to see if it is part of the 5,000 most frequent word families. The
+        'Family Members' column shows the full set of word forms that belong to each family.
+        Choose 'Flemmas'<sup>1</sup> to see inflected forms only. Choose 'Word Families'<sup>2</sup> to see inflected
+        forms and derived forms.
+    </p>
+    </p>
+    These sets can be adapted to create bespoke profiles using the 'Remove Inflected Forms' and 'Add Derived Forms'
+    dropdowns on the MultilingProfiler page.
+    </p>
+</h4>
+
+
+
+
+<h3 class="w3-center">Choose word definition</br>
+    <span>
+        <button id="switch_wf2" class="w3-button w3-large w3-square wf-on switcher">Flemmas</button>
+    </span>
+
+    <span>
+        <button id="switch_wf3" class="w3-button w3-large w3-square switcher">Word Families</button>
+
+    </span>
+    <span id="addSpinnerHere"></span>
+</h3>
+
+
+<h2>
+    <button onclick="openAccordian('fr')" class="w3-button w3-block w3-left-align"><span id="triangle_state_fr">
+            &#9656;</span>French</button>
+
+</h2>
+
+
+
+<div id="AccordianFrench" class="w3-hide">
+    <div>
+        <!--
+        <span class="w3-align-right">
+            <button class="w3-button w3-circle w3-black w3-tiny switcher">WF2</button>
+            <button class="w3-button w3-circle w3-black w3-tiny switcher">WF3</button>
+        </span>
+        -->
+
+        <table id="wordListDictFrench" class="display" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Headword</th>
+                    <th>Word Class</th>
+                    <th>Family Members</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<h2><button onclick="openAccordian('de')" class="w3-button w3-block w3-left-align"><span id="triangle_state_de">
+            &#9656;</span>German</button></h2>
+<div id="AccordianGerman" class="w3-hide">
+    <div>
+        <table id="wordListDictGerman" class="display" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Headword</th>
+                    <th>Word Class</th>
+                    <th>Family Members</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<h2><button onclick="openAccordian('es')" class="w3-button w3-block w3-left-align"><span id="triangle_state_es">
+            &#9656;</span>Spanish</button></h2>
+<div id="AccordianSpanish" class="w3-hide">
+    <div>
+        <table id="wordListDictSpanish" class="display" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Headword</th>
+                    <th>Word Class</th>
+                    <th>Family Members</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<h2 class="w3-padding-top">Notes:</h2>
+<h4>
+    <ol>
+        <li>
+            <p>MultilingProfiler currently uses flemmas as the default lexical unit. Just like lemmas (i.e., level 2 of
+                <a href="https://academic.oup.com/ijl/article/6/4/253/941347" class="w3-text-orange">Bauer and
+                    Nation's</a> (1993) word families; see
+                <a href="https://oasis-database.org/concern/summaries/rv042t58r?locale=en"
+                    class="w3-text-orange">Accessible Summary</a> of the research), flemmas
+                include a headword and its inflected forms (e.g.,
+                <em>écrire, écris, écrit; arbeiten, arbeite, arbeitet; trabajar, trabajo, trabaja</em>).
+                Unlike lemmas, however, flemmas do not take part of speech into account.
+                For instance, <em>sourire</em> (as a noun and a verb), <em>mein</em> (as an adjective and pronoun) and
+                <em>demasiado</em> (as an adjective and adverb) are each one flemma. The two parts of speech they
+                comprise are two lemmas.
+        </li>
+        </p>
+        <p class="w3-padding-top">Derived forms of headwords and the inflected forms of these are flemmas in their own
+            right. For instance, <em>utile</em> and
+            <em>inutile</em>; <em>arbeiten</em> and <em>Arbeit</em> and <em>trabajar</em> and <em>trabajador</em> are
+            separate flemmas.
+            There are three exceptions to this:<br />
+            (i) French and Spanish place names (e.g., <em>Paris</em> and <em>Espagne</em>) are included in the same word
+            families as their adjectival forms
+            (e.g., <em>parisienne</em> and <em>espagnol</em>). German place names and their adjectival equivalents are
+            separate word families.<br>(ii) German
+            adjectival participles (e.g., <em>bildend</em>, <em>bildende</em>, <em>gebildet</em>, <em>gebildetem</em>)
+            are included in the same word families as
+            the verb from which they are derived (e.g., <em>bilden</em>).<br>(iii) Feminine forms of German agent nouns
+            (e.g., <em>Bürgerin</em>) are included in the same word families as
+            the masculine noun from which they are derived (e.g., <em>Bürger</em>).
+        </p>
+        </li>
+        <li class="w3-padding-top">
+            These word families include frequent, productive, predictable, and regular derived forms that align with the
+            <a href="https://www.gov.uk/government/consultations/gcse-modern-foreign-languages-mfl-subject-content-review"
+                class="w3-text-orange">GCSE reading exams</a> in England. You can view and (de)select these derivational
+            patterns in the 'Derived Forms' dropdown list above the profiling window.
+        </li>
+
+    </ol>
+</h4>

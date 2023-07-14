@@ -1,0 +1,8 @@
+7.1.1.1_estar	7.1.1.1_estoy	7.1.1.1_estás	7.1.1.1_está
+7.1.1.1_norte
+7.1.1.1_sur
+7.1.1.1_inglaterra
+7.1.1.1_españa
+7.1.1.1_dónde
+7.1.1.1_en
+7.1.1.1_hola

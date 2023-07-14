@@ -1,0 +1,193 @@
+<h1>Frequency Asked Questions (FAQ)</h1>
+
+<h2 class="faq_q">Q. Where do the word family member and tags come from?</h2>
+<h4 class="faq_a">
+    The lemmatisation of the word family lists is informed by the inflections
+    and tags provided in:
+    <ul class="ref_list">
+        <li>
+            TreeTagger tagset files. Available at:
+            <a class="w3-text-orange"
+                href="https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/">https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/</a>
+            [Accessed 29 September 2021].
+        </li>
+        <!-- <li>Dudenredaktion (Hrsg.). (2020). Duden online. Available at: https://www.duden.de [Accessed 17 April 2020].</li>
+        <li>WordReference English French Dictionary. (2020). Available at: https://www.wordreference.com/fr/ [Accessed 17 April 2020].</li>
+        <li>WordReference English Spanish Dictionary. (2020). Available at: https://www.wordreference.com/es/ [Accessed 17 April 2020].</li> -->
+    </ul>
+</h4>
+
+<h2 class="faq_q">Q. Which corpora are the word family lists based on?</h2>
+<h4 class="faq_a">
+    These lists are based on large (23 million words +) corpora of French,
+    German and Spanish, which include balanced samples of written, spoken,
+    literary and non-literary material. For a full description and rationale for
+    our choice of frequency lists, see
+    <a href="https://resources.ncelp.org/concern/resources/t722h880z?locale=en" class="w3-text-orange">here</a>.
+</h4>
+
+<h2 class="faq_q">Q. How are the word family lists ordered?</h2>
+<h4 class="faq_a">
+    The word family lists are ordered by the frequency ranking provided in:
+    <ul class="ref_list">
+        <li>
+            Davies, M., & Davies, K. (2019). A frequency dictionary of Spanish:
+            Core vocabulary for learners (2nd ed.). London: Routledge.
+        </li>
+        <li>
+            Tschirner, E. & Möhring, J. (2019). A frequency dictionary of
+            German: Core vocabulary for learners (2nd ed.). Oxford: Routledge.
+        </li>
+        <li>
+            Lonsdale, D. & Le Bras. Y. (2009). A frequency dictionary of French:
+            Core vocabulary for learners. Oxford: Routledge.
+        </li>
+    </ul>
+</h4>
+
+<h2 class="faq_q">Q. How does the MultilingProfiler treat multiword units?</h2>
+<h4 class="faq_a">
+    <!-- MultilingProfiler recognises multiword units in the profile window if they are included in the chosen or extended lists (e.g., <em>aujourd’hui</em>,
+    <em>s’il te plait</em>, <em>es gibt</em>), but it does not at count them as individual items in the statistical data. Therefore, the total word count for a
+    text is based on only the counts of single-word items (e.g., <em>aujourd’hui</em> will be counted as two separate words). French words which include hyphens
+    as part of the spelling (e.g., peut-être) are treated as single-word items. -->
+    <!-- MultilingProfiler recognises multiword units in the profile window if they are included in the chosen or extended lists (e.g., <em>s’il te plait</em>
+    <em>Estados Unidos</em>, <em>es gibt</em>), but only counts the individual words of which they consist as 'on the list' in the statistical data if these
+    appear on the chosen list in their own right. To include all parts of multiword units in the statistical data, any words which are not on the chosen list
+    may be added manually using the 'extend list' function.  -->
+
+    MultilingProfiler recognises multiword units (e.g., <em>s’il te plaît</em>,
+    <em>Estados Unidos</em>, <em>es gibt</em>) in the profile window if they are
+    included in the chosen or extended lists, but only counts the individual
+    words of which they consist as 'on the list' in the statistical data if
+    these appear on the chosen list in their own right. To include all parts of
+    multiword units in the statistical data, add any words that are not on the
+    chosen list as single words on separate lines using the 'extend list'
+    function.
+</h4>
+
+<!-- <h2 class="faq_q">Q. How does the MultilingProfiler treat French words with punctuation as part of the spelling?</h2>
+<h4 class="faq_a">
+    MultilingProfiler recognises French words with apostrophes and hyphens in the spelling (e.g., <em>aujourd’hui</em>, <em>c’est-à-dire</em>) in the profile
+    window, but only counts them as 'on the list' in the statistical data if the words on either side of the punctuation marks appear on the chosen list in
+    their own right. Where this is not the case, the individual words on either side of the punctuation marks (e.g., <em>aujourd</em> and <em>hui</em>) may be
+    included in the statistical data by adding them manually using the 'extend list' function. Note that MultilingProfiler does count French words with
+    punctuation as part of the spelling as individual items (e.g., <em>aujourd’hui</em> is counted as two separate words, and <em>c’est-à-dire</em> as four
+    separate words).
+</h4> -->
+
+<!-- <h2 class="faq_q">Q. How does the MultilingProfiler treat French words with apostrophes as part of the spelling?</h2>
+<h4 class="faq_a">
+    MultilingProfiler recognises French words with apostrophes in the spelling (e.g., <em>aujourd’hui</em>, <em>c’est-à-dire</em>) in the profile window, but
+    only counts them as 'on the list' in the statistical data if the words on either side of the apostrophe appear on the chosen list in their own right. Where
+    this is not the case, the individual words on either side of the apostrophe (e.g., <em>aujourd</em> and <em>hui</em>; <em>ce</em> and <em>est-à-dire</em>)
+    may be included in the statistical data by adding them manually using the 'extend list' function. Note that MultilingProfiler double counts words with
+    apostrophes as part of the spelling (e.g., it considers <em>aujourd’hui</em> and <em>c'est-à-dire</em> as two-word phrases, rather than individual words).
+</h4> -->
+
+<h2 class="faq_q">Q. How does the MultilingProfiler deal with digits?</h2>
+<h4 class="faq_a">
+    MultilingProfiler completely ignores digits when it processes texts. It will
+    not highlight them in the profile window, and will not count them as either
+    being in or out of your chosen list when calculating any of the statistical
+    measures.
+</h4>
+
+<h2 class="faq_q">
+    Q. How does the MultilingProfiler handle homonymous or polysemous words?
+</h2>
+<h4 class="faq_a">
+    <!-- At present, MultilingProfiler does not perform semantic tagging or part-of-speech tagging. Thus, it does not distinguish between homonymous or polysemous
+    words. E.g., the French word <em>lit</em> would be recognised regardless of whether it means 'bed’ or '[3rd pers. sing.] reads’. When calculating word
+    family statistics, MultilingProfiler counts homonymous and polysemous word forms as part of the word family with the highest frequency ID (e.g., it assumes
+    that <em>para</em> is part of the <em>para</em> (prep) [16] family, rather than part of the <em>parar</em> (v) [706] family). You may need to manually
+    adjust your results to accommodate this. We are working on this aspect of the profiler. -->
+    At present, MultilingProfiler does not perform semantic tagging or
+    part-of-speech tagging. Thus, it does not distinguish between homonymous or
+    polysemous words (e.g., if the Spanish word <em>para</em> is on your list,
+    it will be recognised regardless of whether it means 'in order to’ or '[3rd
+    pers. sing.] stops’). When calculating word family statistics,
+    MultilingProfiler counts homonymous and polysemous word forms as part of the
+    word family with the highest frequency rank (e.g., it assumes that
+    <em>para</em> is part of the <em>para</em> (prep) [16] family, rather than
+    part of the <em>parar</em> (v) [706] family). You may need to adjust your
+    results manually to accommodate this. We are working on this aspect of the
+    profiler.
+</h4>
+
+<h2 class="faq_q">
+    Q. How does the MultilingProfiler handle inflected forms of German separable
+    words?
+</h2>
+<h4 class="faq_a">
+    MultilingProfiler counts infinitive and non-separated forms of German
+    separable verbs (e.g., <em>ausgehen</em>, <em>ausgehe</em>), but ignores
+    separated forms (e.g., <em>gehe</em>, <em>aus</em>) unless the base verbs
+    and prefixes of which they consist appear on the list in their own right. In
+    cases where a separable verb needs to appear on the list independently from
+    its base verb and prefix, the components may be added manually using the
+    'Add To List' function.
+</h4>
+
+<h2 class="faq_q">
+    Q. How does the MultilingProfiler deal with compound words?
+</h2>
+<h4 class="faq_a">
+    MultilingProfiler does not recognise compound words unless they are included
+    in the chosen list in their own right. To profile individual parts of
+    compound words, separate them with spaces and click the 'Profile Text'
+    button. To include compound words as single words in the statistical data,
+    add them manually using the 'Add To List' function.
+</h4>
+
+<!-- <h2 class="faq_q">Q. Which word forms are *not* recognised by the MultilingProfiler?</h2>
+<h4 class="faq_a">
+    At present, the MultilingProfiler does not include passé simple forms of French verbs, subjonctif forms of French verbs other than être and avoir, or
+    Konjunktiv I forms of German verbs other than haben, sein, werden and mögen. Spanish verb families currently list past participles in the singular masculine
+    form only (and not in feminine or plural forms). These issues are being considered / in progress. Forms not included can be added manually using the 'Extend
+    List’ function.
+</h4> -->
+
+<!-- <h2 class="faq_q">Q. How does deselecting certain tenses in the 'inflected forms' dropdown affect compound tenses?</h2>
+<h4 class="faq_a">
+    Deselecting certain tenses will affect compound tenses (i.e., two-verb tenses with an auxiliary verb) of which these inflected forms are a part. For
+    example, deselecting the present tense in French (e.g., <em>avons</em>) will deselect the auxiliary verb in the perfect tense (e.g., <em>avons parlé</em>).
+    Deselecting the present tense in German (e.g., <em>hat</em>) will deselect the auxiliary verb in the perfect tense (e.g., <em>hat gesprochen</em>).
+    Deselecting the present tense in Spanish, (e.g., <em>estoy</em>) will deselect the auxiliary verb in the present continuous (e.g., <em>estoy hablando</em>).
+</h4> -->
+
+<h2 class="faq_q">
+    Q. I have deselected a pattern using the 'Remove Inflected Forms' feature.
+    Why do some word forms following this pattern still appear in black?
+</h2>
+<h4 class="faq_a">
+    At present, MutiLingProfiler is unable to perform part of speech tagging.
+    Thus, it cannot distinguish between different grammatical functions of
+    polysemous words in texts. As some inflected forms are part of more than one
+    grammatical pattern, they will remain in black unless all grammatical
+    patterns of which they are a part are deselected (e.g., <em>sois</em> in
+    French is both a present subjunctive and imperative form, so will appear in
+    orange only if both 'present subjunctive' and 'imperative' are deselected.
+    We are working on this aspect of the profiler.
+</h4>
+
+<h2 class="faq_q">
+    Q. How does the 'Remove Inflected Forms' feature deal with double object
+    pronouns in Spanish?
+</h2>
+<h4 class="faq_a">
+    Though not displayed in the word family tab, the lexical profiler includes
+    cliticised Spanish pronouns (i.e., pronouns added as a suffix to gerunds
+    (e.g.,
+    <em>celebrándome</em>, <em>celebrándomelo</em>, <em></em>imperatives (e.g.,
+    <em>celébrame</em>, <em>celébramelo</em>) and infinitives (e.g.,
+    <em>celebrarme</em>, <em>celebrármelo</em>), unless you have used the
+    'remove inflected forms' feature to exclude any of these forms. <br /><br />
+
+    MultilingProfiler ignores double object pronouns that are attached to the
+    end of an infinitive, imperative, or gerund when the 'double object
+    pronouns' option is deselected. Deselecting this option does NOT deselect
+    double pronouns (two processes that are juxtaposed) that are preverbal. If
+    you are using this profiler to create texts for the GCSE in England, you
+    will need to check for those manually.
+</h4>

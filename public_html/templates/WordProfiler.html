@@ -1,0 +1,151 @@
+<h1>MultilingProfiler</h1>
+
+<h4 class="instructions">Select the <em>list type</em> and the related options (if any) you want to use to profile your
+    text.</h4>
+
+<div class="w3-row">
+    <div class="w3-cell w3-mobile w3-padding-right list_selector profiler_options">
+        <div class="w3-cell">
+            <label>List type</label>
+
+        </div>
+
+        <select id="listChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+
+    </div>
+    <div class="w3-cell w3-mobile w3-padding-right language_selector profiler_options">
+        <label class="w3-cell w3-padding-right">Language</label>
+        <select id="languageChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+
+    <div class="w3-cell w3-mobile w3-padding-right level_selector profiler_options">
+        <label class="w3-cell">Level</label>
+        <select id="levelChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+
+    <div class="w3-cell w3-mobile w3-padding-right gcse_level_selector profiler_options">
+        <label class="w3-cell">Tier</label>
+        <select id="tierChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+
+    <div class="w3-cell w3-mobile w3-padding-right modality_selector profiler_options">
+        <label class="w3-cell">Modality</label>
+        <select id="modalityChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+
+    <div class="w3-cell w3-mobile w3-padding-right ncelp_selector profiler_options">
+        <label class="w3-cell">Year</label>
+        <select id="yearChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+    <div class="w3-cell w3-mobile w3-padding-right ncelp_selector profiler_options">
+        <label class="w3-cell">Term</label>
+        <select id="termChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+    <div class="w3-cell w3-mobile w3-padding-right ncelp_selector profiler_options">
+        <label class="w3-cell">Week</label>
+        <select id="weekChoice" class="w3-select w3-padding-right w3-border selector" name="option">
+            <option value="" disabled="disabled" selected="selected">Choose</option>
+        </select>
+    </div>
+
+    <div class="w3-cell w3-mobile w3-padding-right inf_selector profiler_options">
+        <!-- <p>Grammar Features<span class="tooltips" title="For frequency band lists, tagged extended lists, and tagged custom lists, include these grammar features as part of the word families in the output (i.e., all selected forms will appear in black).<br>Deselecting a tense will affect any related compound tenses. For more information see the FAQ."> -->
+        <label class="w3-cell">Remove Inflected Forms<span class="tooltips-grammar" title="">
+                <img src="images/help-icon-11-16.png" alt="Profile help"></span></label>
+
+        <select id="infChoose" multiple="" size="0" style="display: inline-block;">
+        </select>
+    </div>
+
+    <div class="w3-cell w3-mobile w3-padding-right dev_selector profiler_options">
+        <label class="w3-cell">Add Derived Forms<span class="tooltips-derived-forms" title="">
+                <img src="images/help-icon-11-16.png" alt="Profile help"></span></label>
+
+        <select id="devChoose" multiple="" size="0" style="display: inline-block;">
+        </select>
+    </div>
+
+</div>
+
+<div class="w3-row w3-padding-top w3-padding-bottom">
+    <h4 class="instructions" id="de-special-note"></h4>
+
+    <div class="w3-col" id="ignore_list" style="display: none; width: 30%">
+        <p class="w3-col w3-padding-top w3-left"><span class="extended_list_label">Extended</span> List <img
+                class="popup_extend" src="images/help-icon-11-16.png" width="16px" height="16px"
+                alt="Add To List help"></span></h4>
+            <!-- <button class="w3-button w3-padding-small" onclick="w3_close()" style="width: 100%">Close &times;</button> -->
+            <textarea style="width: 100%; resize: vertical" id="ignore_list_input" autocomplete="off" autocorrect="off"
+                autocapitalize="off" spellcheck="false"></textarea>
+    </div>
+    <div class="w3-col" id="paste_area" style="display: block; width: 100%">
+        <p class="w3-col w3-padding-top w3-left">Profile window<span class="tooltips"
+                title="Paste or type any text into the box below and click the 'Profile Text' button to see which words are not on your chosen list (such words will be shown in  orange).">
+                <img src="images/help-icon-11-16.png" alt="Profile help"></span><span id="addSpinnerWP"></span>
+        </p>
+
+        <div class="container">
+            <div id="editor"></div>
+        </div>
+        <p> <input id='disable_colors' type="checkbox"> Disable colour highlighting (recommended for very large texts
+            >50,000 words)</p>
+        <span class="w3-col instructions w3-left">
+            [Orange indicates words that are not in your chosen list. Visit the <a id="myFAQlink" href="#"
+                class="w3-text-orange">FAQ</a> page for more information.]</span>
+    </div>
+</div>
+
+
+<div class="w3-row">
+
+</div>
+
+<div class="w3-center w3-padding">
+    <button class="w3-button w3-2017-navy-peony w3-cell-middle createprofile" style="width: 220px" id="create">Profile
+        Text</button>
+
+</div>
+<div class="w3-center w3-padding-bottom">
+    <!-- <button class="w3-button w3-teal w3-cell-middle" id="openNav" onclick="sidebar_toggle()">&#9776;</button> -->
+    <button class="w3-button w3-teal w3-cell-middle" style="width: 220px" id="openNav" onclick="sidebar_toggle()">Add to
+        List <img class="popup_extend" src="images/help-icon-11-16.png" width="16px" height="16px"
+            alt="Add To List help"></span></button>
+    <button class="w3-button w3-black copy_profile" style="width: 220px">Copy Results</button>
+    <button class="w3-button w3-win8-crimson save_stats" style="width: 220px">Download Stats (.csv) <img
+            class="download_stats_but" src="images/help-icon-11-16.png" width="16px" height="16px"
+            alt="Add To List help"></button>
+
+</div>
+
+<div class="w3-padding col-12" align="center">
+    <table id="globalDist" style="width: 100%"></table>
+</div>
+
+<div class="w3-padding col-12" align="center">
+    <table id="wordDist" style="width: 100%"></table>
+</div>
+
+<div class="w3-padding col-12" align="center">
+    <table id="wordFamilyDist" style="width: 100%"></table>
+</div>
+
+<h4 class="instruction">Note that the statistics above do not count words which are part of multiword units and short
+    phrases added to your extended list (see section on multiword units in FAQ).</h4>
+<div class="w3-padding" id='list_notes'></div>
+<div class="w3-padding" id='other_notes'></div>
+
+</div>

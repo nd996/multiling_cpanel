@@ -1,0 +1,86 @@
+﻿7.1.1.1_estar	7.1.1.1_estoy	7.1.1.1_estás	7.1.1.1_está
+7.1.1.1_norte
+7.1.1.1_sur
+7.1.1.1_inglaterra
+7.1.1.1_españa
+7.1.1.1_dónde
+7.1.1.1_en
+7.1.1.1_hola
+7.1.1.2_nervioso	7.1.1.2_nerviosa
+7.1.1.2_tranquilo	7.1.1.2_tranquila
+7.1.1.2_serio	7.1.1.2_seria
+7.1.1.2_raro	7.1.1.2_rara
+7.1.1.2_tonto	7.1.1.2_tonta
+7.1.1.2_blanco	7.1.1.2_blanca
+7.1.1.2_cómo
+7.1.1.2_seguro	7.1.1.2_segura
+7.1.1.2_listo	7.1.1.2_lista
+7.1.1.2_sí
+7.1.1.2_no
+7.1.1.2_hoy
+7.1.1.2_muy
+7.1.1.3_ser	7.1.1.3_soy	7.1.1.3_eres	7.1.1.3_es
+7.1.1.3_alegre
+7.1.1.3_simpático	7.1.1.3_simpática
+7.1.1.3_guapo	7.1.1.3_guapa
+7.1.1.3_alto	7.1.1.3_alta
+7.1.1.3_bajo	7.1.1.3_baja
+7.1.1.3_y
+7.1.1.3_marca
+7.1.1.3_correcto	7.1.1.3_correcta
+7.1.1.3_opción
+7.1.1.4_tener	7.1.1.4_tengo	7.1.1.4_tienes	7.1.1.4_tiene
+7.1.1.4_moneda	7.1.1.5_monedas
+7.1.1.4_cama	7.1.1.5_camas
+7.1.1.4_casa	7.1.1.5_casas
+7.1.1.4_cámara	7.1.1.5_cámaras
+7.1.1.4_bicicleta	7.1.1.4_bici	7.1.1.5_bicicletas	7.1.1.5_bicis
+7.1.1.4_libro	7.1.1.5_libros
+7.1.1.4_barco	7.1.1.5_barcos
+7.1.1.4_bolígrafo	7.1.1.5_bolígrafos
+7.1.1.4_gato	7.1.1.5_gatos
+7.1.1.4_qué
+7.1.1.4_nuevo	7.1.1.4_nueva
+7.1.1.4_un	7.1.1.4_una	7.1.1.5_unos	7.1.1.5_unas
+7.1.1.4_lee
+7.1.1.4_frase	7.1.1.5_frases
+7.1.1.4_letra	7.1.1.5_letras
+7.1.1.4_papel
+7.1.1.5_amigo	7.1.1.5_amigos
+7.1.1.5_periódico	7.1.1.5_periódicos
+7.1.1.5_caballo	7.1.1.5_caballos
+7.1.1.5_teléfono	7.1.1.5_teléfonos
+7.1.1.5_planta	7.1.1.5_plantas
+7.1.1.5_botella	7.1.1.5_botellas
+7.1.1.5_revista	7.1.1.5_revistas
+7.1.1.5_pregunta	7.1.1.5_preguntas
+7.1.1.5_palabra	7.1.1.5_palabras
+7.1.1.5_tarea	7.1.1.5_tareas
+7.1.1.5_también
+7.1.1.6_quién
+7.1.1.6_hablar	7.1.1.7_hablo	7.1.1.7_hablas	7.1.1.6_habla
+7.1.1.6_comprar	7.1.1.7_compro	7.1.1.7_compras	7.1.1.6_compra
+7.1.1.6_bailar	7.1.1.7_bailo	7.1.1.7_bailas	7.1.1.6_baila
+7.1.1.6_llegar	7.1.1.7_llego	7.1.1.7_llegas	7.1.1.6_llega
+7.1.1.6_escuchar	7.1.1.7_escucho	7.1.1.7_escuchas	7.1.1.6_escucha
+7.1.1.6_amiga	7.1.1.6_amigas
+7.1.1.6_música
+7.1.1.6_tarde
+7.1.1.6_temprano
+7.1.1.6_importante
+7.1.1.6_bien
+7.1.1.6_con
+7.1.1.6_pareja	7.1.1.6_parejas
+7.1.1.7_necesitar	7.1.1.7_necesito	7.1.1.7_necesitas	7.1.1.7_necesita
+7.1.1.7_usar	7.1.1.7_uso	7.1.1.7_usas	7.1.1.7_usa
+7.1.1.7_llevar	7.1.1.7_llevo	7.1.1.7_llevas	7.1.1.7_lleva
+7.1.1.7_zapato	7.1.1.7_zapatos
+7.1.1.7_vaso	7.1.1.7_vasos
+7.1.1.7_producto	7.1.1.7_productos
+7.1.1.7_bolsa	7.1.1.7_bolsas
+7.1.1.7_camisa	7.1.1.7_camisas
+7.1.1.7_cosa	7.1.1.7_cosas
+7.1.1.7_ayuda
+7.1.1.7_voluntario	7.1.1.7_voluntaria	7.1.1.7_voluntarios	7.1.1.7_voluntarias
+7.1.1.7_gracias
+7.1.1.7_luego

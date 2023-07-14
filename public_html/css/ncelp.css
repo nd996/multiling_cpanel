@@ -1,0 +1,297 @@
+html {
+    margin: 0 auto;
+    max-width: 1020px;
+    /* max-width: 1200px; */
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+
+p {
+    font-family: "Segoe UI", "Arial", "sans-serif";
+    font-size: 16px;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.instructions {
+    color: #8c8c8c;
+}
+
+#editor {
+    border: 1px solid orange;
+    font-size: 14px;
+}
+
+#editor {
+    /* border: 5px solid; */
+    /* padding: 20px; */
+    min-width: 100%;
+    min-height: 100px;
+    height: 200px;
+    resize: vertical;
+    overflow: auto;
+}
+
+#ignore_list_input {
+    min-height: 100px;
+    height: 200px;
+    font-size: 14px;
+}
+
+.tagline {
+    color: #8c8c8c;
+}
+
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+    background: red;
+    outline: black;
+}
+
+a {
+    color: red;
+}
+
+.demo {
+    cursor: pointer;
+}
+
+.click_links {
+    cursor: pointer;
+}
+
+#homeChart {
+    margin: 0 auto;
+    max-width: 580px;
+}
+
+button {
+    word-wrap: break-word;
+    /* All browsers since IE 5.5+ */
+    overflow-wrap: break-word;
+    /* Renamed property in CSS3 draft spec */
+}
+
+em {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: circle;
+    padding-left: 2em;
+}
+
+li {}
+
+.language-select {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+/* .ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px black;
+} */
+.uitooltip {
+    padding: 8px;
+    background: orange;
+    color: black;
+    position: absolute;
+    z-index: 9999;
+    max-width: 600px;
+    -webkit-box-shadow: 0 0 5px #aaa;
+    box-shadow: 0 0 5px #aaa;
+}
+
+/* .tooltip {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+    box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    z-index: 3000;
+}
+#tooltip h3,
+#tooltip div {
+    margin: 0;
+} */
+
+.faq_q {
+    background-color: #eaeaea;
+}
+
+.faq_a {
+    margin-left: 40px;
+}
+
+#myWordFamlink {}
+
+.popup_extend {
+    vertical-align: text-top;
+}
+
+.ref_list {
+    font-size: 0.95em;
+}
+
+.text-orange {
+    color: darkorange;
+    /* font-weight: bolder; */
+    /* text-decoration: underline; */
+    /* text-decoration-color: darkorange; */
+}
+
+.w3-win8-crimson {
+    color: #fff;
+    background-color: #a20025;
+}
+
+.dt-buttons {
+    padding-top: 10px;
+}
+
+img {
+    margin: 0px;
+}
+
+/* to fit the long spanish selection */
+.vsb-menu .multi li {
+    width: 360px;
+    /* font-size: 14px !important */
+}
+
+/* .tooltips-grammar {
+    padding-bottom: 3px;
+    border: 10px black;
+} */
+/* 
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+} */
+
+/* table{
+    margin: 0 auto;
+    width: 100%;
+    clear: both;
+    border-collapse: collapse;
+    table-layout: fixed;
+    word-wrap:break-word;
+  } */
+
+.dataTable thead .sorting {
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+}
+
+.profiler_options {
+    font-size: 15px;
+}
+
+.switcher {
+    font-size: 14px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 3px;
+    /* height: 10px; */
+    /* width: 10px; */
+    background-color: #000;
+    color: #FFF;
+
+}
+
+button.wf-on {
+    background-color: orange;
+    color: #000;
+}
+
+
+@keyframes spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spinner {
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.spinner {
+    min-width: 30px;
+    min-height: 30px;
+}
+
+.spinner:before {
+    content: 'Loading…';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 24px;
+    height: 24px;
+    margin-top: -13px;
+    margin-left: -13px;
+}
+
+.spinner:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    border-top-color: orange;
+    animation: spinner .6s linear infinite;
+    -webkit-animation: spinner .6s linear infinite;
+}
+
+
+/* New CSS */
+
+#addSpinnerHere {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border: 0px solid orange;
+    margin-left: 15px;
+    margin-top: 3px;
+}
+
+#addSpinnerWP {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border: 0px solid orange;
+    margin-left: 5px;
+    margin-top: -5px;
+}
