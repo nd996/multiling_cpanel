@@ -1,2 +1,0 @@
-1176	americano_Adj/N	américa latina_NPFNG0	estados unidos_NPFNG0
-1227	británico_Adj/N	gran bretaña_NPFNG0

@@ -1,3 +1,0 @@
-2042	dominicano_Adj/N	república dominicana_NPFNG0	
-2102	árabe_Adj/N	arabia saudí_NPFNG0
-2348	soviético_Adj/N	unión soviética_NPFNG0

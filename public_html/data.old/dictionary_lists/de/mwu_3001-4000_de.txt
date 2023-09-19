@@ -1,5 +1,0 @@
-3170	Baden-Württemberg_N	baden-württemberg_NPDNS0	baden-württemberg_NPNNS0	baden-württembergs_NPGNS0
-3761	EU-Kommission_N	eu-kommission_NCAFS0	eu-kommission_NCDFS0	eu-kommission_NCGFS0	eu-kommission_NCNFS0
-3793	Sachsen-Anhalt_N	sachsen-anhalt_NPANS0	sachsen-anhalt_NPDNS0	sachsen-anhalt_NPNNS0	sachsen-anhalts_NPGNS0
-3914	T-Shirt_N	t-shirt_NCDNS0	t-shirts_NCANP0
-3969	Nordrhein-Westfalen_N	nordrhein-westfalen_NPDMS0	nordrhein-westfalen_NPDNS0	nordrhein-westfalen_NPNNS0	nordrhein-westfalens_NPGNS0
