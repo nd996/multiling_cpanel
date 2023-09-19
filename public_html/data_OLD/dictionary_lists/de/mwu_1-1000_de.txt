@@ -1,5 +1,0 @@
-409	USA | Vereinigte Staaten von Amerika_N	Vereinigte Staaten von Amerika_NPAMP0	Vereinigten Staaten von Amerika_NPDMP0	Vereinigten Staaten von Amerika_NPGMP0	Vereinigte Staaten von Amerika_NPNMP0
-726	EU | Europäische Union_N	Europäische Union_NPAFS0	Europäischen Union_NPDFS0	Europäischen Union_NPGFS0	Europäische Union_NPNFS0
-777	SPD | Sozialdemokratische Partei Deutschlands_N	Sozialdemokratische Partei Deutschlands_NPAFS0	Sozialdemokratischen Partei Deutschlands_NPDFS0	Sozialdemokratischen Partei Deutschlands_NPGFS0	Sozialdemokratische Partei Deutschlands_NPNFS0
-894	CDU | Christlich Demokratische Union Deutschlands_N	Christlich Demokratische Union Deutschlands_NPAFS0	Christlich Demokratischen Union Deutschlands_NPDFS0	Christlich Demokratischen Union Deutschlands_NPGFS0	Christlich Demokratischen Union Deutschlands_NPNFS0
-946	BGB | Bürgerliches Gesetzbuch_N	Bürgerliches Gesetzbuch_NPANS0	Bürgerlichen Gesetzbuch_NPDNS0	Bürgerlichen Gesetzbuchs_NPGNS0	Bürgerlichen Gesetzbuches_NPGNS0	Bürgerliches Gesetzbuch_NPNNS0
