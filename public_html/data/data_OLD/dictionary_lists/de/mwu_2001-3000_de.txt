@@ -1,3 +1,0 @@
-2172	E-Mail_N	e-mail_NCDFS0	e-mail_NCNFS0
-2283	FDP | Freie Demokratische Partei_N	Freie Demokratische Partei_NPAFS0	Freien Demokratischen Partei_NPDFS0	Freien Demokratischen Partei_NPGFS0	Freie Demokratische Partei_NPNFS0
-2806	EZB | Europäische Zentralbank_N	Europäische Zentralbank_NPAFS0	Europäischen Zentralbank_NPDFS0	Europäischen Zentralbank_NPGFS0	Europäische Zentralbank_NPNFS0
