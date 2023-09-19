@@ -1,0 +1,135 @@
+7.1.1.1_sein	7.1.1.1_ist	7.1.1.3_bin	7.1.1.4_bist
+7.1.1.1_Flasche
+7.1.1.1_Fenster
+7.1.1.1_Heft	7.1.2.6_Hefte
+7.1.1.1_Tafel
+7.1.1.1_Tisch	7.1.2.6_Tische
+7.1.1.1_da
+7.1.1.1_hier
+7.1.1.1_wo
+7.1.1.1_der	7.1.1.1_die	7.1.1.1_das	7.1.1.5_den
+7.1.1.1_Hallo
+7.1.1.1_Tschüs	7.1.1.1_Tschüss
+7.1.1.2_sagen	7.1.1.2_sagt	7.1.2.1_sage	7.1.2.3_sagst
+7.1.1.2_was
+7.1.1.2_Klasse
+7.1.1.2_Mann
+7.1.1.2_Paar	7.1.2.6_Paare
+7.1.1.2_Tag	7.1.2.6_Tage
+7.1.1.2_falsch
+7.1.1.2_richtig
+7.1.1.2_nicht
+7.1.1.2_oder
+7.1.1.2_ja
+7.1.1.2_nein
+7.1.1.3_ich
+7.1.1.3_Ding	7.1.2.6_Dinge
+7.1.1.3_Form
+7.1.1.3_Mensch
+7.1.1.3_blau
+7.1.1.3_gelb
+7.1.1.3_groß
+7.1.1.3_klein
+7.1.1.3_rot
+7.1.1.3_wie
+7.1.1.3_und
+7.1.1.3_ein	7.1.1.3_eine	7.1.1.6_einen
+7.1.1.3_bitte
+7.1.1.3_danke
+7.1.1.3_gut
+7.1.1.4_du
+7.1.1.4_wissen
+7.1.1.4_Farbe
+7.1.1.4_Nummer
+7.1.1.4_Ort	7.1.2.6_Orte
+7.1.1.4_Tier	7.1.2.6_Tiere
+7.1.1.4_kein	7.1.1.4_keine	7.1.1.7_keinen
+7.1.1.4_aber
+7.1.1.5_haben	7.1.1.5_hat	7.1.1.6_habe	7.1.1.6_hast
+7.1.1.5_er
+7.1.1.5_sie
+7.1.1.5_wer
+7.1.1.5_Freund	7.1.1.7_Freundin	7.1.2.6_Freunde
+7.1.1.5_Fußball	7.1.2.6_Fußbälle
+7.1.1.5_Haus
+7.1.1.5_Haustier	7.1.2.6_Haustiere
+7.1.1.5_Lehrer	7.1.1.7_Lehrerin
+7.1.1.5_Wasser
+7.1.1.5_Welt
+7.1.1.5_Wort
+7.1.1.5_wahr
+7.1.1.6_Beispiel	7.1.2.6_Beispiele
+7.1.1.6_Erste
+7.1.1.6_Frage
+7.1.1.6_Frau
+7.1.1.6_Grund	7.1.2.6_Gründe
+7.1.1.6_Hand
+7.1.1.6_Herr
+7.1.1.6_Problem	7.1.2.6_Probleme
+7.1.1.6_Schule
+7.1.1.7_Band
+7.1.1.7_Buch
+7.1.1.7_Film	7.1.2.6_Filme
+7.1.1.7_Lied
+7.1.1.7_Sänger	7.1.1.7_Sängerin
+7.1.1.7_leider
+7.1.1.7_mein	7.1.1.7_meine
+7.1.1.7_Lieblings
+7.1.2.1_lernen	7.1.2.1_lernt	7.1.2.2_lerne	7.1.2.3_lernst
+7.1.2.1_machen	7.1.2.1_macht	7.1.2.2_mache	7.1.2.3_machst
+7.1.2.1_reden	7.1.2.1_redet	7.1.2.2_rede	7.1.2.3_redest
+7.1.2.1_schreiben	7.1.2.1_schreibt	7.1.2.2_schreibe	7.1.2.3_schreibst
+7.1.2.1_spielen	7.1.2.1_spielt	7.1.2.2_spiele	7.1.2.3_spielst
+7.1.2.1_wohnen	7.1.2.1_wohnt	7.1.2.2_wohne	7.1.2.3_wohnst
+7.1.2.1_Aufgabe
+7.1.2.1_Montag	7.1.2.6_Montage
+7.1.2.1_Klassenzimmer
+7.1.2.1_Unterricht	7.1.2.6_Unterrichte
+7.1.2.1_mit
+7.1.2.2_arbeiten	7.1.2.2_arbeitet	7.1.2.2_arbeite	7.1.2.3_arbeitest
+7.1.2.2_kochen	7.1.2.2_kocht	7.1.2.2_koche	7.1.2.3_kochst
+7.1.2.2_putzen	7.1.2.2_putzt	7.1.2.2_putze
+7.1.2.2_sitzen	7.1.2.2_sitzt	7.1.2.2_sitze
+7.1.2.2_Auto
+7.1.2.2_Boden
+7.1.2.2_Garten
+7.1.2.2_Liste
+7.1.2.2_Zimmer
+7.1.2.2_Hause
+7.1.2.2_nochmal
+7.1.2.2_Hausaufgaben
+7.1.2.2_singen	7.1.2.2_singe	7.1.2.2_singt	7.1.2.3_singst
+7.1.2.3_gehen	7.1.2.3_gehe	7.1.2.3_gehst	7.1.2.3_geht
+7.1.2.3_hören	7.1.2.3_höre	7.1.2.3_hörst	7.1.2.3_hört
+7.1.2.3_tanzen	7.1.2.3_tanze	7.1.2.3_tanzt
+7.1.2.3_kaum
+7.1.2.3_manchmal
+7.1.2.3_nie
+7.1.2.3_oft
+7.1.2.3_sehr
+7.1.2.4_lesen	7.1.2.4_lese
+7.1.2.4_sprechen	7.1.2.4_spreche
+7.1.2.4_wiederholen	7.1.2.4_wiederhole	7.1.2.4_wiederholst	7.1.2.4_wiederholt
+7.1.2.4_zeigen	7.1.2.4_zeige	7.1.2.4_zeigst	7.1.2.4_zeigt
+7.1.2.4_zuhören
+7.1.2.4_Antwort
+7.1.2.4_freiwillig
+7.1.2.5_kommen	7.1.2.5_komme	7.1.2.5_kommst	7.1.2.5_kommt
+7.1.2.5_stehen	7.1.2.5_stehe	7.1.2.5_stehst	7.1.2.5_steht
+7.1.2.5_Kopf	7.1.2.6_Köpfe
+7.1.2.5_Körper
+7.1.2.5_Junge
+7.1.2.5_Mädchen
+7.1.2.5_Mutter
+7.1.2.5_Nacht	7.1.2.6_Nächte
+7.1.2.5_Tür
+7.1.2.5_Vater
+7.1.2.5_dunkel
+7.1.2.6_wünschen	7.1.2.6_wünsche	7.1.2.6_wünschst	7.1.2.6_wünscht
+7.1.2.6_Arzt	7.1.2.6_Ärzte
+7.1.2.6_Platz	7.1.2.6_Plätze
+7.1.2.6_Spiel	7.1.2.6_Spiele
+7.1.2.6_Stück	7.1.2.6_Stücke
+7.1.2.6_Zug	7.1.2.6_Züge
+7.1.2.6_grün
+7.1.2.6_auch

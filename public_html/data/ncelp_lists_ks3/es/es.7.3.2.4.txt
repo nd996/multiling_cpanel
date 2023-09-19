@@ -336,3 +336,4 @@
 7.3.2.4_tarjeta	7.3.2.4_tarjetas
 7.3.2.4_enero	7.3.2.4_eneros
 7.3.2.4_febrero	7.3.2.4_febreros
+7.3.2.4_playa	7.3.2.4_playas

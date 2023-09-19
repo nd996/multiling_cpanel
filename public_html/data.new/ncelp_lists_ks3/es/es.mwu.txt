@@ -1,0 +1,77 @@
+7.1.1.1_hasta luego
+7.1.1.2_cómo se dice
+7.1.1.4_cómo se escribe
+7.1.1.6_otra vez
+7.1.1.7_de nada
+7.1.2.4_cómo es
+7.3.1.4_a veces
+7.3.2.5_por qué
+8.1.1.1_sin embargo
+8.1.2.3_en cambio
+8.1.2.4_así que
+8.2.1.2_Estados Unidos
+8.3.1.3_de verdad
+8.3.2.4_ahora mismo
+8.3.2.6_hoy en día
+9.2.1.2_echar de menos
+9.2.1.2_echo de menos
+9.2.1.2_echas de menos
+9.2.1.2_echa de menos
+9.2.1.2_echamos de menos
+9.2.1.2_echáis de menos
+9.2.1.2_echan de menos
+9.2.1.2_eché de menos
+9.2.1.2_echaste de menos
+9.2.1.2_echó de menos
+9.2.1.2_echando de menos
+9.2.1.2_a través de
+9.2.2.1_al principio
+9.2.2.1_al final
+9.2.2.2_a pesar de
+9.2.2.2_por eso
+9.2.2.3_prestar atención
+9.2.2.3_presto atención
+9.2.2.3_prestas atención
+9.2.2.3_regresa atención
+9.2.2.3_regresamos atención
+9.2.2.3_prestáis atención
+9.2.2.3_prestan atención
+9.2.2.3_presté atención
+9.2.2.3_prestaste atención
+9.2.2.3_prestó atención
+9.2.2.3_prestaron atención
+9.3.2.1_prestaba atención
+9.3.2.1_prestabas atención
+9.2.2.3_prestando atención
+9.2.2.3_en este momento
+9.2.2.3_de repente
+9.3.1.2_a menudo
+9.3.1.4_estar a punto de
+9.3.1.4_estar a punto de
+9.3.1.4_estoy a punto de
+9.3.1.4_estás a punto de
+9.3.1.4_está a punto de
+9.3.1.4_estamos a punto de
+9.3.1.4_estáis a punto de
+9.3.1.4_están a punto de
+9.3.1.4_estando a punto de
+9.3.1.4_estaba a punto de
+9.2.2.2_estabas a punto de
+9.3.1.4_sobre todo
+9.3.1.6_de acuerdo
+9.3.1.6_lo siento
+9.3.1.6_tener ganas
+9.3.1.6_tengo ganas
+9.3.1.6_tienes ganas
+9.3.1.6_tiene ganas
+9.3.1.6_tenemos ganas
+9.3.1.6_tenéis	ganas
+9.3.1.6_tienen ganas
+9.3.1.6_tuve ganas
+9.3.1.6_tuviste ganas
+9.3.1.6_tuvo ganas
+9.3.1.6_tenía ganas
+9.3.1.6_tenías ganas
+9.3.1.6_fecha límite
+9.3.1.6_fechas límite
+9.3.2.3_por supuesto

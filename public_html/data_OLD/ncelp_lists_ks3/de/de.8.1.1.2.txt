@@ -1,0 +1,376 @@
+7.1.1.1_sein	7.1.1.1_ist	7.1.1.3_bin	7.1.1.4_bist	7.1.2.7_sind
+7.1.1.1_Flasche	7.1.2.7_Flaschen
+7.1.1.1_Fenster
+7.1.1.1_Heft	7.1.2.6_Hefte
+7.1.1.1_Tafel	7.1.2.7_Tafeln
+7.1.1.1_Tisch	7.1.2.6_Tische
+7.1.1.1_da
+7.1.1.1_hier
+7.1.1.1_wo
+7.1.1.1_der	7.1.1.1_die	7.1.1.1_das	7.1.1.5_den	7.3.1.3_dem
+7.1.1.1_Hallo
+7.1.1.1_Tschüs	7.1.1.1_Tschüss
+7.1.1.2_sagen	7.1.1.2_sagt	7.1.2.1_sage	7.1.2.3_sagst	8.1.1.1_gesagt
+7.1.1.2_was
+7.1.1.2_Klasse	7.1.2.7_Klassen
+7.1.1.2_Mann	7.2.1.2_Männer
+7.1.1.2_Paar	7.1.2.6_Paare
+7.1.1.2_Tag	7.1.2.6_Tage
+7.1.1.2_falsch
+7.1.1.2_richtig
+7.1.1.2_nicht
+7.1.1.2_oder
+7.1.1.2_ja
+7.1.1.2_nein
+7.1.1.3_ich	7.2.2.3_mir
+7.1.1.3_Ding	7.1.2.6_Dinge
+7.1.1.3_Form	7.1.2.7_Formen
+7.1.1.3_Mensch
+7.1.1.3_blau
+7.1.1.3_gelb
+7.1.1.3_groß
+7.1.1.3_klein
+7.1.1.3_rot
+7.1.1.3_wie
+7.1.1.3_und
+7.1.1.3_ein	7.1.1.3_eine	7.1.1.6_einen	8.1.1.1_einem	8.1.1.1_einer
+7.1.1.3_bitte
+7.1.1.3_danke
+7.1.1.3_gut
+7.1.1.4_du
+7.1.1.4_wissen
+7.1.1.4_Farbe	7.1.2.7_Farben
+7.1.1.4_Nummer	7.1.2.7_Nummern
+7.1.1.4_Ort	7.1.2.6_Orte
+7.1.1.4_Tier	7.1.2.6_Tiere
+7.1.1.4_kein	7.1.1.4_keine	7.1.1.7_keinen
+7.1.1.4_aber
+7.1.1.5_haben	7.1.1.5_hat	7.1.1.6_habe	7.1.1.6_hast	8.1.1.1_gehabt
+7.1.1.5_er	7.2.1.3_ihn
+7.1.1.5_sie
+7.1.1.5_wer
+7.1.1.5_Freund	7.1.1.7_Freundin	7.1.2.6_Freunde
+7.1.1.5_Fußball	7.1.2.6_Fußbälle
+7.1.1.5_Haus	7.2.1.2_Häuser
+7.1.1.5_Haustier	7.1.2.6_Haustiere
+7.1.1.5_Lehrer	7.1.1.7_Lehrerin
+7.1.1.5_Wasser
+7.1.1.5_Welt	7.1.2.7_Welten
+7.1.1.5_Wort	7.2.1.2_Wörter
+7.1.1.5_wahr
+7.1.1.6_Beispiel	7.1.2.6_Beispiele
+7.1.1.6_Erste	7.1.2.7_Ersten
+7.1.1.6_Frage	7.1.2.7_Fragen
+7.1.1.6_Frau	7.1.2.7_Frauen
+7.1.1.6_Grund	7.1.2.6_Gründe
+7.1.1.6_Hand
+7.1.1.6_Herr
+7.1.1.6_Problem	7.1.2.6_Probleme
+7.1.1.6_Schule	7.1.2.7_Schulen
+7.1.1.7_Band
+7.1.1.7_Buch	7.2.1.2_Bücher
+7.1.1.7_Film	7.1.2.6_Filme
+7.1.1.7_Lied	7.2.1.2_Lieder
+7.1.1.7_Sänger	7.1.1.7_Sängerin
+7.1.1.7_leider
+7.1.1.7_mein	7.1.1.7_meine
+7.1.1.7_Lieblings
+7.1.2.1_lernen	7.1.2.1_lernt	7.1.2.2_lerne	7.1.2.3_lernst	8.1.1.1_gelernt
+7.1.2.1_machen	7.1.2.1_macht	7.1.2.2_mache	7.1.2.3_machst	8.1.1.1_gemacht
+7.1.2.1_reden	7.1.2.1_redet	7.1.2.2_rede	7.1.2.3_redest	8.1.1.1_geredet
+7.1.2.1_schreiben	7.1.2.1_schreibt	7.1.2.2_schreibe	7.1.2.3_schreibst	8.1.1.2_geschrieben
+7.1.2.1_spielen	7.1.2.1_spielt	7.1.2.2_spiele	7.1.2.3_spielst	8.1.1.1_gespielt
+7.1.2.1_wohnen	7.1.2.1_wohnt	7.1.2.2_wohne	7.1.2.3_wohnst	8.1.1.1_gewohnt
+7.1.2.1_Aufgabe	7.1.2.7_Aufgaben
+7.1.2.1_Montag	7.1.2.6_Montage	7.3.3.2_montags
+7.1.2.1_Klassenzimmer
+7.1.2.1_Unterricht	7.1.2.6_Unterrichte
+7.1.2.1_mit
+7.1.2.2_arbeiten	7.1.2.2_arbeitet	7.1.2.2_arbeite	7.1.2.3_arbeitest	8.1.1.1_gearbeitet
+7.1.2.2_kochen	7.1.2.2_kocht	7.1.2.2_koche	7.1.2.3_kochst	8.1.1.1_gekocht
+7.1.2.2_putzen	7.1.2.2_putzt	7.1.2.2_putze	8.1.1.1_geputzt
+7.1.2.2_sitzen	7.1.2.2_sitzt	7.1.2.2_sitze
+7.1.2.2_Auto
+7.1.2.2_Boden
+7.1.2.2_Garten
+7.1.2.2_Liste	7.1.2.7_Listen
+7.1.2.2_Zimmer
+7.1.2.2_Hause
+7.1.2.2_nochmal
+7.1.2.2_Hausaufgaben
+7.1.2.2_singen	7.1.2.2_singe	7.1.2.2_singt	7.1.2.3_singst
+7.1.2.3_gehen	7.1.2.3_gehe	7.1.2.3_gehst	7.1.2.3_geht
+7.1.2.3_hören	7.1.2.3_höre	7.1.2.3_hörst	7.1.2.3_hört	8.1.1.1_gehört
+7.1.2.3_tanzen	7.1.2.3_tanze	7.1.2.3_tanzt	8.1.1.1_getanzt
+7.1.2.3_kaum
+7.1.2.3_manchmal
+7.1.2.3_nie
+7.1.2.3_oft
+7.1.2.3_sehr
+7.1.2.4_lesen	7.1.2.4_lese	7.2.2.3_liest	8.1.1.2_gelesen
+7.1.2.4_sprechen	7.1.2.4_spreche	7.2.2.3_spricht	7.2.2.4_sprichst	8.1.1.2_gesprochen
+7.1.2.4_wiederholen	7.1.2.4_wiederhole	7.1.2.4_wiederholst	7.1.2.4_wiederholt
+7.1.2.4_zeigen	7.1.2.4_zeige	7.1.2.4_zeigst	7.1.2.4_zeigt	8.1.1.1_gezeigt
+7.1.2.4_zuhören
+7.1.2.4_Antwort	7.1.2.4_Antworten
+7.1.2.4_freiwillig
+7.1.2.5_kommen	7.1.2.5_komme	7.1.2.5_kommst	7.1.2.5_kommt	8.1.1.2_gekommen
+7.1.2.5_stehen	7.1.2.5_stehe	7.1.2.5_stehst	7.1.2.5_steht
+7.1.2.5_Kopf	7.1.2.6_Köpfe
+7.1.2.5_Körper
+7.1.2.5_Junge
+7.1.2.5_Mädchen
+7.1.2.5_Mutter
+7.1.2.5_Nacht	7.3.3.2_nachts
+7.1.2.5_Tür	7.1.2.7_Türen
+7.1.2.5_Vater
+7.1.2.5_dunkel
+7.1.2.6_wünschen	7.1.2.6_wünsche	7.1.2.6_wünschst	7.1.2.6_wünscht	8.1.1.1_gewünscht
+7.1.2.6_Arzt	7.1.2.6_Ärzte
+7.1.2.6_Platz	7.1.2.6_Plätze
+7.1.2.6_Spiel	7.1.2.6_Spiele
+7.1.2.6_Stück	7.1.2.6_Stücke
+7.1.2.6_Zug	7.1.2.6_Züge
+7.1.2.6_grün
+7.1.2.6_auch
+7.1.2.7_bekommen	7.1.2.7_bekomme	7.1.2.7_bekommst	7.1.2.7_bekommt
+7.1.2.7_Familie	7.1.2.7_Familien
+7.1.2.7_Hund	7.1.2.7_Hunde
+7.1.2.7_Idee	7.1.2.7_Ideen
+7.1.2.7_Katze	7.1.2.7_Katzen
+7.1.2.7_Kirche	7.1.2.7_Kirchen
+7.1.2.7_Woche	7.1.2.7_Wochen
+7.1.2.7_früh
+7.1.2.7_schön
+7.1.2.7_spät	7.2.2.5_später
+7.2.1.1_denken	7.2.1.1_denke	7.2.1.1_denkst	7.2.1.1_denkt
+7.2.1.1_Geschenk	7.2.1.1_Geschenke
+7.2.1.1_Gutschein	7.2.1.1_Gutscheine
+7.2.1.1_Fahrrad	7.2.1.2_Fahrräder
+7.2.1.1_Handy
+7.2.1.1_Jacke	7.2.1.1_Jacken
+7.2.1.1_hässlich
+7.2.1.1_toll
+7.2.1.1_ganz
+7.2.1.1_ziemlich
+7.2.1.1_jetzt
+7.2.1.1_es
+7.2.1.1_Rad	7.2.1.2_Räder
+7.2.1.2_null
+7.2.1.2_eins	7.3.2.6_erste	7.3.2.6_ersten
+7.2.1.2_zwei	7.3.2.6_zwei	7.3.2.6_zweiten
+7.2.1.2_drei	7.3.2.6_dritte	7.3.2.6_dritten
+7.2.1.2_vier	7.3.2.6_vierte	7.3.2.6_vierten
+7.2.1.2_fünf	7.3.2.6_fünfte	7.3.2.6_fünften
+7.2.1.2_sechs	7.3.2.6_sechste	7.3.2.6_sechsten
+7.2.1.2_sieben	7.3.2.6_siebte	7.3.2.6_siebten
+7.2.1.2_acht	7.3.2.6_achte	7.3.2.6_achten
+7.2.1.2_neun	7.3.2.6_neunte	7.3.2.6_neunten
+7.2.1.2_zehn	7.3.2.6_zehnte	7.3.2.6_zehnten
+7.2.1.2_elf	7.3.2.6_elfte	7.3.2.6_elften
+7.2.1.2_zwölf	7.3.2.6_zwölfte	7.3.2.6_zwölften
+7.2.1.3_mögen	7.2.1.3_mag	7.2.1.3_magst
+7.2.1.3_ihn
+7.2.1.3_Fremdsprache	7.2.1.3_Fremdsprachen
+7.2.1.3_Kunst
+7.2.1.3_Naturwissenschaft	7.2.1.3_Naturwissenschaften
+7.2.1.3_Fach	7.2.1.3_Fächer
+7.2.1.3_Mathematik
+7.2.1.3_Deutsch
+7.2.1.4_finden	7.2.1.4_finde	7.2.1.4_findest	7.2.1.4_findet
+7.2.1.4_Essen
+7.2.1.4_Uniform	7.2.1.4_Uniformen
+7.2.1.4_langweilig
+7.2.1.4_praktisch
+7.2.1.4_schwierig
+7.2.1.4_schlecht
+7.2.1.4_wichtig
+7.2.1.4_leicht
+7.2.1.4_nett
+7.2.1.4_streng
+7.2.1.4_gesund
+7.2.1.4_lecker
+7.2.1.4_bisschen
+7.2.1.4_zu	7.3.2.6_zum	7.3.2.6_zur
+7.2.1.5_bleiben	7.2.1.5_bleibe	7.2.1.5_bleibst	7.2.1.5_bleibt
+7.2.1.5_brauchen	7.2.1.5_brauche	7.2.1.5_brauchst	7.2.1.5_braucht	8.1.1.1_gebraucht
+7.2.1.5_glauben	7.2.1.5_glaube	7.2.1.5_glaubst	7.2.1.5_glaubt	8.1.1.1_geglaubt
+7.2.1.5_heißen	7.2.1.5_heiße	7.2.1.5_heißt
+7.2.1.5_leben	7.2.1.5_lebe	7.2.1.5_lebst	7.2.1.5_lebt	8.1.1.1_gelebt
+7.2.1.5_liegen	7.2.1.5_liege	7.2.1.5_liegst	7.2.1.5_liegt	8.1.1.2_gelegen
+7.2.1.5_reisen	7.2.1.5_reise	7.2.1.5_reist	8.1.1.1_gereist
+7.2.1.5_verstehen	7.2.1.5_verstehe	7.2.1.5_verstehst	7.2.1.5_versteht
+7.2.1.5_werden		7.2.1.5_werde	7.2.1.5_wird
+7.2.1.5_Österreich
+7.2.1.5_nach
+7.2.2.1_wir
+7.2.2.1_schwimmen	7.2.2.1_schwimme	7.2.2.1_schwimmst	7.2.2.1_schwimmt
+7.2.2.1_Angst
+7.2.2.1_Einzelkind	7.2.2.1_Einzelkinder
+7.2.2.1_Moschee	7.2.2.1_Moscheen
+7.2.2.1_Schlagzeug	7.2.2.1_Schlagzeuge
+7.2.2.1_türkisch
+7.2.2.1_beide
+7.2.2.1_gemeinsam
+7.2.2.1_zusammen
+7.2.2.1_immer
+7.2.2.2_benutzen	7.2.2.2_benutze	7.2.2.2_benutzt
+7.2.2.2_essen	7.2.2.2_esse	7.2.2.3_isst	8.1.1.2_gegessen
+7.2.2.2_können	7.2.2.2_kann	7.2.2.2_kannst	7.2.2.2_kann
+7.2.2.2_sehen	7.2.2.2_sehe	7.2.2.3_sieht	7.2.2.4_siehst	8.1.1.2_gesehen
+7.2.2.2_tragen	7.2.2.2_trage	7.2.2.3_trägt	7.2.2.4_trägst	8.1.1.2_getragen
+7.2.2.2_trinken	7.2.2.2_trinke	7.2.2.2_trinkst	7.2.2.2_trinkt	8.1.1.2_getrunken
+7.2.2.2_Butterbrot	7.2.2.2_Butterbrote
+7.2.2.2_etwas
+7.2.2.2_Hose	7.2.2.2_Hosen
+7.2.2.2_Hut	7.2.2.2_Hüte
+7.2.2.2_Keks	7.2.2.2_Kekse
+7.2.2.2_Leute
+7.2.2.2_Obst
+7.2.2.3_fahren	7.2.2.3_fahre	7.2.2.3_fährt	7.2.2.4_fährst	8.1.1.2_gefahren
+7.2.2.3_geben	7.2.2.3_gebe	7.2.2.3_gibt	7.2.2.4_gibst	8.1.1.2_gegeben
+7.2.2.3_helfen	7.2.2.3_helfe	7.2.2.3_hilft	7.2.2.4_hilfst
+7.2.2.3_vergessen	7.2.2.3_vergesse	7.2.2.3_vergisst
+7.2.2.3_laufen	7.2.2.3_laufe	7.2.2.3_läuft	7.2.2.4_läufst	8.1.1.2_gelaufen
+7.2.2.3_schlafen	7.2.2.3_schlafe	7.2.2.3_schläft	7.2.2.4_schläfst	8.1.1.2_geschlafen
+7.2.2.3_Zeitung	7.2.2.3_Zeitungen
+7.2.2.3_Geld	7.2.2.3_Gelder
+7.2.2.3_Urlaub	7.2.2.3_Urlaube
+7.2.2.3_fast
+7.2.2.4_Nachmittag	7.2.2.4_Nachmittage	7.3.3.2_nachmittags
+7.2.2.4_Abend	7.2.2.4_Abende	7.3.3.2_abends
+7.2.2.4_Wochenende
+7.2.2.4_heute
+7.2.2.4_Fleisch
+7.2.2.4_Gemüse
+7.2.2.4_Eis
+7.2.2.4_Tasche	7.2.2.5_Taschen
+7.2.2.5_halten	7.2.2.5_halte	7.2.2.5_hältst	7.2.2.5_hält	8.1.1.2_gehalten
+7.2.2.5_lassen	7.2.2.5_lasse	7.2.2.5_lässt	8.1.1.2_gelassen
+7.2.2.5_nehmen	7.2.2.5_nehme	7.2.2.5_nimmst	7.2.2.5_nimmt
+7.2.2.5_danach
+7.2.2.5_dann
+7.2.2.5_deshalb
+7.2.2.5_schließlich
+7.2.2.5_zuerst
+7.3.1.1_Morgen	7.3.3.2_morgens
+7.3.1.1_Dienstag	7.3.1.1_Dienstage	7.3.3.2_dienstags
+7.3.1.1_Mittwoch	7.3.1.1_Mittwoche	7.3.3.2_mittwochs
+7.3.1.1_Donnerstag	7.3.1.1_Donnerstage	7.3.3.2_donnerstags
+7.3.1.1_Freitag	7.3.1.1_Freitage	7.3.3.2_freitags
+7.3.1.1_Samstag	7.3.1.1_Samstage	7.3.3.2_samstags
+7.3.1.1_Sonntag	7.3.1.1_Sonntage	7.3.3.2_sonntags
+7.3.1.1_wann
+7.3.1.1_Orchester
+7.3.1.1_Chor	7.3.1.1_Chöre
+7.3.1.1_Bibliothek	7.3.1.1_Bibliotheken
+7.3.1.1_Theater
+7.3.1.1_Verein	7.3.1.1_Vereine
+7.3.1.3_in	7.3.1.3_ins	7.3.1.3_im
+7.3.1.3_Markt	7.3.1.3_Märkte
+7.3.1.3_Straße	7.3.1.3_Straßen
+7.3.1.3_Party
+7.3.1.3_fallen	7.3.1.3_falle	7.3.1.3_fällst	7.3.1.3_fällt	8.1.1.2_gefallen
+7.3.1.3_springen	7.3.1.3_springe	7.3.1.3_springst	7.3.1.3_springt
+7.3.1.3_Geschäft	7.3.1.3_Geschäfte
+7.3.1.3_Kino
+7.3.1.3_Konzert	7.3.1.3_Konzerte
+7.3.1.3_Museum
+7.3.1.3_Stadt
+7.3.1.3_angenehm
+7.3.1.3_auf	7.3.1.3_aufs
+7.3.1.4_Bruder
+7.3.1.4_Eltern
+7.3.1.4_Kind	7.3.1.4_Kinder
+7.3.1.4_Schauspieler	7.3.1.4_Schauspielerin
+7.3.1.4_Schwester	7.3.1.4_Schwestern
+7.3.1.4_dein	7.3.1.4_deine
+7.3.1.4_ihr	7.3.1.4_ihre
+7.3.1.4_sein	7.3.1.4_seine
+7.3.1.4_über	7.3.1.4_übers
+7.3.1.4_Geschwister
+7.3.1.6_dauern	7.3.1.6_dauere	7.3.1.6_dauerst	7.3.1.6_dauert	8.1.1.1_gedauert
+7.3.1.6_erreichen	7.3.1.6_erreiche	7.3.1.6_erreichst	7.3.1.6_erreicht
+7.3.1.6_schaffen	7.3.1.6_schaffe	7.3.1.6_schaffst	7.3.1.6_schafft	8.1.1.1_geschafft
+7.3.1.6_suchen	7.3.1.6_suche	7.3.1.6_suchst	7.3.1.6_sucht	8.1.1.1_gesucht
+7.3.1.6_Land	7.3.1.6_Länder
+7.3.1.6_Schottland
+7.3.1.6_Schweiz
+7.3.1.6_Stunde	7.3.1.6_Stunden
+7.3.1.6_Wien
+7.3.1.6_normalerweise
+7.3.1.6_viel	7.3.1.6_viele
+7.3.1.6_dort
+7.3.2.3_dürfen	7.3.2.3_darf	7.3.2.3_darfst	7.3.2.3_darf
+7.3.2.3_müssen	7.3.2.3_muss	7.3.2.3_musst
+7.3.2.3_wollen	7.3.2.3_will	7.3.2.3_willst
+7.3.2.3_man
+7.3.2.3_glücklich
+7.3.2.3_genug
+7.3.2.3_krank
+7.3.2.3_ruhig
+7.3.2.3_traurig
+7.3.2.4_beginnen	7.3.2.4_beginne	7.3.2.4_beginnst	7.3.2.4_beginnt
+7.3.2.4_erhalten	7.3.2.4_erhalte	7.3.2.4_erhältst	7.3.2.4_erhält
+7.3.2.4_gewinnen	7.3.2.4_gewinne	7.3.2.4_gewinnst	7.3.2.4_gewinnt
+7.3.2.4_legen	7.3.2.4_lege	7.3.2.4_legst	7.3.2.4_legt	8.1.1.1_gelegt
+7.3.2.4_mischen	7.3.2.4_mische	7.3.2.4_mischst	7.3.2.4_mischt	8.1.1.1_gemischt
+7.3.2.4_werfen	7.3.2.4_werfe	7.3.2.4_wirfst	7.3.2.4_wirft
+7.3.2.4_ziehen	7.3.2.4_ziehe	7.3.2.4_ziehst	7.3.2.4_zieht
+7.3.2.4_Mitte	7.3.2.4_Mitten
+7.3.2.4_Punkt	7.3.2.4_Punkte
+7.3.2.4_Ziel	7.3.2.4_Ziele
+7.3.2.4_jeder	7.3.2.4_jede	7.3.2.4_jedes	7.3.2.4_jeden
+7.3.2.5_Dorf	7.3.2.5_Dörfer
+7.3.2.5_Großstadt	7.3.2.5_Großstädte
+7.3.2.5_Jahr	7.3.2.5_Jahre
+7.3.2.5_Schwimmbad	7.3.2.5_Schwimmbäder
+7.3.2.5_See	7.3.2.5_Seen
+7.3.2.5_Strand	7.3.2.5_Strände
+7.3.2.5_nächster	7.3.2.5_nächste	7.3.2.5_nächstes	7.3.2.5_nächsten
+7.3.2.5_Monat	7.3.2.5_Monate
+7.3.2.6_Bahnhof	7.3.2.6_Bahnhöfe
+7.3.2.6_Fluss	7.3.2.6_Flüsse
+7.3.2.6_Karte	7.3.2.6_Karten
+7.3.2.6_an	7.3.2.6_am
+7.3.2.6_dreizehn	7.3.2.6_dreizehnte	7.3.2.6_dreizehnten
+7.3.2.6_vierzehn	7.3.2.6_vierzehnte	7.3.2.6_vierzehnten
+7.3.2.6_fünfzehn	7.3.2.6_fünfzehnte	7.3.2.6_fünfzehnten
+7.3.2.6_sechzehn	7.3.2.6_sechzehnte	7.3.2.6_sechzehnten
+7.3.2.6_siebzehn	7.3.2.6_siebzehnte	7.3.2.6_siebzehnten
+7.3.2.6_achtzehn	7.3.2.6_achtzehnte	7.3.2.6_achtzehnten
+7.3.2.6_neunzehn	7.3.2.6_neunzehnte	7.3.2.6_neunzehnten
+7.3.2.6_zwanzig		7.3.2.6_zwanzigste	7.3.2.6_zwanzigsten
+7.3.2.6_einundzwanzig	7.3.2.6_einundzwanzigste	7.3.2.6_einundzwanzigsten
+7.3.2.6_zweiundzwanzig	7.3.2.6_zweiundzwanzigste	7.3.2.6_zweiundzwanzigsten
+7.3.2.6_dreiundzwanzig	7.3.2.6_dreiundzwanzigste	7.3.2.6_dreiundzwanzigsten
+7.3.2.6_vierundzwanzig	7.3.2.6_vierundzwanzigste	7.3.2.6_vierundzwanzigsten
+7.3.2.6_fünfundzwanzig	7.3.2.6_fünfundzwanzigste	7.3.2.6_fünfundzwanzigsten
+7.3.2.6_sechsundzwanzig	7.3.2.6_sechsundzwanzigste	7.3.2.6_sechsundzwanzigsten
+7.3.2.6_siebenundzwanzig	7.3.2.6_siebenundzwanzigste	7.3.2.6_siebenundzwanzigsten
+7.3.2.6_achtundzwanzig	7.3.2.6_achtundzwanzigste	7.3.2.6_achtundzwanzigsten
+7.3.2.6_neunundzwanzig	7.3.2.6_neunundzwanzigste	7.3.2.6_neunundzwanzigsten
+7.3.2.6_dreißig	7.3.2.6_dreißigste	7.3.2.6_dreißigsten
+7.3.2.6_einunddreißig	7.3.2.6_einunddreißigste	7.3.2.6_einunddreißigsten
+8.1.1.1_besuchen	8.1.1.1_besuche	8.1.1.1_besuchst	8.1.1.1_besucht
+8.1.1.1_erleben	8.1.1.1_erlebe	8.1.1.1_erlebst	8.1.1.1_erlebt
+8.1.1.1_kaufen	8.1.1.1_kaufe	8.1.1.1_kaufst	8.1.1.1_kauft	8.1.1.1_gekauft
+8.1.1.1_August	8.1.1.1_Auguste
+8.1.1.1_Ferien
+8.1.1.1_Juli
+8.1.1.1_Kleidung	8.1.1.1_Kleidungen
+8.1.1.1_Kultur	8.1.1.1_Kulturen
+8.1.1.1_Spaß
+8.1.1.1_Tour	8.1.1.1_Touren
+8.1.1.1_Türkei
+8.1.1.1_dieser	8.1.1.1_diese	8.1.1.1_dieses	8.1.1.1_diesen
+8.1.1.1_letzter	8.1.1.1_letzte	8.1.1.1_letztes	8.1.1.1_letzten
+8.1.1.1_schon
+8.1.1.1_selbst	8.1.1.1_selber
+8.1.1.1_so
+8.1.1.2_treffen	8.1.1.2_treffe	8.1.1.2_triffst	8.1.1.2_trifft	8.1.1.2_getroffen
+8.1.1.2_Frankreich
+8.1.1.2_Sommer
+8.1.1.2_Spanien
+8.1.1.2_bisher
+8.1.1.2_welcher	8.1.1.2_welche	8.1.1.2_welches	8.1.1.2_welchen

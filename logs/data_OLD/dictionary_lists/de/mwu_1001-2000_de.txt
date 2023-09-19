@@ -1,0 +1,2 @@
+1348	DDR | Deutsche Demokratische Republik_N	Deutsche Demokratische Republik_NPAFS0	Deutschen Demokratischen Republik_NPDFS0	Deutschen Demokratischen Republik_NPGFS0	Deutsche Demokratische Republik_NPNFS0
+1579	AfD | Alternative für Deutschland_N	Alternative für Deutschland_NPAFS0	Alternative für Deutschland_NPDFS0	Alternative für Deutschland_NPGFS0	Alternative für Deutschland_NPNFS0

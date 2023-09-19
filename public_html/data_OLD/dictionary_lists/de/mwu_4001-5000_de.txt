@@ -1,0 +1,6 @@
+4044	Rheinland-Pfalz_N	rheinland-pfalz_NPDNS0	rheinland-pfalz_NPNNS0
+4181	UNO | Vereinte Nationen_N	Vereinte Nationen_NPAFS0	Vereinten Nationen_NPDFS0	Vereinten Nationen_NPGFS0	Vereinte Nationen_NPNFS0
+4280	ÖVP | Österreichische Volkspartei_N	Österreichische Volkspartei_NPAFS0	Österreichischen Volkspartei_NPDFS0	Österreichischen Volkspartei_NPGFS0	Österreichische Volkspartei_NPNFS0
+4355	FPÖ | Freiheitliche Partei Österreichs_N	Freiheitliche Partei Österreichs_NPAFS0	Freiheitlichen Partei Österreichs_NPDFS0	Freiheitlichen Partei Österreichs_NPGFS0	Freiheitliche Partei Österreichs_NPNFS0
+4615	Saudi-Arabien_N	saudi-arabien_NPDNS0	saudi-arabiens_NPGNS0
+4744	DFB | Deutscher Fußball-Bund_N	Deutschen Fußball-Bund_NPAMS0	Deutschen Fußball-Bund_NPDMS0	Deutschen Fußball-Bunds_NPGMS0	Deutschen Fußball-Bundes_NPGMS0	Deutscher Fußball-Bund_NPNMS0

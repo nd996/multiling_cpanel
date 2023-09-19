@@ -1,0 +1,661 @@
+7.1.1.1_estar	7.1.1.1_estoy	7.1.1.1_estás	7.1.1.1_está	7.2.2.4_estamos	7.2.2.4_están
+7.1.1.1_norte
+7.1.1.1_sur
+7.1.1.1_inglaterra
+7.1.1.1_españa
+7.1.1.1_dónde
+7.1.1.1_en
+7.1.1.1_hola
+7.1.1.2_nervioso	7.1.1.2_nerviosa	7.1.2.4_nerviosos	7.1.2.4_nerviosas
+7.1.1.2_tranquilo	7.1.1.2_tranquila	7.1.2.4_tranquilos	7.1.2.4_tranquilas
+7.1.1.2_serio	7.1.1.2_seria	7.1.2.4_serios	7.1.2.4_serias
+7.1.1.2_raro	7.1.1.2_rara	7.1.2.4_raros	7.1.2.4_raras
+7.1.1.2_tonto	7.1.1.2_tonta	7.1.2.4_tontos	7.1.2.4_tontas
+7.1.1.2_blanco	7.1.1.2_blanca	7.1.2.4_blancos	7.1.2.4_blancas
+7.1.1.2_cómo
+7.1.1.2_seguro	7.1.1.2_segura	7.1.2.4_seguros	7.1.2.4_seguras
+7.1.1.2_listo	7.1.1.2_lista	7.1.2.4_listos	7.1.2.4_listas
+7.1.1.2_sí
+7.1.1.2_no
+7.1.1.2_hoy
+7.1.1.2_muy
+7.1.1.3_ser	7.1.1.3_soy	7.1.1.3_eres	7.1.1.3_es	7.1.2.4_son	7.2.2.5_somos
+7.1.1.3_alegre
+7.1.1.3_simpático	7.1.1.3_simpática	7.1.2.4_simpáticos	7.1.2.4_simpáticas
+7.1.1.3_guapo	7.1.1.3_guapa	7.1.2.4_guapos	7.1.2.4_guapas
+7.1.1.3_alto	7.1.1.3_alta	7.1.2.4_altos	7.1.2.4_altas
+7.1.1.3_bajo	7.1.1.3_baja	7.1.2.4_bajos	7.1.2.4_bajas
+7.1.1.3_y
+7.1.1.3_marca
+7.1.1.3_correcto	7.1.1.3_correcta	7.1.2.4_correctos	7.1.2.4_correctas
+7.1.1.3_opción	7.1.1.3_opciones
+7.1.1.4_tener	7.1.1.4_tengo	7.1.1.4_tienes	7.1.1.4_tiene	7.2.1.2_tenemos	7.2.1.2_tienen
+7.1.1.4_moneda	7.1.1.5_monedas
+7.1.1.4_cama	7.1.1.5_camas
+7.1.1.4_casa	7.1.1.5_casas
+7.1.1.4_cámara	7.1.1.5_cámaras
+7.1.1.4_bicicleta	7.1.1.4_bici	7.1.1.5_bicicletas	7.1.1.5_bicis
+7.1.1.4_libro	7.1.1.5_libros
+7.1.1.4_barco	7.1.1.5_barcos
+7.1.1.4_bolígrafo	7.1.1.5_bolígrafos
+7.1.1.4_gato	7.1.1.5_gatos
+7.1.1.4_qué
+7.1.1.4_nuevo	7.1.1.4_nueva	7.1.2.4_nuevos	7.1.2.4_nuevas
+7.1.1.4_un	7.1.1.4_una	7.1.1.5_unos	7.1.1.5_unas
+7.1.1.4_lee	7.3.1.4_leer	7.3.1.4_lee	7.3.1.5_leo	7.3.1.5_lees	7.3.1.6_leen	8.1.1.4_leemos	8.1.2.1_leí	8.1.2.2_leiste
+7.1.1.4_frase	7.1.1.5_frases
+7.1.1.4_letra	7.1.1.5_letras
+7.1.1.4_papel
+7.1.1.5_amigo	7.1.1.5_amigos
+7.1.1.5_periódico	7.1.1.5_periódicos
+7.1.1.5_caballo	7.1.1.5_caballos
+7.1.1.5_teléfono	7.1.1.5_teléfonos
+7.1.1.5_planta	7.1.1.5_plantas
+7.1.1.5_botella	7.1.1.5_botellas
+7.1.1.5_revista	7.1.1.5_revistas
+7.1.1.5_pregunta	7.1.1.5_preguntas
+7.1.1.5_palabra	7.1.1.5_palabras
+7.1.1.5_tarea	7.1.1.5_tareas
+7.1.1.5_también
+7.1.1.6_quién	7.2.1.4_quiénes
+7.1.1.6_hablar	7.1.1.7_hablo	7.1.1.7_hablas	7.1.1.6_habla	7.2.2.1_hablamos	7.3.1.1_hablan	8.1.1.1_hablé	8.1.1.2_hablaste	8.2.1.1_habló
+7.1.1.6_comprar	7.1.1.7_compro	7.1.1.7_compras	7.1.1.6_compra	7.2.2.1_compramos	7.3.1.1_compran	8.1.1.1_compré	8.1.1.2_compraste	8.2.1.1_compró
+7.1.1.6_bailar	7.1.1.7_bailo	7.1.1.7_bailas	7.1.1.6_baila	7.2.2.1_bailamos	7.3.1.1_bailan	8.1.1.1_bailé	8.1.1.2_bailaste	8.2.1.1_bailó
+7.1.1.6_llegar	7.1.1.7_llego	7.1.1.7_llegas	7.1.1.6_llega	7.2.2.1_llegamos	7.3.1.1_llegan	8.3.1.2_llegué	8.1.1.2_llegaste	8.2.1.1_llegó
+7.1.1.6_escuchar	7.1.1.7_escucho	7.1.1.7_escuchas	7.1.1.6_escucha	7.2.2.1_escuchamos	7.3.1.1_escuchan	8.1.1.1_escuché	8.1.1.2_escuchaste	8.2.1.1_escuchó
+7.1.1.6_amiga	7.1.1.6_amigas
+7.1.1.6_música
+7.1.1.6_tarde
+7.1.1.6_temprano
+7.1.1.6_importante	7.1.2.4_importantes
+7.1.1.6_bien
+7.1.1.6_con
+7.1.1.6_pareja	7.1.1.6_parejas
+7.1.1.7_necesitar	7.1.1.7_necesito	7.1.1.7_necesitas	7.1.1.7_necesita	7.2.2.1_necesitamos	7.3.1.1_necesitan	8.1.1.1_necesité	8.1.1.2_necesitaste	8.2.1.1_necesitó
+7.1.1.7_usar	7.1.1.7_uso	7.1.1.7_usas	7.1.1.7_usa	7.2.2.1_usamos	7.3.1.1_usan	8.1.1.1_usé	8.1.1.2_usaste	8.2.1.1_usó
+7.1.1.7_llevar	7.1.1.7_llevo	7.1.1.7_llevas	7.1.1.7_lleva	7.2.2.1_llevamos	7.3.1.1_llevan	8.1.1.1_llevé	8.1.1.2_llevaste	8.2.1.1_llevó
+7.1.1.7_zapato	7.1.1.7_zapatos
+7.1.1.7_vaso	7.1.1.7_vasos
+7.1.1.7_producto	7.1.1.7_productos
+7.1.1.7_bolsa	7.1.1.7_bolsas
+7.1.1.7_camisa	7.1.1.7_camisas
+7.1.1.7_cosa	7.1.1.7_cosas
+7.1.1.7_ayuda
+7.1.1.7_voluntario	7.1.1.7_voluntaria	7.1.1.7_voluntarios	7.1.1.7_voluntarias
+7.1.1.7_gracias
+7.1.1.7_luego
+7.1.2.1_no
+7.1.2.1_caminar	7.1.2.1_camino	7.1.2.1_caminas	7.1.2.1_camina	7.2.2.1_caminamos	7.3.1.1_caminan	8.1.1.1_caminé	8.1.1.2_caminaste	8.2.1.1_caminó
+7.1.2.1_estudiar	7.1.2.1_estudio	7.1.2.1_estudias	7.1.2.1_estudia	7.2.2.1_estudiamos	7.3.1.1_estudian	8.1.1.1_estudié	8.1.1.2_estudiaste	8.2.1.1_estudió
+7.1.2.1_español
+7.1.2.1_inglés
+7.1.2.1_arte	7.1.2.1_artes
+7.1.2.1_ciencia	7.1.2.1_ciencias
+7.1.2.1_señor	7.1.2.2_señores
+7.1.2.1_señora	7.1.2.1_señoras
+7.1.2.1_mucho	7.2.1.3_mucha	7.2.1.3_muchos	7.2.1.3_muchas
+7.1.2.1_pero
+7.1.2.1_verdadero	7.1.2.1_verdadera	7.1.2.4_verdaderos	7.1.2.4_verdaderas
+7.1.2.1_o
+7.1.2.1_falso	7.1.2.1_falsa	7.1.2.4_falsos	7.1.2.4_falsas
+7.1.2.1_entiendo	7.3.1.5_entiendes	7.3.1.4_entiende	7.3.1.6_entienden
+7.1.2.1_silencio	7.1.2.1_silencios
+7.1.2.1_grupo	7.1.2.1_grupos
+7.1.2.1_perdón
+7.1.2.2_uno
+7.1.2.2_dos
+7.1.2.2_tres
+7.1.2.2_cuatro
+7.1.2.2_cinco
+7.1.2.2_seis
+7.1.2.2_siete
+7.1.2.2_ocho
+7.1.2.2_nueve
+7.1.2.2_diez
+7.1.2.2_once
+7.1.2.2_doce
+7.1.2.2_color	7.1.2.2_colores
+7.1.2.2_plan	7.1.2.2_planes
+7.1.2.2_flor	7.1.2.2_flores
+7.1.2.2_autor	7.1.2.2_autores	7.1.2.2_autora	7.1.2.2_autoras
+7.1.2.2_profesor	7.1.2.2_profesores	7.1.2.2_profesora	7.1.2.2_profesoras
+7.1.2.2_director	7.1.2.2_directores	7.1.2.2_directora	7.1.2.2_directoras
+7.1.2.2_número	7.1.2.2_números
+7.1.2.3_hay
+7.1.2.3_mirar	7.1.2.3_miro	7.1.2.3_miras	7.1.2.3_mira	7.2.2.1_miramos	7.3.1.1_miran	8.1.1.1_miré	8.1.1.2_miraste	8.2.1.1_miró
+7.1.2.3_mesa	7.1.2.3_mesas
+7.1.2.3_silla	7.1.2.3_sillas
+7.1.2.3_ventana	7.1.2.3_ventanas
+7.1.2.3_puerta	7.1.2.3_puertas
+7.1.2.3_chica	7.1.2.3_chicas
+7.1.2.3_persona	7.1.2.3_personas
+7.1.2.3_chico	7.1.2.3_chicos
+7.1.2.3_aquí
+7.1.2.3_allí
+7.1.2.3_clase	7.1.2.3_clases
+7.2.2.3_si
+7.2.2.3_lunes
+7.2.2.3_martes
+7.2.2.3_miércoles
+7.2.2.3_jueves
+7.2.2.3_viernes
+7.2.2.3_sábado	7.2.2.3_sábados
+7.2.2.3_domingo	7.2.2.3_domingos
+7.1.2.4_pequeño	7.1.2.4_pequeña	7.1.2.4_pequeños	7.1.2.4_pequeñas
+7.1.2.4_bueno	7.1.2.4_buena	7.1.2.4_buenos	7.1.2.4_buenas	8.1.2.1_buen
+7.1.2.4_malo	7.1.2.4_mala	7.1.2.4_malos	7.1.2.4_malas	8.1.2.1_mal
+7.1.2.4_famoso	7.1.2.4_famosa	7.1.2.4_famosos	7.1.2.4_famosas
+7.1.2.4_bonito	7.1.2.4_bonita	7.1.2.4_bonitos	7.1.2.4_bonitas
+7.1.2.4_feo	7.1.2.4_fea	7.1.2.4_feos	7.1.2.4_feas
+7.1.2.4_rico	7.1.2.4_rica	7.1.2.4_ricos	7.1.2.4_ricas
+7.1.2.4_caro	7.1.2.4_cara	7.1.2.4_caros	7.1.2.4_caras
+7.1.2.4_barato	7.1.2.4_barata	7.1.2.4_baratos	7.1.2.4_baratas
+7.1.2.4_antiguo	7.1.2.4_antigua	7.1.2.4_antiguos	7.1.2.4_antiguas
+7.1.2.5_museo	7.1.2.5_museos
+7.1.2.5_banco	7.1.2.5_bancos
+7.1.2.5_teatro	7.1.2.5_teatros
+7.1.2.5_centro	7.1.2.5_centros
+7.1.2.5_mercado	7.1.2.5_mercados
+7.1.2.5_tienda	7.1.2.5_tiendas
+7.1.2.5_plaza	7.1.2.5_plazas
+7.1.2.5_iglesia	7.1.2.5_iglesias
+7.1.2.5_escuela	7.1.2.5_escuelas
+7.1.2.5_ciudad	7.1.2.5_ciudades
+7.1.2.5_entre
+7.1.2.5_el	7.1.2.6_los
+7.1.2.5_la	7.1.2.6_las
+7.1.2.5_lejos
+7.1.2.5_cerca
+7.1.2.5_respuesta	7.1.2.5_respuestas
+7.1.2.6_pueblo	7.1.2.6_pueblos
+7.1.2.6_equipo	7.1.2.6_equipos
+7.1.2.6_trabajo	7.1.2.6_trabajos
+7.1.2.6_edificio	7.1.2.6_edificios
+7.1.2.6_plato	7.1.2.6_platos
+7.1.2.6_familia	7.1.2.6_familias
+7.1.2.6_película	7.1.2.6_películas
+7.1.2.6_vista	7.1.2.6_vistas
+7.1.2.6_isla	7.1.2.6_islas
+7.1.2.6_grande	7.1.2.6_grandes
+7.1.2.6_interesante	7.1.2.6_interesantes
+7.1.2.6_de
+7.1.2.7_dar	7.1.2.7_doy	7.1.2.7_das	7.1.2.7_da	7.2.2.1_damos	7.3.1.1_dan
+7.1.2.7_querer	7.1.2.7_quiero	7.1.2.7_quieres	7.1.2.7_quiere	7.3.2.7_quieren	8.1.1.4_queremos
+7.1.2.7_regalo	7.1.2.7_regalos
+7.1.2.7_padre	7.1.2.7_padres
+7.1.2.7_madre	7.1.2.7_madres
+7.1.2.7_hermano	7.1.2.7_hermanos
+7.1.2.7_hermana	7.1.2.7_hermanas
+7.1.2.7_dinero
+7.1.2.7_a	7.3.2.4_al
+7.2.1.1_saber	7.3.1.5_sabes	7.3.1.6_saben
+7.2.1.1_pasar	7.2.1.1_paso	7.2.1.1_pasas	7.2.1.1_pasa	7.2.2.1_pasamos	7.3.1.1_pasan	8.1.1.1_pasé	8.1.1.2_pasaste	8.2.1.1_pasó
+7.2.1.1_torre	7.2.1.1_torres
+7.2.1.1_su	8.3.1.2_sus
+7.2.1.2_perro	7.2.1.2_perros
+7.2.1.2_abuelo	7.2.1.2_abuelos
+7.2.1.2_abuela	7.2.1.2_abuelas
+7.2.1.2_primo	7.2.1.2_primos
+7.2.1.2_prima	7.2.1.2_primas
+7.2.1.2_bastante
+7.2.1.2_activo	7.2.1.2_activa	7.2.1.2_activos	7.2.1.2_activas
+7.2.1.2_fuerte	7.2.1.2_fuertes
+7.2.1.2_hermoso	7.2.1.2_hermosa	7.2.1.2_hermosos	7.2.1.2_hermosas
+7.2.1.3_naturaleza	7.2.1.3_naturalezas
+7.2.1.3_árbol	7.2.1.3_árboles
+7.2.1.3_pájaro	7.2.1.3_pájaros
+7.2.1.3_río	7.2.1.3_ríos
+7.2.1.3_rojo	7.2.1.3_roja	7.2.1.3_rojos	7.2.1.3_rojas
+7.2.1.3_amarillo	7.2.1.3_amarilla	7.2.1.3_amarillos	7.2.1.3_amarillas
+7.2.1.3_verde	7.2.1.3_verdes
+7.2.1.3_azul	7.2.1.3_azules
+7.2.1.3_lugar	7.2.1.3_lugares
+7.2.1.3_sólo	7.2.1.3_solo
+7.2.1.4_cuándo
+7.2.1.4_cuánto	7.2.1.4_cuánta	7.2.1.4_cuántos	7.2.1.4_cuántas
+7.2.1.4_cuál	7.2.1.4_cuáles
+7.2.1.4_hacer	7.2.1.4_hago	7.2.1.4_haces	7.2.1.4_hace	8.1.1.4_hacemos	8.1.1.5_hacen	8.3.1.5_hice	8.3.1.5_hiciste	8.3.1.5_hizo
+7.2.1.4_deporte	7.2.1.4_deportes
+7.2.1.4_deberes
+7.2.1.4_actividad	7.2.1.4_actividades
+7.2.1.4_dibujo	7.2.1.4_dibujos
+7.2.1.4_noche	7.2.1.4_noches
+7.2.1.4_tarde	7.2.1.4_tardes
+7.2.1.4_mañana	7.2.1.4_mañanas
+7.2.1.4_de
+7.2.1.4_para
+7.2.2.1_trabajar	7.2.2.1_trabajo	7.2.2.1_trabajas	7.2.2.1_trabaja	7.2.2.1_trabajamos	7.3.1.1_trabajan	8.1.1.1_trabajé	8.1.1.2_trabajaste	8.2.1.1_trabajó
+7.2.2.1_buscar	7.2.2.1_busco	7.2.2.1_buscas	7.2.2.1_busca	7.2.2.1_buscamos	7.3.1.1_buscan	8.3.1.2_busqué	8.1.1.2_buscaste	8.2.1.1_buscó
+7.2.2.1_descansar	7.2.2.1_descanso	7.2.2.1_descansas	7.2.2.1_descansa	7.2.2.1_descansamos	7.3.1.1_descansan	8.1.1.1_descansé	8.1.1.2_descansaste	8.2.1.1_descansó
+7.2.2.1_preparar	7.2.2.1_preparo	7.2.2.1_preparas	7.2.2.1_prepara	7.2.2.1_preparamos	7.3.1.1_preparan	8.1.1.1_preparé	8.1.1.2_preparaste	8.2.1.1_preparó
+7.2.2.1_comida	7.2.2.1_comidas
+7.2.2.1_animal	7.2.2.1_animales
+7.2.2.1_pasar	7.2.2.1_paso	7.2.2.1_pasas	7.2.2.1_pasa	7.2.2.1_pasamos	7.3.1.1_pasan	8.1.1.1_pasé	8.1.1.2_pasaste	8.2.1.1_pasó
+7.2.2.1_tiempo	7.2.2.1_tiempos
+7.2.2.1_campo	7.2.2.1_campos
+7.2.2.1_junto	7.2.2.1_junta	7.2.2.1_juntos	7.2.2.1_juntas
+7.2.2.1_solo	7.2.2.1_sola	7.2.2.1_solos	7.2.2.1_solas
+7.2.2.2_poder	7.2.2.2_puedo	7.2.2.2_puedes	7.2.2.2_puede	7.3.2.7_pueden	8.1.1.4_podemos
+7.2.2.2_jugar	7.2.2.2_jugamos
+7.2.2.2_participar	7.2.2.2_participo	7.2.2.2_participas	7.2.2.2_participa	7.2.2.2_participamos	7.3.1.1_participan	8.1.1.1_participé	8.1.1.2_participaste	8.2.1.1_participó
+7.2.2.2_favor	7.2.2.2_favores
+7.2.2.2_pedir	7.2.2.2_pedimos	8.1.2.1_pedí	8.1.2.2_pediste
+7.2.2.2_preguntar	7.2.2.2_pregunto	7.2.2.2_preguntas	7.2.2.2_pregunta	7.2.2.2_preguntamos	7.3.1.1_preguntan	8.1.1.1_pregunté	8.1.1.2_preguntaste	8.2.1.1_preguntó
+7.2.2.2_cambiar	7.2.2.2_cambio	7.2.2.2_cambias	7.2.2.2_cambia	7.2.2.2_cambiamos	7.3.1.1_cambian	8.1.1.1_cambié	8.1.1.2_cambiaste	8.2.1.1_cambió
+7.2.2.2_material	7.2.2.2_materiales
+7.2.2.2_compañero	7.2.2.2_compañera	7.2.2.2_compañeros	7.2.2.2_compañeras
+7.2.2.3_deber	7.2.2.3_debo	7.2.2.3_debes	7.2.2.3_debe	7.3.1.6_deben	8.1.1.4_debemos	8.1.2.1_debí	8.1.2.2_debiste	8.2.1.2_debió
+7.2.2.3_lavar	7.2.2.3_lavo	7.2.2.3_lavas	7.2.2.3_lava	7.2.2.3_lavamos7.3.1.1_lavan	8.1.1.1_lavé	8.1.1.2_lavaste	8.2.1.1_lavó
+7.2.2.3_sacar	7.2.2.3_saco	7.2.2.3_sacas	7.2.2.3_saca	7.2.2.3_sacamos	7.3.1.1_sacan	8.3.1.2_saqué	8.1.1.2_sacaste	8.2.1.1_sacó
+7.2.2.3_limpiar	7.2.2.3_limpio	7.2.2.3_limpias	7.2.2.3_limpia	7.2.2.3_limpiamos	7.3.1.1_limpian	8.1.1.1_limpié	8.1.1.2_limpiaste	8.2.1.1_limpió
+7.2.2.3_suelo	7.2.2.3_suelos
+7.2.2.3_basura	7.2.2.3_basuras
+7.2.2.3_ropa	7.2.2.3_ropas
+7.2.2.3_organizar	7.2.2.3_organizo	7.2.2.3_organizas	7.2.2.3_organiza	7.2.2.3_organizamos	7.3.1.1_organizan	8.1.1.1_organizé	8.1.1.2_organizaste	8.2.1.1_organizó
+7.2.2.3_aunque
+7.2.2.3_otro	7.2.2.3_otra	7.2.2.3_otros	7.2.2.3_otras
+7.2.2.4_oeste	7.2.2.4_oestes
+7.2.2.4_este	7.2.2.4_estes
+7.2.2.4_estación	7.2.2.4_estaciones
+7.2.2.4_coche	7.2.2.4_coches
+7.2.2.4_tren	7.2.2.4_trenes
+7.2.2.4_delante
+7.2.2.4_fuera
+7.2.2.4_detrás
+7.2.2.4_debajo
+7.2.2.4_del
+7.2.2.5_feliz	7.2.2.5_felices
+7.2.2.5_moreno	7.2.2.5_morena	7.2.2.5_morenos	7.2.2.5_morenas
+7.2.2.5_claro	7.2.2.5_clara	7.2.2.5_claros	7.2.2.5_claras
+7.2.2.5_oscuro	7.2.2.5_oscura	7.2.2.5_oscuros	7.2.2.5_oscuras
+7.2.2.5_loco	7.2.2.5_loca	7.2.2.5_locos	7.2.2.5_locas
+7.2.2.5_aburrido	7.2.2.5_aburrida	7.2.2.5_aburridos	7.2.2.5_aburridas
+7.2.2.5_como
+7.3.1.1_viajar	7.3.1.1_viajo	7.3.1.1_viajas	7.3.1.1_viaja	7.3.1.1_viajamos	7.3.1.1_viajan	8.1.1.1_viajé	8.1.1.2_viajaste	8.2.1.1_viajó
+7.3.1.1_disfrutar	7.3.1.1_disfruto	7.3.1.1_disfrutas	7.3.1.1_disfruta	7.3.1.1_disfrutamos	7.3.1.1_disfrutan	8.1.1.1_disfruté	8.1.1.2_disfrutaste	8.2.1.1_disfrutó
+7.3.1.1_montar	7.3.1.1_monto	7.3.1.1_montas	7.3.1.1_monta	7.3.1.1_montamos	7.3.1.1_montan	8.1.1.1_monté	8.1.1.2_montaste	8.2.1.1_montó
+7.3.1.1_vacaciones
+7.3.1.1_montaña	7.3.1.1_montañas
+7.3.1.1_julio	7.3.1.1_julios
+7.3.1.1_agosto	7.3.1.1_agostos
+7.3.1.1_francia
+7.3.1.1_mar	7.3.1.1_mares
+7.3.1.1_durante
+7.3.1.1_normalmente
+7.3.1.1_cada
+7.3.1.2_hombre	7.3.1.2_hombres
+7.3.1.2_cabeza	7.3.1.2_cabezas
+7.3.1.2_pensar	7.3.1.2_pensamos
+7.3.1.2_amar	7.3.1.2_amo	7.3.1.2_amas	7.3.1.2_ama	7.3.1.2_amamos	7.3.1.2_aman	8.1.1.1_amé	8.1.1.2_amaste	8.2.1.1_amó
+7.3.1.2_sin
+7.3.1.4_beber	7.3.1.4_bebe	7.3.1.5_bebo	7.3.1.5_bebes	7.3.1.6_beben	8.1.1.4_bebemos	8.1.2.1_bebí	8.1.2.2_bebiste	8.2.1.2_bebió
+7.3.1.4_comer	7.3.1.4_come	7.3.1.5_como	7.3.1.5_comes	7.3.1.6_comen	8.1.1.4_comemos	8.1.2.1_comí	8.1.2.2_comiste	8.2.1.2_comió
+7.3.1.4_vivir	7.3.1.4_vive	7.3.1.5_vivo	7.3.1.5_vives	7.3.1.6_viven	8.1.1.7_vivimos	8.1.2.1_viví	8.1.2.2_viviste	8.2.1.2_vivió
+7.3.1.4_hombre	7.3.1.4_hombres
+7.3.1.4_ejercicio	7.3.1.4_ejercicios
+7.3.1.4_fruta	7.3.1.4_frutas
+7.3.1.4_carne	7.3.1.4_carnes
+7.3.1.4_rico	7.3.1.4_rica	7.3.1.4_ricos	7.3.1.4_ricas
+7.3.1.4_agua	7.3.1.4_aguas
+7.3.1.4_nunca
+7.3.1.5_correr	7.3.1.5_corro	7.3.1.5_corres	7.3.1.5_corre	7.3.1.6_corren	8.1.1.4_corremos	8.1.2.1_corrí	8.1.2.2_corriste	8.2.1.2_corrió
+7.3.1.5_por
+7.3.1.5_escribir	7.3.1.5_escribo	7.3.1.5_escribes	7.3.1.5_escribe	7.3.1.6_escriben	8.1.1.7_escribimos	8.1.2.1_escribí	8.1.2.2_escribiste	8.2.1.2_escribió
+7.3.1.5_aprender	7.3.1.5_aprendo	7.3.1.5_aprendes	7.3.1.5_aprende	7.3.1.6_aprenden	8.1.1.4_aprendemos	8.1.2.1_aprendí	8.1.2.2_aprendiste	8.2.1.2_aprendió
+7.3.1.5_mujer	7.3.1.5_mujeres
+7.3.1.5_carta	7.3.1.5_cartas
+7.3.1.5_idioma	7.3.1.5_idiomas
+7.3.1.5_chino
+7.3.1.5_parque	7.3.1.5_parques
+7.3.1.5_después
+7.3.1.5_siempre
+7.3.1.5_algo
+7.3.1.6_responder	7.3.1.6_respondo	7.3.1.6_respondes	7.3.1.6_responde	7.3.1.6_responden	8.1.1.4_respondemos	8.1.2.1_respondí	8.1.2.2_respondiste	8.2.1.2_respondió
+7.3.1.6_rescibir	7.3.1.6_recibo	7.3.1.6_recibes	7.3.1.6_recibe	7.3.1.6_reciben	8.1.1.7_recibimos	8.1.2.1_recibí	8.1.2.2_recibiste	8.2.1.2_recibió
+7.3.1.6_abrir	7.3.1.6_abro	7.3.1.6_abres	7.3.1.6_abre	7.3.1.6_abren	8.1.1.7_abrimos	8.1.2.1_abrí	8.1.2.2_abriste	8.2.1.2_abrió
+7.3.1.6_correo	7.3.1.6_correos
+7.3.1.6_electrónico	7.3.1.6_electrónica	7.3.1.6_electrónicos	7.3.1.6_electrónicas
+7.3.1.6_mensaje	7.3.1.6_mensajes
+7.3.1.6_llamada	7.3.1.6_llamadas
+7.3.1.6_todo	7.3.1.6_toda	7.3.1.6_todos	7.3.1.6_todas
+7.3.1.6_día	7.3.1.6_días
+7.3.2.3_mi	7.3.2.3_mis
+7.3.2.3_tu	7.3.2.3_tus
+7.3.2.3_móvil	7.3.2.3_móviles
+7.3.2.3_llave	7.3.2.3_llaves
+7.3.2.3_joven	7.3.2.3_jovenes
+7.3.2.3_perdido	7.3.2.3_perdida	7.3.2.3_perdidos	7.3.2.3_perdidas
+7.3.2.3_completamente
+7.3.2.3_calle	7.3.2.3_calles
+7.3.2.3_sólo
+7.3.2.3_niño	7.3.2.3_niños
+7.3.2.4_ir	7.3.2.4_voy	7.3.2.4_vas	7.3.2.4_va	7.3.2.5_vamos	8.1.2.5_van	8.3.1.6_fui	8.3.1.6_fuiste	8.3.1.6_fue
+7.3.2.4_barrio	7.3.2.4_barrios
+7.3.2.4_sin
+7.3.2.4_problema	7.3.2.4_problemas
+7.3.2.4_italia
+7.3.2.4_tarjeta	7.3.2.4_tarjetas
+7.3.2.4_enero	7.3.2.4_eneros
+7.3.2.4_febrero	7.3.2.4_febreros
+7.3.2.5_marzo	7.3.2.5_marzos
+7.3.2.5_abril
+7.3.2.5_porque	7.3.2.5_porque
+7.3.2.5_divertido	7.3.2.5_divertida	7.3.2.5_divertidos	7.3.2.5_divertidas
+7.3.2.5_visitar	7.3.2.5_visito	7.3.2.5_visitas	7.3.2.5_visita	7.3.2.5_visitamos	7.3.2.5_visitan	8.1.1.1_visité	8.1.1.2_visitaste	8.2.1.1_visitó
+7.3.2.5_descubrir	7.3.2.5_descubro	7.3.2.5_descubres	7.3.2.5_descubre	8.1.1.7_descubrimos	8.1.2.1_descubrí	8.1.2.2_descubriste	8.2.1.2_descubrió
+7.3.2.5_parte	7.3.2.5_partes
+7.3.2.5_extranjero
+7.3.2.5_mundo	7.3.2.5_mundos
+7.3.2.6_cielo	7.3.2.6_cielos
+7.3.2.6_cenar	7.3.2.6_ceno	7.3.2.6_cenas	7.3.2.6_cena	7.3.2.6_cenamos	7.3.2.6_cenan	8.1.1.1_cené	8.1.1.2_cenaste	8.2.1.1_cenó
+7.3.2.6_pelo	7.3.2.6_pelos
+7.3.2.6_dormir	8.1.1.7_dormimos
+8.1.1.1_aprovechar	8.1.1.1_aprovecho	8.1.1.1_aprovechas	8.1.1.1_aprovecha	8.1.1.1_aprovechamos	8.1.1.1_aprovechan	8.1.1.1_aproveché	8.1.1.2_aprovechaste	8.2.1.1_aprovechó
+8.1.1.1_quedar	8.1.1.1_quedo	8.1.1.1_quedas	8.1.1.1_queda	8.1.1.1_quedamos	8.1.1.1_quedan	8.1.1.1_quedé	8.1.1.2_quedaste	8.2.1.1_quedó
+8.1.1.1_pintar	8.1.1.1_pinto	8.1.1.1_pintas	8.1.1.1_pinta	8.1.1.1_pintamos	8.1.1.1_pintan	8.1.1.1_pinté	8.1.1.2_pintaste	8.2.1.1_pintó
+8.1.1.1_ayudar	8.1.1.1_ayudo	8.1.1.1_ayudas	8.1.1.1_ayuda	8.1.1.1_ayudamos	8.1.1.1_ayudan	8.1.1.1_ayudé	8.1.1.2_ayudaste	8.2.1.1_ayudó
+8.1.1.1_pared	8.1.1.1_paredes
+8.1.1.1_verano	8.1.1.1_veranos
+8.1.1.1_pasado	8.1.1.1_pasada	8.1.1.1_pasados	8.1.1.1_pasadas
+8.1.1.1_libre	8.1.1.1_libres
+8.1.1.1_máximo	8.1.1.1_máximos
+8.1.1.1_antes
+8.1.1.1_poco
+8.1.1.1_negro	8.1.1.1_negra	8.1.1.1_negros	8.1.1.1_negras
+8.1.1.2_cantar	8.1.1.2_canto	8.1.1.2_cantas	8.1.1.2_canta	8.1.1.2_cantamos	8.1.1.2_cantan	8.1.1.2_canté	8.1.1.2_cantaste	8.2.1.1_cantó
+8.1.1.2_tomar	8.1.1.2_tomo	8.1.1.2_tomas	8.1.1.2_toma	8.1.1.2_tomamos	8.1.1.2_toman	8.1.1.2_tomé	8.1.1.2_tomaste	8.2.1.1_tomó
+8.1.1.2_coger	8.1.1.2_cojo	8.1.1.2_coges	8.1.1.2_coge	8.1.1.2_cogen	8.1.1.4_cogemos	8.1.2.1_cogí	8.1.2.2_cogiste	8.2.1.2_cogió
+8.1.1.2_intentar	8.1.1.2_intento	8.1.1.2_intentas	8.1.1.2_intenta	8.1.1.2_intentamos	8.1.1.2_intentan	8.1.1.2_intenté	8.1.1.2_intentaste	8.2.1.1_intentó
+8.1.1.2_ganar	8.1.1.2_gano	8.1.1.2_ganas	8.1.1.2_gana	8.1.1.2_ganamos	8.1.1.2_ganan	8.1.1.2_gané	8.1.1.2_ganaste	8.2.1.1_ganó
+8.1.1.2_concierto	8.1.1.2_conciertos
+8.1.1.2_premio	8.1.1.2_premios
+8.1.1.2_año	8.1.1.2_años
+8.1.1.2_autobús	8.1.1.2_autobuses
+8.1.1.2_hasta
+8.1.1.2_además
+8.1.1.2_canción	8.1.1.2_canciones
+8.1.1.3_gente	8.1.1.3_gentes
+8.1.1.3_sucio	8.1.1.3_sucia	8.1.1.3_sucios	8.1.1.3_sucias
+8.1.1.3_limpio	8.1.1.3_limpia	8.1.1.3_limpios	8.1.1.3_limpias
+8.1.1.3_precioso	8.1.1.3_preciosa	8.1.1.3_preciosos	8.1.1.3_preciosas
+8.1.1.3_contento	8.1.1.3_contenta	8.1.1.3_contentos	8.1.1.3_contentas
+8.1.1.3_triste	8.1.1.3_tristes
+8.1.1.3_igual	8.1.1.3_iguales
+8.1.1.3_quizás
+8.1.1.3_según
+8.1.1.3_así
+8.1.1.3_generalmente
+8.1.1.3_ahora
+8.1.1.4_vender	8.1.1.4_vendo	8.1.1.4_vendes	8.1.1.4_vende	8.1.1.4_vendemos	8.1.1.4_venden	8.1.2.1_vendí	8.1.2.2_vendiste	8.2.1.2_vendió
+8.1.1.4_entender	8.1.1.4_entendemos	8.1.2.1_entendí	8.1.2.2_entendiste	8.2.1.2_entendió
+8.1.1.4_creer	8.1.1.4_creo	8.1.1.4_crees	8.1.1.4_cree	8.1.1.4_creemos	8.1.1.4_creen	8.1.2.1_creí	8.1.2.2_creiste
+8.1.1.4_esconder	8.1.1.4_escondo	8.1.1.4_escondes	8.1.1.4_esconde	8.1.1.4_escondemos	8.1.1.4_esconden	8.1.2.1_escondí	8.1.2.2_escondiste	8.2.1.2_escondió
+8.1.1.4_poner	8.1.1.4_pongo	8.1.1.4_pones	8.1.1.4_pone	8.1.1.4_ponemos	8.1.1.4_ponen
+8.1.1.4_noticia	8.1.1.4_noticias
+8.1.1.4_periodista	8.1.1.4_periodistas
+8.1.1.4_entrevista	8.1.1.4_entrevistas
+8.1.1.4_página	8.1.1.4_páginas
+8.1.1.4_sobre
+8.1.1.4_que
+8.1.1.4_realidad	8.1.1.4_realidades
+8.1.1.4_sociedad	8.1.1.4_sociedades
+8.1.1.5_cambio	8.1.1.5_cambios
+8.1.1.5_ruido	8.1.1.5_ruidos
+8.1.1.5_esfuerzo	8.1.1.5_esfuerzos
+8.1.1.5_viaje	8.1.1.5_viajes
+8.1.1.5_gesto	8.1.1.5_gestos
+8.1.1.5_amable	8.1.1.5_amables
+8.1.1.5_genial	8.1.1.5_geniales
+8.1.1.5_mientras
+8.1.1.5_yo
+8.1.1.5_tú
+8.1.1.5_él	8.1.1.5_ellos
+8.1.1.5_ella	8.1.1.5_ellas
+8.1.1.5_nosotros	8.1.1.5_nosotras
+8.1.1.6_empezar		8.1.1.6_empiezo	8.1.1.6_empiezas	8.1.1.6_empieza	8.1.1.6_empiezan	8.1.1.6_empezamos	8.1.1.6_empecé	8.1.1.6_empezaste
+8.1.1.6_terminar	8.1.1.6_termino	8.1.1.6_terminas	8.1.1.6_termina	8.1.1.6_terminamos	8.1.1.6_terminan	8.1.1.6_terminé	8.1.1.6_terminaste	8.2.1.1_terminó
+8.1.1.6_decir	8.1.2.6_dice
+8.1.1.6_ver	8.1.1.6_veo	8.1.1.6_ves	8.1.1.6_ve	8.1.1.6_vemos	8.1.1.6_ven	8.1.2.1_vi	8.1.2.2_viste
+8.1.1.6_minuto	8.1.1.6_minutos
+8.1.1.6_ejemplo	8.1.1.6_ejemplos
+8.1.1.6_opinión	8.1.1.6_opiniones
+8.1.1.6_verdad	8.1.1.6_verdades
+8.1.1.6_estudiante	8.1.1.6_estudiantes
+8.1.1.6_alemán
+8.1.1.7_permitir	8.1.1.7_permito	8.1.1.7_permites	8.1.1.7_permite	8.1.1.7_permitimos	8.1.1.7_permiten	8.1.2.1_permití	8.1.2.2_permitiste	8.2.1.2_permitió
+8.1.1.7_decidir	8.1.1.7_decido	8.1.1.7_decides	8.1.1.7_decide	8.1.1.7_decidimos	8.1.1.7_deciden	8.1.2.1_decidí	8.1.2.2_decidiste	8.2.1.2_decidió
+8.1.1.7_dividir	8.1.1.7_divido	8.1.1.7_divides	8.1.1.7_divide	8.1.1.7_dividimos	8.1.1.7_dividen	8.1.2.1_dividí	8.1.2.2_dividiste	8.2.1.2_dividió
+8.1.1.7_cubrir	8.1.1.7_cubro	8.1.1.7_cubres	8.1.1.7_cubre	8.1.1.7_cubrimos	8.1.1.7_cubren	8.1.2.1_cubrí	8.1.2.2_cubriste	8.2.1.2_cubrió
+8.1.1.7_repartir	8.1.1.7_reparto	8.1.1.7_repartes	8.1.1.7_reparte	8.1.1.7_repartimos	8.1.1.7_reparten	8.1.2.1_repartí	8.1.2.2_repartiste	8.2.1.2_repartió
+8.1.1.7_fiesta	8.1.1.7_fiestas
+8.1.1.7_canción	8.1.1.7_canciones
+8.1.1.7_bebida	8.1.1.7_bebidas
+8.1.1.7_costo	8.1.1.7_costos
+8.1.1.7_juego	8.1.1.7_juegos
+8.1.1.7_incluso
+8.1.2.1_elegir	8.1.2.1_elijo	8.1.2.1_eliges	8.1.2.1_elige	8.1.2.1_elegimos	8.1.2.1_eligen	8.1.2.1_elegí	8.1.2.2_elegiste
+8.1.2.1_describir	8.1.2.1_describo	8.1.2.1_describes	8.1.2.1_describe	8.1.2.1_describimos	8.1.2.1_describen	8.1.2.1_describí	8.1.2.2_descubriste	8.2.1.2_descubrió
+8.1.2.1_compartir	8.1.2.1_comparto	8.1.2.1_compartes	8.1.2.1_comparte	8.1.2.1_compartimos	8.1.2.1_comparten	8.1.2.1_compartí	8.1.2.2_compartiste	8.2.1.2_compartió
+8.1.2.1_imprimir	8.1.2.1_imprimo	8.1.2.1_imprimes	8.1.2.1_imprime	8.1.2.1_imprimimos	8.1.2.1_imprimen	8.1.2.1_imprimí	8.1.2.2_imprimiste	8.2.1.2_imprimió
+8.1.2.1_diálogo	8.1.2.1_diálogos
+8.1.2.1_corto	8.1.2.1_corta	8.1.2.1_cortos	8.1.2.1_cortas
+8.1.2.1_largo	8.1.2.1_larga	8.1.2.1_largos	8.1.2.1_largas
+8.1.2.1_finalmente
+8.1.2.1_mismo	8.1.2.1_misma	8.1.2.1_mismos	8.1.2.1_mismas
+8.1.2.1_último	8.1.2.1_última	8.1.2.1_últimos	8.1.2.1_últimas
+8.1.2.1_primero	8.1.2.1_primer	8.1.2.1_primera	8.1.2.1_primeros	8.1.2.1_primeras
+8.1.2.1_segundo	8.1.2.1_segunda	8.1.2.1_segundos	8.1.2.1_segundas
+8.1.2.1_tercero	8.1.2.1_tercer	8.1.2.1_tercera	8.1.2.1_terceros	8.1.2.1_terceras
+8.1.2.1_propio	8.1.2.1_propia	8.1.2.1_propios	8.1.2.1_propias
+8.1.2.2_salir	8.3.1.1_salgo	8.1.2.2_sales	8.1.2.2_sale	8.1.2.2_salimos	8.1.2.2_salen	8.1.2.2_salí	8.1.2.2_saliste	8.2.1.2_salió
+8.1.2.2_subir	8.1.2.2_subo	8.1.2.2_subes	8.1.2.2_sube	8.1.2.2_subimos	8.1.2.2_suben	8.1.2.2_subí	8.1.2.2_subiste	8.2.1.2_subió
+8.1.2.2_perder	8.1.2.2_pierdo	8.1.2.2_pierdes	8.1.2.2_pierde	8.1.2.2_perdemos	8.1.2.2_pierden	8.1.2.2_perdí	8.1.2.2_perdiste	8.2.1.2_perdió
+8.1.2.2_recoger	8.1.2.2_recojo	8.1.2.2_recoges	8.1.2.2_recoge	8.1.2.2_recogemos	8.1.2.2_recogen	8.1.2.2_recogí	8.1.2.2_recogiste	8.2.1.2_recogió
+8.1.2.2_partido	8.1.2.2_partidos
+8.1.2.2_fútbol
+8.1.2.2_entrada	8.1.2.2_entradas
+8.1.2.2_billete	8.1.2.2_billetes
+8.1.2.2_pues
+8.1.2.2_fin	8.1.2.2_fines
+8.1.2.2_semana	8.1.2.2_semanas
+8.1.2.2_jugador	8.1.2.2_jugadora	8.1.2.2_jugadores	8.1.2.2_jugadoras
+8.1.2.2_pie	8.1.2.2_pies
+8.1.2.3_cine	8.1.2.3_cines
+8.1.2.3_abierto	8.1.2.3_abierta	8.1.2.3_abiertos	8.1.2.3_abiertas
+8.1.2.3_cerrado	8.1.2.3_cerrada	8.1.2.3_cerrados	8.1.2.3_cerradas
+8.1.2.3_miedo	8.1.2.3_miedos
+8.1.2.3_razón	8.1.2.3_razones
+8.1.2.3_suerte	8.1.2.3_suertes
+8.1.2.3_éxito	8.1.2.3_éxitos
+8.1.2.3_sueño	8.1.2.3_sueños
+8.1.2.3_calor	8.1.2.3_calores
+8.1.2.3_trece
+8.1.2.3_catorce
+8.1.2.3_quince
+8.1.2.3_dieciséis
+8.1.2.3_diecisiete
+8.1.2.3_dieciocho
+8.1.2.3_diecinueve
+8.1.2.3_veinte
+8.1.2.4_paso	8.1.2.4_pasos
+8.1.2.4_apoyo	8.1.2.4_apoyos
+8.1.2.4_adelante
+8.1.2.4_atrás
+8.1.2.4_izquierda	8.1.2.4_izquierdas
+8.1.2.4_derecha	8.1.2.4_derechas
+8.1.2.4_pena	8.1.2.4_penas
+8.1.2.4_vergüenza	8.1.2.4_vergüenzas
+8.1.2.4_rabia	8.1.2.4_rabias
+8.1.2.4_tristeza	8.1.2.4_tristezas
+8.1.2.4_risa	8.1.2.4_risas
+8.1.2.4_ánimo	8.1.2.4_ánimos
+8.1.2.4_alegría	8.1.2.4_alegrías
+8.1.2.4_traducción	8.1.2.4_traducciones
+8.1.2.5_país	8.1.2.5_países
+8.1.2.5_café	8.1.2.5_cafés
+8.1.2.5_costa	8.1.2.5_costas
+8.1.2.5_presentar	8.1.2.5_presento	8.1.2.5_presentas	8.1.2.5_presenta	8.1.2.5_presentamos	8.1.2.5_presentan	8.1.2.5_presenté	8.1.2.5_presentaste	8.2.1.1_presentó
+8.1.2.5_enseñar	8.1.2.5_enseño	8.1.2.5_enseñas	8.1.2.5_enseña	8.1.2.5_enseñamos	8.1.2.5_enseñan	8.1.2.5_enseñé	8.1.2.5_enseñaste	8.2.1.1_enseñó
+8.1.2.5_tema	8.1.2.5_temas
+8.1.2.5_pronto
+8.1.2.5_próximo	8.1.2.5_próxima	8.1.2.5_próximos	8.1.2.5_próximas
+8.1.2.5_paseo	8.1.2.5_paseos
+8.1.2.5_tapa	8.1.2.5_tapas
+8.1.2.5_copa	8.1.2.5_copas
+8.1.2.6_paisaje	8.1.2.6_paisajes
+8.1.2.6_crecer	8.1.2.6_creces	8.1.2.6_crece	8.1.2.6_crecemos	8.1.2.6_crecen	8.1.2.6_crecí	8.1.2.6_creciste	8.2.1.2_crezco	8.2.1.2_creció
+8.1.2.6_desaparecer	8.1.2.6_desapareces	8.1.2.6_desaparece	8.1.2.6_desaparecemos	8.1.2.6_desaparecen	8.1.2.6_desaparecí	8.1.2.6_desapareciste	8.2.1.2_desaparezco	8.2.1.2_desapareció
+8.1.2.6_seco	8.1.2.6_seca	8.1.2.6_secos	8.1.2.6_secas
+8.1.2.6_lluvia	8.1.2.6_lluvias
+8.1.2.6_clima	8.1.2.6_climas
+8.1.2.6_mejor	8.1.2.6_mejores
+8.1.2.6_frontera	8.1.2.6_fronteras
+8.1.2.6_mil	8.1.2.6_miles
+8.1.2.6_altura	8.1.2.6_alturas
+8.1.2.6_suficiente	8.1.2.6_suficientes
+8.1.2.6_más
+8.1.2.6_vida	8.1.2.6_vidas
+8.2.1.1_crear	8.2.1.1_creo	8.2.1.1_creas	8.2.1.1_crea	8.2.1.1_creamos	8.2.1.1_crean	8.2.1.1_creé	8.2.1.1_creaste	8.2.1.1_creó
+8.2.1.1_publicar	8.2.1.1_publico	8.2.1.1_publicas	8.2.1.1_publica	8.2.1.1_publicamos	8.2.1.1_publican	8.3.1.2_publiqué	8.2.1.1_publicaste	8.2.1.1_publicó
+8.2.1.1_dejar	8.2.1.1_dejo	8.2.1.1_dejas	8.2.1.1_deja	8.2.1.1_dejamos	8.2.1.1_dejan	8.2.1.1_dejé	8.2.1.1_dejaste	8.2.1.1_dejó
+8.2.1.1_enviar	8.2.1.1_envío	8.2.1.1_envías	8.2.1.1_envía	8.2.1.1_enviamos	8.2.1.1_envían	8.2.1.1_envié	8.2.1.1_enviaste	8.2.1.1_envió
+8.2.1.1_comentario	8.2.1.1_comentarios
+8.2.1.1_foto	8.2.1.1_fotos
+8.2.1.1_red	8.2.1.1_redes
+8.2.1.1_ayer
+8.2.1.1_poco	8.2.1.1_pocos
+8.2.1.1_lado	8.2.1.1_lados
+8.2.1.1_encima
+8.2.1.2_conocer	8.2.1.2_conozco	8.2.1.2_conoces	8.2.1.2_conoce	8.2.1.2_conocemos	8.2.1.2_conocen	8.2.1.2_conocí	8.2.1.2_conociste	8.2.1.2_conoció
+8.2.1.2_ofrecer	8.2.1.2_ofrezco	8.2.1.2_ofreces	8.2.1.2_ofrece	8.2.1.2_ofrecemos	8.2.1.2_ofrecen	8.2.1.2_ofrecí	8.2.1.2_ofreciste	8.2.1.2_ofreció
+8.2.1.2_sufrir	8.2.1.2_sufro	8.2.1.2_sufres	8.2.1.2_sufre	8.2.1.2_sufrimos	8.2.1.2_sufren	8.2.1.2_sufrí	8.2.1.2_sufriste	8.2.1.2_sufrió
+8.2.1.2_romper	8.2.1.2_rompo	8.2.1.2_rompes	8.2.1.2_rompe	8.2.1.2_rompemos	8.2.1.2_rompen	8.2.1.2_rompí	8.2.1.2_rompiste	8.2.1.2_rompió
+8.2.1.2_cultura	8.2.1.2_culturas
+8.2.1.2_apenas
+8.2.1.2_accidente
+8.2.1.2_ya
+8.2.1.5_cuido	8.2.1.5_cuidas	8.2.1.5_cuida	8.2.1.5_cuidamos	8.2.1.5_cuidan	8.2.1.5_cuidé	8.2.1.5_cuidaste	8.2.1.5_cuidó
+8.2.1.5_olvido	8.2.1.5_olvidas	8.2.1.5_olvida	8.2.1.5_olvidamos	8.2.1.5_olvidan	8.2.1.5_olvidé	8.2.1.5_olvidaste	8.2.1.5_olvidó
+8.2.1.5_traer	8.2.1.5_traigo	8.2.1.5_traes	8.2.1.5_trae	8.2.1.5_traemos	8.2.1.5_traen
+8.2.1.5_salud	8.2.1.5_saludes
+8.2.1.5_novio	8.2.1.5_novios
+8.2.1.5_novia	8.2.1.5_novias
+8.2.1.5_cumpleaños
+8.2.1.5_casi
+8.2.1.6_me
+8.2.1.6_te
+8.2.1.6_despertar	8.2.1.6_despierto	8.2.1.6_despiertas	8.2.1.6_despierta	8.2.1.6_despertamos	8.2.1.6_desperté	8.2.1.6_despertaste	8.2.1.6_despertó
+8.2.1.6_levantar	8.2.1.6_levanto	8.2.1.6_levantas	8.2.1.6_levanta	8.2.1.6_levantamos	8.2.1.6_levantan	8.2.1.6_levanté	8.2.1.6_levantaste	8.2.1.6_levantó
+8.2.1.6_llamar	8.2.1.6_llamo	8.2.1.6_llamas	8.2.1.6_llama	8.2.1.6_llamamos	8.2.1.6_llaman	8.2.1.6_llamé	8.2.1.6_llamaste	8.2.1.6_llamó
+8.2.1.6_presentar	8.2.1.6_presento	8.2.1.6_presentas	8.2.1.6_presenta	8.2.1.6_presentamos	8.2.1.6_presentan	8.2.1.6_presenté	8.2.1.6_presentaste	8.2.1.6_presentó
+8.2.1.6_desayunar	8.2.1.6_desayuno	8.2.1.6_desayunas	8.2.1.6_desayuna	8.2.1.6_desayunamos	8.2.1.6_desayunan	8.2.1.6_desayuné	8.2.1.6_desayunaste	8.2.1.6_desayunó
+8.2.1.6_espejo	8.2.1.6_espejos
+8.2.1.6_pantalón	8.2.1.6_pantalones
+8.2.1.6_vestido	8.2.1.6_vestidos
+8.2.1.6_demasiado	8.2.1.6_demasiada	8.2.1.6_demasiados	8.2.1.6_demasiadas
+8.2.2.1_parar	8.2.2.1_paro	8.2.2.1_paras	8.2.2.1_para	8.2.2.1_paramos	8.2.2.1_paran	8.2.2.1_paré	8.2.2.1_paraste	8.2.2.1_paró
+8.2.2.1_acompañar	8.2.2.1_acompaño	8.2.2.1_acompañas	8.2.2.1_acompaña	8.2.2.1_acompañamos	8.2.2.1_acompañan	8.2.2.1_acompañé	8.2.2.1_acompañaste	8.2.2.1_acompañó
+8.2.2.1_saludar	8.2.2.1_saludo	8.2.2.1_saludas	8.2.2.1_saluda	8.2.2.1_saludamos	8.2.2.1_saludan	8.2.2.1_saludé	8.2.2.1_saludaste	8.2.2.1_saludó
+8.2.2.1_besar	8.2.2.1_beso	8.2.2.1_besas	8.2.2.1_besa	8.2.2.1_besamos	8.2.2.1_besan	8.2.2.1_besé	8.2.2.1_besaste	8.2.2.1_besó
+8.2.2.1_seguir	8.2.2.1_sigo	8.2.2.1_sigues	8.2.2.1_sigue	8.2.2.1_seguimos	8.2.2.1_seguí	8.2.2.1_seguiste
+8.2.2.1_policía	8.2.2.1_policías
+8.2.2.1_lo
+8.2.2.1_la
+8.2.2.2_le
+8.2.2.2_regalar	8.2.2.2_regalo	8.2.2.2_regalas	8.2.2.2_regala	8.2.2.2_regalamos	8.2.2.2_regalan	8.2.2.2_regalé	8.2.2.2_regalaste	8.2.2.2_regaló
+8.2.2.2_tirar	8.2.2.2_tiro	8.2.2.2_tiras	8.2.2.2_tiro	8.2.2.2_tiramos	8.2.2.2_tiran	8.2.2.2_tiré	8.2.2.2_tiraste	8.2.2.2_tiró
+8.2.2.2_quitar	8.2.2.2_quito	8.2.2.2_quitas	8.2.2.2_quita	8.2.2.2_quitamos	8.2.2.2_quitan	8.2.2.2_quité	8.2.2.2_quitaste	8.2.2.2_quitó
+8.2.2.2_reloj	8.2.2.2_relojes
+8.2.2.2_caja	8.2.2.2_cajas
+8.2.2.2_tarjeta	8.2.2.2_tarjetas
+8.2.2.2_lleno	8.2.2.2_llena	8.2.2.2_llenos	8.2.2.2_llenas
+8.2.2.2_vacío	8.2.2.2_vacía	8.2.2.2_vacíos	8.2.2.2_vacías
+8.2.2.3_interesar	8.2.2.3_intereso	8.2.2.3_interesas	8.2.2.3_interesa	8.2.2.3_interesamos	8.2.2.3_interesan	8.2.2.3_interesé	8.2.2.3_interesaste	8.2.2.3_interesó
+8.2.2.3_importar	8.2.2.3_importo	8.2.2.3_importas	8.2.2.3_importa	8.2.2.3_importamos	8.2.2.3_importan	8.2.2.3_importé	8.2.2.3_importaste	8.2.2.3_importó
+8.2.2.3_alegrar	8.2.2.3_alegro	8.2.2.3_alegras	8.2.2.3_alegra	8.2.2.3_alegramos	8.2.2.3_alegran	8.2.2.3_alegré	8.2.2.3_alegraste	8.2.2.3_alegró
+8.2.2.3_molestar	8.2.2.3_molesto	8.2.2.3_molestas	8.2.2.3_molesta	8.2.2.3_molestamos	8.2.2.3_molestan	8.2.2.3_molesté	8.2.2.3_molestaste	8.2.2.3_molestó
+8.2.2.3_gustar	8.2.2.3_gustar	8.2.2.3_gusto	8.2.2.3_gustas	8.2.2.3_gusta	8.2.2.3_gustamos	8.2.2.3_gustan	8.2.2.3_gusté	8.2.2.3_gustaste	8.2.2.3_gustó
+8.2.2.3_encantar	8.2.2.3_encanto	8.2.2.3_encantas	8.2.2.3_encanta	8.2.2.3_encantamos	8.2.2.3_encantan	8.2.2.3_encanté	8.2.2.3_encantaste	8.2.2.3_encantó
+8.2.2.3_preocupar	8.2.2.3_preocupo	8.2.2.3_preocupas	8.2.2.3_preocupa	8.2.2.3_preocupamos	8.2.2.3_preocupan	8.2.2.3_preocupé	8.2.2.3_preocupaste	8.2.2.3_preocupó
+8.2.2.3_difícil	8.2.2.3_difíciles
+8.2.2.3_fácil	8.2.2.3_fáciles
+8.2.2.5_llorar	8.2.2.5_lloro	8.2.2.5_lloras	8.2.2.5_llora	8.2.2.5_lloramos	8.2.2.5_lloran	8.2.2.5_lloré	8.2.2.5_lloraste	8.2.2.5_lloró
+8.2.2.5_esperar	8.2.2.5_espero	8.2.2.5_esperas	8.2.2.5_espera	8.2.2.5_esperamos	8.2.2.5_esperan	8.2.2.5_esperé	8.2.2.5_esperaste	8.2.2.5_esperó
+8.2.2.5_volver	8.2.2.5_volvemos	8.2.2.5_volví	8.2.2.5_volviste	8.2.2.5_volvió
+8.2.2.5_encontrar	8.2.2.5_encuentro	8.2.2.5_encuentras	8.2.2.1_encuentra	8.2.2.5_encuentran	8.2.2.5_encontramos	8.2.2.5_encontré	8.2.2.5_encontraste	8.2.2.5_encontró
+8.2.2.5_gritar	8.2.2.5_grito	8.2.2.5_gritas	8.2.2.5_grita	8.2.2.5_gritamos	8.2.2.5_gritan	8.2.2.5_grité	8.2.2.5_gritaste	8.2.2.5_gritó
+8.2.2.5_historia	8.2.2.5_historias
+8.2.2.5_mes	8.2.2.5_meses
+8.2.2.5_papá	8.2.2.5_papás
+8.2.2.5_mamá	8.2.2.5_mamás
+8.2.2.5_frío	8.2.2.5_fría	8.2.2.5_fríos	8.2.2.5_frías
+8.3.1.2_nuestro	8.3.1.2_nuestra
+8.3.1.2_tan
+8.3.1.2_hijo	8.3.1.2_hijos
+8.3.1.2_hija	8.3.1.2_hijas
+8.3.1.2_médico	8.3.1.2_médica	8.3.1.2_médicos	8.3.1.2_médicas
+8.3.1.2_conocido	8.3.1.2_conocida	8.3.1.2_conocidos	8.3.1.2_conocidas
+8.3.1.2_treinta
+8.3.1.2_tío	8.3.1.2_tíos
+8.3.1.2_tía	8.3.1.2_tías
+8.3.1.2_científico	8.3.1.2_científica	8.3.1.2_científicos	8.3.1.2_científicas
+8.3.1.2_abogado	8.3.1.2_abogada	8.3.1.2_abogados	8.3.1.2_abogadas
+8.3.1.2_débil	8.3.1.2_débiles
+8.3.1.2_músico	8.3.1.2_músicos	8.3.1.2_música	8.3.1.2_músicas
+8.3.1.2_veintiún
+8.3.1.2_veintidós
+8.3.1.2_veintitrés
+8.3.1.2_veinticuatro
+8.3.1.2_veinticinco
+8.3.1.2_veintiséis
+8.3.1.2_veintisiete
+8.3.1.2_veintiocho
+8.3.1.2_veintinueve
+8.3.1.3_menos
+8.3.1.3_entrar	8.3.1.3_entro	8.3.1.3_entras	8.3.1.3_entra	8.3.1.3_entramos	8.3.1.3_entran	8.3.1.3_entré	8.3.1.3_entraste	8.3.1.3_entró
+8.3.1.3_vale
+8.3.1.3_peor	8.3.1.3_peores
+8.3.1.3_ambiente	8.3.1.3_ambientes
+8.3.1.3_prestar	8.3.1.3_presto	8.3.1.3_prestas	8.3.1.3_presta	8.3.1.3_prestamos	8.3.1.3_prestan	8.3.1.3_presté	8.3.1.3_prestaste	8.3.1.3_prestó
+8.3.1.3_enfermo	8.3.1.3_enfermos	8.3.1.3_enferma	8.3.1.3_enfermas
+8.3.1.3_cansado	8.3.1.3_cansada	8.3.1.3_cansados	8.3.1.3_cansadas
+8.3.1.3_emocionado	8.3.1.3_emocionada	8.3.1.3_emocionados	8.3.1.3_emocionadas
+8.3.1.3_enojado	8.3.1.3_enojada	8.3.1.3_enojados	8.3.1.3_enojadas
+8.3.1.4_este	8.3.1.4_esta	8.3.1.4_estos	8.3.1.4_estas
+8.3.1.4_parecer	8.3.1.4_pareces	8.3.1.4_parece	8.3.1.4_parecemos	8.3.1.4_parecen	8.3.1.4_parecí	8.3.1.4_pareciste	8.3.1.4_pareció
+8.3.1.4_tipo	8.3.1.4_tipos
+8.3.1.4_precio	8.3.1.4_precios
+8.3.1.4_guardar	8.3.1.4_guardo	8.3.1.4_guardas	8.3.1.4_guarda	8.3.1.4_guardamos	8.3.1.4_guardan	8.3.1.4_guardé	8.3.1.4_guardaste	8.3.1.4_guardó
+8.3.1.4_pagar	8.3.1.4_pago	8.3.1.4_pagas	8.3.1.4_paga	8.3.1.4_pagamos	8.3.1.4_pagan	8.3.1.4_pagué	8.3.1.4_pagaste	8.3.1.4_pagó
+8.3.1.4_mitad	8.3.1.4_mitades
+8.3.1.4_marca	8.3.1.4_marcas
+8.3.1.4_ligero	8.3.1.4_ligera	8.3.1.4_ligeros	8.3.1.4_ligeras
+8.3.1.4_práctico	8.3.1.4_práctica	8.3.1.4_prácticos	8.3.1.4_prácticas
+8.3.1.4_pesado	8.3.1.4_pesada	8.3.1.4_pesados	8.3.1.4_pesadas
+8.3.1.4_euro	8.3.1.4_euros
+8.3.1.4_falda	8.3.1.4_faldas
+8.3.1.5_evitar	8.3.1.5_evito	8.3.1.5_evitas	8.3.1.5_evita	8.3.1.5_evitamos	8.3.1.5_evitan	8.3.1.5_evité	8.3.1.5_evitaste	8.3.1.5_evitó
+8.3.1.5_fila	8.3.1.5_filas
+8.3.1.5_fuego	8.3.1.5_fuegos
+8.3.1.5_fondo	8.3.1.5_fondos
+8.3.1.5_daño	8.3.1.5_daños
+8.3.1.5_habitación	8.3.1.5_habitaciones
+8.3.1.5_jardín	8.3.1.5_jardines
+8.3.1.5_mayo	8.3.1.5_mayos
+8.3.1.5_junio	8.3.1.5_junios
+8.3.1.5_viejo	8.3.1.5_vieja	8.3.1.5_viejos	8.3.1.5_viejas
+8.3.1.5_dentro
+8.3.1.5_estadio	8.3.1.5_estadios
+8.3.1.6_apoyar	8.3.1.6_apoyo	8.3.1.6_apoyas	8.3.1.6_apoya	8.3.1.6_apoyamos	8.3.1.6_apoyan	8.3.1.6_apoyé	8.3.1.6_apoyaste	8.3.1.6_apoyó
+8.3.1.6_celebrar	8.3.1.6_celebro	8.3.1.6_celebras	8.3.1.6_celebra	8.3.1.6_celebramos	8.3.1.6_celebran	8.3.1.6_celebré	8.3.1.6_celebraste	8.3.1.6_celebró
+8.3.1.6_zona	8.3.1.6_zonas
+8.3.1.6_septiembre	8.3.1.6_septiembres
+8.3.1.6_octubre	8.3.1.6_octubres
+8.3.1.6_noviembre	8.3.1.6_noviembres
+8.3.1.6_diciembre	8.3.1.6_diciembres
+8.3.1.6_colegio	8.3.1.6_colegios
+8.3.1.6_avión	8.3.1.6_aviones
+8.3.1.6_historia	8.3.1.6_historias
+8.3.1.6_directo
+8.3.1.6_simplemente
+8.3.1.6_principalmente

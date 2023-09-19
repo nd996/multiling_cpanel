@@ -1,0 +1,49 @@
+10.1.1.1	ist das klar
+10.1.1.1	wie geht's
+10.1.1.1	wie geht’s
+10.1.1.1	ich weiß
+10.1.1.1	wie sagt man
+10.1.1.1	wie schreibt man
+10.1.1.1	das ist nicht klar
+10.1.1.1	das ist klar
+10.1.1.1	ist es warm heute
+10.1.1.1	ist es kalt heute
+10.1.1.1	in der Schule
+10.1.1.1	im Klassenzimmer
+10.1.1.1	im Unterricht
+10.1.1.1	mit Freunden
+10.1.1.1	zu Hause
+10.1.1.1	ich verstehe nicht
+10.1.1.1	einmal die Woche
+10.1.1.1	jeden Tag
+10.1.1.1	es gibt
+10.1.1.1	wie viele
+10.1.1.1	ich wünsche mir
+10.1.1.1	Angst vor
+10.1.1.1	mit wem
+10.1.1.1	am Nachmittag
+10.1.1.1	am Abend
+10.1.1.1	am Wochenende
+10.1.1.1	im Orchester
+10.1.1.1	im Chor
+10.1.1.1	es gab
+10.1.1.1	auf der rechten Seite
+10.1.1.1	auf der linken Seite
+10.1.1.1	deutsche Demokratische Republik
+10.1.1.1	eines Tages
+10.1.1.1	wurde geboren
+10.1.1.1	wurdest geboren
+10.1.1.1	Europäische Union
+10.1.1.1	Vereinigte Staaten von Amerika
+10.1.1.1	nicht binär
+10.1.1.1	nicht binärer
+10.1.1.1	nicht binäre
+10.1.1.1	nicht binäres
+10.1.1.1	nicht binären
+10.1.1.6	meiner Meinung nach
+10.1.1.7	schon mal
+10.1.1.7	schon einmal
+10.2.1.2	Herzlichen Glückwunsch
+10.2.1.2	Herzlichen Glückwunsch zum Geburtstag
+10.2.2.4	T-Shirt
+10.2.2.4	T-Shirts

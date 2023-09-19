@@ -1,0 +1,39 @@
+7.1.1.1_sein	7.1.1.1_ist	7.1.1.3_bin
+7.1.1.1_Flasche
+7.1.1.1_Fenster
+7.1.1.1_Heft
+7.1.1.1_Tafel
+7.1.1.1_Tisch
+7.1.1.1_da
+7.1.1.1_hier
+7.1.1.1_wo
+7.1.1.1_der	7.1.1.1_die	7.1.1.1_das
+7.1.1.1_Hallo
+7.1.1.1_Tschüs	7.1.1.1_Tschüss
+7.1.1.2_sagen	7.1.1.2_sagt
+7.1.1.2_was
+7.1.1.2_Klasse
+7.1.1.2_Mann
+7.1.1.2_Paar
+7.1.1.2_Tag
+7.1.1.2_falsch
+7.1.1.2_richtig
+7.1.1.2_nicht
+7.1.1.2_oder
+7.1.1.2_ja
+7.1.1.2_nein
+7.1.1.3_ich
+7.1.1.3_Ding
+7.1.1.3_Form
+7.1.1.3_Mensch
+7.1.1.3_blau
+7.1.1.3_gelb
+7.1.1.3_groß
+7.1.1.3_klein
+7.1.1.3_rot
+7.1.1.3_wie
+7.1.1.3_und
+7.1.1.3_ein	7.1.1.3_eine
+7.1.1.3_bitte
+7.1.1.3_danke
+7.1.1.3_gut

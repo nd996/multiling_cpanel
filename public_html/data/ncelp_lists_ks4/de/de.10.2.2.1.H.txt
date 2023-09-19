@@ -788,7 +788,7 @@
 9.1.2.7_beschließen	9.1.2.7_beschließe	9.1.2.7_beschließt	9.1.2.7_beschlossen
 9.1.2.7_entschuldigen	9.1.2.7_entschuldige	9.1.2.7_entschuldigst	9.1.2.7_entschuldigt	9.3.2.5_entschuldigte	9.3.2.5_entschuldigtest	10.1.1.6_entschuldigten	10.1.1.6_entschuldigtet
 9.1.2.7_unterhalten	9.1.2.7_unterhalte	9.1.2.7_unterhältst		9.1.1.2_unterhält	9.1.2.7_unterhaltet
-9.1.2.7_entscheiden	9.1.2.7_entscheide	9.1.2.7_entscheidest	9.1.2.7_entscheidet	10.1.1.6_entschied	10.1.1.6_entschiedst	10.1.1.6_entschieden	10.1.1.6_entschiedet9.1.2.7_Fest	9.1.2.7_Feste	9.1.2.7_Festen
+9.1.2.7_entscheiden	9.1.2.7_entscheide	9.1.2.7_entscheidest	9.1.2.7_entscheidet	10.1.1.6_entschied	10.1.1.6_entschiedst	10.1.1.6_entschieden	10.1.1.6_entschiedet9.1.2.7_Fest	9.1.2.7_Feste	9.1.2.7_Festen
 9.1.2.7_Masse	9.1.2.7_Massen
 9.1.2.7_Stimmung	9.1.2.7_Stimmungen
 9.1.2.7_Tradition	9.1.2.7_Traditionen

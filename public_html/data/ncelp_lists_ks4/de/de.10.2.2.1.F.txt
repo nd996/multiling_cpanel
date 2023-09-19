@@ -743,7 +743,7 @@
 9.1.2.7_freuen	9.1.2.7_freue	9.1.2.7_freust	9.1.2.7_freut	9.1.2.7_gefreut
 9.1.2.7_einladen	9.2.1.4_eingeladen	9.2.1.4_einlade	9.2.1.4_einlädst	9.2.1.4_einlädt	9.2.1.4_einladet	9.3.1.1_einzuladen
 9.1.2.7_entschuldigen	9.1.2.7_entschuldige	9.1.2.7_entschuldigst	9.1.2.7_entschuldigt
-9.1.2.7_entscheiden	9.1.2.7_entscheide	9.1.2.7_entscheidest	9.1.2.7_entscheidet9.1.2.7_Fest	9.1.2.7_Feste
+9.1.2.7_entscheiden	9.1.2.7_entscheide	9.1.2.7_entscheidest	9.1.2.7_entscheidet9.1.2.7_Fest	9.1.2.7_Feste
 9.1.2.7_Masse	9.1.2.7_Massen
 9.1.2.7_Tradition	9.1.2.7_Traditionen
 9.1.2.7_kulturell	9.1.2.7_kultureller	9.1.2.7_kulturelle	9.1.2.7_kulturelles	9.1.2.7_kulturellen
